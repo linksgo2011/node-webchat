@@ -1,0 +1,2136 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"se",
+				"sectionIndex"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"ite",
+				"item1"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"cor",
+				"cover"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"des",
+				"destroy_err"
+			],
+			[
+				"open",
+				"open_id"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"user",
+				"user_record"
+			],
+			[
+				"login_",
+				"login_res"
+			],
+			[
+				"de",
+				"decodeURIComponent"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"log",
+				"logout_res"
+			],
+			[
+				"aut",
+				"auth_res"
+			],
+			[
+				"eve",
+				"EventKey"
+			],
+			[
+				"ev",
+				"EventKey"
+			],
+			[
+				"app",
+				"appid"
+			],
+			[
+				"rev",
+				"resolve	.resolve()"
+			],
+			[
+				"ope",
+				"OpenID"
+			],
+			[
+				"btn",
+				"btn_ordersearch"
+			],
+			[
+				"par",
+				"parse	$.parseXML()"
+			],
+			[
+				"post",
+				"post_data"
+			],
+			[
+				"bind",
+				"bind_res"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"reve",
+				"resolve	.resolve()"
+			],
+			[
+				"requ",
+				"request_url"
+			],
+			[
+				"msg",
+				"msg"
+			],
+			[
+				"sea",
+				"sea_url"
+			],
+			[
+				"sb",
+				"siblings	.siblings()"
+			],
+			[
+				"remve",
+				"removeClass	.removeClass()"
+			],
+			[
+				"fir",
+				"filter	.filter()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"Err",
+				"error"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"Eve",
+				"EventKey"
+			],
+			[
+				"A",
+				"Articles"
+			],
+			[
+				"form",
+				"FromUserName"
+			],
+			[
+				"fun",
+				"fun_list"
+			],
+			[
+				"com",
+				"compiled"
+			],
+			[
+				"xm",
+				"xmlParser"
+			],
+			[
+				"rqe",
+				"require"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"deli",
+				"deliveryType"
+			],
+			[
+				"new",
+				"newPickupTime"
+			],
+			[
+				"pickT",
+				"pickupTime"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"re",
+				"refund-detail"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"pur",
+				"purview_"
+			],
+			[
+				"meho",
+				"method"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"order",
+				"orderState"
+			],
+			[
+				"arr",
+				"array_chunk"
+			],
+			[
+				"sel",
+				"selects"
+			],
+			[
+				"parent",
+				"parent_sbilings"
+			],
+			[
+				"paren",
+				"parent_sbilings"
+			],
+			[
+				"wap",
+				"wrapInner	.wrapInner()"
+			],
+			[
+				"wa",
+				"wrapAll	.wrapAll()"
+			],
+			[
+				"mode",
+				"modal-content"
+			],
+			[
+				"remoe",
+				"remote"
+			],
+			[
+				"inA",
+				"inarray	$.inArray()"
+			],
+			[
+				"sub",
+				"subone"
+			],
+			[
+				"set",
+				"setGoodsReceipt"
+			],
+			[
+				"pay",
+				"payType"
+			],
+			[
+				"acti",
+				"active"
+			],
+			[
+				"tri",
+				"trigger	.trigger()"
+			],
+			[
+				"chi",
+				"Children"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"PUr",
+				"purview"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"in",
+				"inputs"
+			],
+			[
+				"st",
+				"stringify"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"admin",
+				"admin_index"
+			],
+			[
+				"whe",
+				"where"
+			],
+			[
+				"login",
+				"loginResult"
+			],
+			[
+				"lang",
+				"langlib"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"cur",
+				"currentDate"
+			],
+			[
+				"date",
+				"dateStr"
+			],
+			[
+				"au",
+				"author	@author"
+			],
+			[
+				"pro",
+				"period"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"triger",
+				"trigger	.trigger()"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"min",
+				"minDate"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"Da",
+				"datepicker"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"appen",
+				"appendTo	.appendTo()"
+			],
+			[
+				"fil",
+				"filter	.filter() function"
+			],
+			[
+				"wek",
+				"weekFirstDay"
+			],
+			[
+				"mon",
+				"monday"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"path",
+				"pathInfo"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fnt",
+				"font-family"
+			],
+			[
+				"up",
+				"upload_file"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fontf",
+				"font-family"
+			],
+			[
+				"refu",
+				"refund_list"
+			],
+			[
+				"e",
+				"e4e4e4"
+			],
+			[
+				"cn",
+				"zh-CN"
+			],
+			[
+				"lo",
+				"locale"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"mgin",
+				"margin-top"
+			],
+			[
+				"pss",
+				"password_re"
+			],
+			[
+				"pas",
+				"password_re"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/publicity/app.html",
+			"settings":
+			{
+				"buffer_size": 4180,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/publicity/css/app.css",
+			"settings":
+			{
+				"buffer_size": 7575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/publicity/js/app.js",
+			"settings":
+			{
+				"buffer_size": 881,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*!\n * fullPage 2.6.7\n * https://github.com/alvarotrigo/fullPage.js\n * @license MIT licensed\n *\n * Copyright (C) 2015 alvarotrigo.com - A project by Alvaro Trigo\n */\n(function(global, factory) {\n    'use strict';\n    if (typeof define === 'function' && define.amd) {\n        define(['jquery'], function($) {\n          return factory($, global, global.document, global.Math);\n        });\n    } else if (typeof exports !== 'undefined') {\n        module.exports = factory(require('jquery'), global, global.document, global.Math);\n    } else {\n        factory(jQuery, global, global.document, global.Math);\n    }\n})(typeof window !== 'undefined' ? window : this, function($, window, document, Math, undefined) {\n    'use strict';\n\n    // keeping central set of classnames and selectors\n    var WRAPPER =               'fullpage-wrapper';\n    var WRAPPER_SEL =           '.' + WRAPPER;\n\n    // slimscroll\n    var SCROLLABLE =            'fp-scrollable';\n    var SCROLLABLE_SEL =        '.' + SCROLLABLE;\n    var SLIMSCROLL_BAR_SEL =    '.slimScrollBar';\n    var SLIMSCROLL_RAIL_SEL =   '.slimScrollRail';\n\n    // util\n    var RESPONSIVE =            'fp-responsive';\n    var NO_TRANSITION =         'fp-notransition';\n    var DESTROYED =             'fp-destroyed';\n    var ENABLED =               'fp-enabled';\n    var VIEWING_PREFIX =        'fp-viewing';\n    var ACTIVE =                'active';\n    var ACTIVE_SEL =            '.' + ACTIVE;\n\n    // section\n    var SECTION_DEFAULT_SEL =   '.section';\n    var SECTION =               'fp-section';\n    var SECTION_SEL =           '.' + SECTION;\n    var SECTION_ACTIVE_SEL =    SECTION_SEL + ACTIVE_SEL;\n    var SECTION_FIRST_SEL =     SECTION_SEL + ':first';\n    var SECTION_LAST_SEL =      SECTION_SEL + ':last';\n    var TABLE_CELL =            'fp-tableCell';\n    var TABLE_CELL_SEL =        '.' + TABLE_CELL;\n\n    // section nav\n    var SECTION_NAV =           'fp-nav';\n    var SECTION_NAV_SEL =       '#' + SECTION_NAV;\n    var SECTION_NAV_TOOLTIP =   'fp-tooltip';\n    var SHOW_ACTIVE_TOOLTIP =   'fp-show-active';\n\n    // slide\n    var SLIDE_DEFAULT_SEL =     '.slide';\n    var SLIDE =                 'fp-slide';\n    var SLIDE_SEL =             '.' + SLIDE;\n    var SLIDE_ACTIVE_SEL =      SLIDE_SEL + ACTIVE_SEL;\n    var SLIDES_WRAPPER =        'fp-slides';\n    var SLIDES_WRAPPER_SEL =    '.' + SLIDES_WRAPPER;\n    var SLIDES_CONTAINER =      'fp-slidesContainer';\n    var SLIDES_CONTAINER_SEL =  '.' + SLIDES_CONTAINER;\n    var TABLE =                 'fp-table';\n\n    // slide nav\n    var SLIDES_NAV =            'fp-slidesNav';\n    var SLIDES_NAV_SEL =        '.' + SLIDES_NAV;\n    var SLIDES_NAV_LINK_SEL =   SLIDES_NAV_SEL + ' a';\n    var SLIDES_ARROW =          'fp-controlArrow';\n    var SLIDES_ARROW_SEL =      '.' + SLIDES_ARROW;\n    var SLIDES_PREV =           'fp-prev';\n    var SLIDES_PREV_SEL =       '.' + SLIDES_PREV;\n    var SLIDES_ARROW_PREV =     SLIDES_ARROW + ' ' + SLIDES_PREV;\n    var SLIDES_ARROW_PREV_SEL = SLIDES_ARROW_SEL + SLIDES_PREV_SEL;\n    var SLIDES_NEXT =           'fp-next';\n    var SLIDES_NEXT_SEL =       '.' + SLIDES_NEXT;\n    var SLIDES_ARROW_NEXT =     SLIDES_ARROW + ' ' + SLIDES_NEXT;\n    var SLIDES_ARROW_NEXT_SEL = SLIDES_ARROW_SEL + SLIDES_NEXT_SEL;\n\n    var $window = $(window);\n    var $document = $(document);\n\n    $.fn.fullpage = function(options) {\n\n        // common jQuery objects\n        var $htmlBody = $('html, body');\n        var $body = $('body');\n\n        var FP = $.fn.fullpage;\n        // Create some defaults, extending them with any options that were provided\n        options = $.extend({\n            //navigation\n            menu: false,\n            anchors:[],\n            lockAnchors: false,\n            navigation: false,\n            navigationPosition: 'right',\n            navigationTooltips: [],\n            showActiveTooltip: false,\n            slidesNavigation: false,\n            slidesNavPosition: 'bottom',\n            scrollBar: false,\n\n            //scrolling\n            css3: true,\n            scrollingSpeed: 700,\n            autoScrolling: true,\n            fitToSection: true,\n            easing: 'easeInOutCubic',\n            easingcss3: 'ease',\n            loopBottom: false,\n            loopTop: false,\n            loopHorizontal: true,\n            continuousVertical: false,\n            normalScrollElements: null,\n            scrollOverflow: false,\n            touchSensitivity: 5,\n            normalScrollElementTouchThreshold: 5,\n\n            //Accessibility\n            keyboardScrolling: true,\n            animateAnchor: true,\n            recordHistory: true,\n\n            //design\n            controlArrows: true,\n            controlArrowColor: '#fff',\n            verticalCentered: true,\n            resize: false,\n            sectionsColor : [],\n            paddingTop: 0,\n            paddingBottom: 0,\n            fixedElements: null,\n            responsive: 0, //backwards compabitility with responsiveWiddth\n            responsiveWidth: 0,\n            responsiveHeight: 0,\n\n            //Custom selectors\n            sectionSelector: SECTION_DEFAULT_SEL,\n            slideSelector: SLIDE_DEFAULT_SEL,\n\n\n            //events\n            afterLoad: null,\n            onLeave: null,\n            afterRender: null,\n            afterResize: null,\n            afterReBuild: null,\n            afterSlideLoad: null,\n            onSlideLeave: null\n        }, options);\n\n        displayWarnings();\n\n        //easeInOutCubic animation included in the plugin\n        $.extend($.easing,{ easeInOutCubic: function (x, t, b, c, d) {if ((t/=d/2) < 1) return c/2*t*t*t + b;return c/2*((t-=2)*t*t + 2) + b;}});\n\n        //TO BE REMOVED in future versions. Maintained temporaly for backwards compatibility.\n        $.extend($.easing,{ easeInQuart: function (x, t, b, c, d) { return c*(t/=d)*t*t*t + b; }});\n\n        /**\n        * Sets the autoScroll option.\n        * It changes the scroll bar visibility and the history of the site as a result.\n        */\n        FP.setAutoScrolling = function(value, type){\n            setVariableState('autoScrolling', value, type);\n\n            var element = $(SECTION_ACTIVE_SEL);\n\n            if(options.autoScrolling && !options.scrollBar){\n                $htmlBody.css({\n                    'overflow' : 'hidden',\n                    'height' : '100%'\n                });\n\n                FP.setRecordHistory(options.recordHistory, 'internal');\n\n                //for IE touch devices\n                container.css({\n                    '-ms-touch-action': 'none',\n                    'touch-action': 'none'\n                });\n\n                if(element.length){\n                    //moving the container up\n                    silentScroll(element.position().top);\n                }\n\n            }else{\n                $htmlBody.css({\n                    'overflow' : 'visible',\n                    'height' : 'initial'\n                });\n\n                FP.setRecordHistory(false, 'internal');\n\n                //for IE touch devices\n                container.css({\n                    '-ms-touch-action': '',\n                    'touch-action': ''\n                });\n\n                silentScroll(0);\n\n                //scrolling the page to the section with no animation\n                if (element.length) {\n                    $htmlBody.scrollTop(element.position().top);\n                }\n            }\n        };\n\n        /**\n        * Defines wheter to record the history for each hash change in the URL.\n        */\n        FP.setRecordHistory = function(value, type){\n            setVariableState('recordHistory', value, type);\n        };\n\n        /**\n        * Defines the scrolling speed\n        */\n        FP.setScrollingSpeed = function(value, type){\n            setVariableState('scrollingSpeed', value, type);\n        };\n\n        /**\n        * Sets fitToSection\n        */\n        FP.setFitToSection = function(value, type){\n            setVariableState('fitToSection', value, type);\n        };\n\n        /**\n        * Sets lockAnchors\n        */\n        FP.setLockAnchors = function(value){\n            options.lockAnchors = value;\n        };\n\n        /**\n        * Adds or remove the possiblity of scrolling through sections by using the mouse wheel or the trackpad.\n        */\n        FP.setMouseWheelScrolling = function (value){\n            if(value){\n                addMouseWheelHandler();\n            }else{\n                removeMouseWheelHandler();\n            }\n        };\n\n        /**\n        * Adds or remove the possiblity of scrolling through sections by using the mouse wheel/trackpad or touch gestures.\n        * Optionally a second parameter can be used to specify the direction for which the action will be applied.\n        *\n        * @param directions string containing the direction or directions separated by comma.\n        */\n        FP.setAllowScrolling = function (value, directions){\n            if(typeof directions !== 'undefined'){\n                directions = directions.replace(/ /g,'').split(',');\n\n                $.each(directions, function (index, direction){\n                    setIsScrollAllowed(value, direction, 'm');\n                });\n            }\n            else if(value){\n                FP.setMouseWheelScrolling(true);\n                addTouchHandler();\n            }else{\n                FP.setMouseWheelScrolling(false);\n                removeTouchHandler();\n            }\n        };\n\n        /**\n        * Adds or remove the possiblity of scrolling through sections by using the keyboard arrow keys\n        */\n        FP.setKeyboardScrolling = function (value, directions){\n            if(typeof directions !== 'undefined'){\n                directions = directions.replace(/ /g,'').split(',');\n\n                $.each(directions, function (index, direction){\n                    setIsScrollAllowed(value, direction, 'k');\n                });\n            }else{\n                options.keyboardScrolling = value;\n            }\n        };\n\n        /**\n        * Moves the page up one section.\n        */\n        FP.moveSectionUp = function(){\n            var prev = $(SECTION_ACTIVE_SEL).prev(SECTION_SEL);\n\n            //looping to the bottom if there's no more sections above\n            if (!prev.length && (options.loopTop || options.continuousVertical)) {\n                prev = $(SECTION_SEL).last();\n            }\n\n            if (prev.length) {\n                scrollPage(prev, null, true);\n            }\n        };\n\n        /**\n        * Moves the page down one section.\n        */\n        FP.moveSectionDown = function (){\n            var next = $(SECTION_ACTIVE_SEL).next(SECTION_SEL);\n\n            //looping to the top if there's no more sections below\n            if(!next.length &&\n                (options.loopBottom || options.continuousVertical)){\n                next = $(SECTION_SEL).first();\n            }\n\n            if(next.length){\n                // before slide move callback\n                if(options.onBeforeMoveSection && $.isFunction( options.onBeforeMoveSection )){\n                    if(options.onBeforeMoveSection.call(this, direction, currentSlide, destiny, slides, activeSection) === false){\n                        return;\n                    }\n                }\n\n                scrollPage(next, null, false);\n            }\n        };\n\n        /**\n        * Moves the page to the given section and slide with no animation.\n        * Anchors or index positions can be used as params.\n        */\n        FP.silentMoveTo = function(sectionAnchor, slideAnchor){\n            FP.setScrollingSpeed (0, 'internal');\n            FP.moveTo(sectionAnchor, slideAnchor)\n            FP.setScrollingSpeed (originals.scrollingSpeed, 'internal');\n        };\n\n        /**\n        * Moves the page to the given section and slide.\n        * Anchors or index positions can be used as params.\n        */\n        FP.moveTo = function (sectionAnchor, slideAnchor){\n            var destiny = getSectionByAnchor(sectionAnchor);\n\n            if (typeof slideAnchor !== 'undefined'){\n                scrollPageAndSlide(sectionAnchor, slideAnchor);\n            }else if(destiny.length > 0){\n                scrollPage(destiny);\n            }\n        };\n\n        /**\n        * Slides right the slider of the active section.\n        */\n        FP.moveSlideRight = function(){\n            moveSlide('next');\n        };\n\n        /**\n        * Slides left the slider of the active section.\n        */\n        FP.moveSlideLeft = function(){\n            moveSlide('prev');\n        };\n\n        /**\n         * When resizing is finished, we adjust the slides sizes and positions\n         */\n        FP.reBuild = function(resizing){\n            if(container.hasClass(DESTROYED)){ return; }  //nothing to do if the plugin was destroyed\n\n            isResizing = true;\n\n            var windowsWidth = $window.width();\n            windowsHeight = $window.height();  //updating global var\n\n            //text resizing\n            if (options.resize) {\n                resizeMe(windowsHeight, windowsWidth);\n            }\n\n            $(SECTION_SEL).each(function(){\n                var slidesWrap = $(this).find(SLIDES_WRAPPER_SEL);\n                var slides = $(this).find(SLIDE_SEL);\n\n                //adjusting the height of the table-cell for IE and Firefox\n                if(options.verticalCentered){\n                    $(this).find(TABLE_CELL_SEL).css('height', getTableHeight($(this)) + 'px');\n                }\n\n                $(this).css('height', windowsHeight + 'px');\n\n                //resizing the scrolling divs\n                if(options.scrollOverflow){\n                    if(slides.length){\n                        slides.each(function(){\n                            createSlimScrolling($(this));\n                        });\n                    }else{\n                        createSlimScrolling($(this));\n                    }\n                }\n\n                //adjusting the position fo the FULL WIDTH slides...\n                if (slides.length > 1) {\n                    landscapeScroll(slidesWrap, slidesWrap.find(SLIDE_ACTIVE_SEL));\n                }\n            });\n\n            var activeSection = $(SECTION_ACTIVE_SEL);\n            var sectionIndex = activeSection.index(SECTION_SEL);\n\n            //isn't it the first section?\n            if(sectionIndex){\n                //adjusting the position for the current section\n                FP.silentMoveTo(sectionIndex + 1);\n            }\n\n            isResizing = false;\n            $.isFunction( options.afterResize ) && resizing && options.afterResize.call(container);\n            $.isFunction( options.afterReBuild ) && !resizing && options.afterReBuild.call(container);\n        };\n\n        /**\n        * Turns fullPage.js to normal scrolling mode when the viewport `width` or `height`\n        * are smaller than the set limit values.\n        */\n        FP.setResponsive = function (active){\n            var isResponsive = container.hasClass(RESPONSIVE);\n\n            if(active){\n                if(!isResponsive){\n                    FP.setAutoScrolling(false, 'internal');\n                    FP.setFitToSection(false, 'internal');\n                    $(SECTION_NAV_SEL).hide();\n                    container.addClass(RESPONSIVE);\n                }\n            }\n            else if(isResponsive){\n                FP.setAutoScrolling(originals.autoScrolling, 'internal');\n                FP.setFitToSection(originals.autoScrolling, 'internal');\n                $(SECTION_NAV_SEL).show();\n                container.removeClass(RESPONSIVE);\n            }\n        }\n\n        //flag to avoid very fast sliding for landscape sliders\n        var slideMoving = false;\n\n        var isTouchDevice = navigator.userAgent.match(/(iPhone|iPod|iPad|Android|playbook|silk|BlackBerry|BB10|Windows Phone|Tizen|Bada|webOS|IEMobile|Opera Mini)/);\n        var isTouch = (('ontouchstart' in window) || (navigator.msMaxTouchPoints > 0) || (navigator.maxTouchPoints));\n        var container = $(this);\n        var windowsHeight = $window.height();\n        var isResizing = false;\n        var lastScrolledDestiny;\n        var lastScrolledSlide;\n        var canScroll = true;\n        var scrollings = [];\n        var nav;\n        var controlPressed;\n        var isScrollAllowed = {};\n        isScrollAllowed.m = {  'up':true, 'down':true, 'left':true, 'right':true };\n        isScrollAllowed.k = $.extend(true,{}, isScrollAllowed.m);\n        var originals = $.extend(true, {}, options); //deep copy\n\n        //timeouts\n        var resizeId;\n        var afterSectionLoadsId;\n        var afterSlideLoadsId;\n        var scrollId;\n        var scrollId2;\n        var keydownId;\n\n        if($(this).length){\n            container.css({\n                'height': '100%',\n                'position': 'relative'\n            });\n\n            //adding a class to recognize the container internally in the code\n            container.addClass(WRAPPER);\n            $('html').addClass(ENABLED);\n        }\n\n        //if css3 is not supported, it will use jQuery animations\n        if(options.css3){\n            options.css3 = support3d();\n        }\n\n        FP.setAllowScrolling(true);\n        container.removeClass(DESTROYED); //in case it was destroyed before initilizing it again\n\n\n        //adding internal class names to void problem with common ones\n        $(options.sectionSelector).each(function(){\n            $(this).addClass(SECTION);\n        });\n        $(options.slideSelector).each(function(){\n            $(this).addClass(SLIDE);\n        });\n\n        //creating the navigation dots\n        if (options.navigation) {\n            addVerticalNavigation();\n        }\n\n        //styling the sections\n        $(SECTION_SEL).each(function(index){\n            var that = $(this);\n            var slides = $(this).find(SLIDE_SEL);\n            var numSlides = slides.length;\n\n            //if no active section is defined, the 1st one will be the default one\n            if(!index && $(SECTION_ACTIVE_SEL).length === 0) {\n                $(this).addClass(ACTIVE);\n            }\n\n            $(this).css('height', windowsHeight + 'px');\n\n            if(options.paddingTop){\n                $(this).css('padding-top', options.paddingTop);\n            }\n\n            if(options.paddingBottom){\n                $(this).css('padding-bottom', options.paddingBottom);\n            }\n\n            if (typeof options.sectionsColor[index] !==  'undefined') {\n                $(this).css('background-color', options.sectionsColor[index]);\n            }\n\n            if (typeof options.anchors[index] !== 'undefined') {\n                $(this).attr('data-anchor', options.anchors[index]);\n\n                //activating the menu / nav element on load\n                if($(this).hasClass(ACTIVE)){\n                    activateMenuAndNav(options.anchors[index], index);\n                }\n            }\n\n            // if there's any slide\n            if (numSlides > 0) {\n                var sliderWidth = numSlides * 100;\n                var slideWidth = 100 / numSlides;\n\n                slides.wrapAll('<div class=\"' + SLIDES_CONTAINER + '\" />');\n                slides.parent().wrap('<div class=\"' + SLIDES_WRAPPER + '\" />');\n\n                $(this).find(SLIDES_CONTAINER_SEL).css('width', sliderWidth + '%');\n\n                if(numSlides > 1){\n                    if(options.controlArrows){\n                        createSlideArrows($(this));\n                    }\n\n                    if(options.slidesNavigation){\n                        addSlidesNavigation($(this), numSlides);\n                    }\n                }\n\n                slides.each(function(index) {\n                    $(this).css('width', slideWidth + '%');\n\n                    if(options.verticalCentered){\n                        addTableClass($(this));\n                    }\n                });\n\n                var startingSlide = that.find(SLIDE_ACTIVE_SEL);\n\n                //if the slide won't be an starting point, the default will be the first one\n                if(!startingSlide.length){\n                    slides.eq(0).addClass(ACTIVE);\n                }\n\n                //is there a starting point for a non-starting section?\n                else{\n                    silentLandscapeScroll(startingSlide);\n                }\n\n            }else{\n                if(options.verticalCentered){\n                    addTableClass($(this));\n                }\n            }\n\n        }).promise().done(function(){\n            FP.setAutoScrolling(options.autoScrolling, 'internal');\n\n            //the starting point is a slide?\n            var activeSlide = $(SECTION_ACTIVE_SEL).find(SLIDE_ACTIVE_SEL);\n\n            //the active section isn't the first one? Is not the first slide of the first section? Then we load that section/slide by default.\n            if( activeSlide.length &&  ($(SECTION_ACTIVE_SEL).index(SECTION_SEL) !== 0 || ($(SECTION_ACTIVE_SEL).index(SECTION_SEL) === 0 && activeSlide.index() !== 0))){\n                silentLandscapeScroll(activeSlide);\n            }\n\n            //fixed elements need to be moved out of the plugin container due to problems with CSS3.\n            if(options.fixedElements && options.css3){\n                $(options.fixedElements).appendTo($body);\n            }\n\n            //vertical centered of the navigation + first bullet active\n            if(options.navigation){\n                nav.css('margin-top', '-' + (nav.height()/2) + 'px');\n                nav.find('li').eq($(SECTION_ACTIVE_SEL).index(SECTION_SEL)).find('a').addClass(ACTIVE);\n            }\n\n            //moving the menu outside the main container if it is inside (avoid problems with fixed positions when using CSS3 tranforms)\n            if(options.menu && options.css3 && $(options.menu).closest(WRAPPER_SEL).length){\n                $(options.menu).appendTo($body);\n            }\n\n            if(options.scrollOverflow){\n                if(document.readyState === 'complete'){\n                    createSlimScrollingHandler();\n                }\n                //after DOM and images are loaded\n                $window.on('load', createSlimScrollingHandler);\n            }else{\n                afterRenderActions();\n            }\n\n            responsive();\n\n            //for animateAnchor:false\n            if(!options.animateAnchor){\n                //getting the anchor link in the URL and deleting the `#`\n                var value =  window.location.hash.replace('#', '').split('/');\n                var destiny = value[0];\n\n                if(destiny.length){\n                    var section = $('[data-anchor=\"'+destiny+'\"]');\n\n                    if(section.length){\n                        if(options.autoScrolling){\n                            silentScroll(section.position().top);\n                        }\n                        else{\n                            silentScroll(0);\n\n                            //scrolling the page to the section with no animation\n                            $htmlBody.scrollTop(section.position().top);\n                        }\n                        activateMenuAndNav(destiny, null);\n\n                        $.isFunction( options.afterLoad ) && options.afterLoad.call( section, destiny, (section.index(SECTION_SEL) + 1));\n\n                        //updating the active class\n                        section.addClass(ACTIVE).siblings().removeClass(ACTIVE);\n                    }\n                }\n            }\n\n            //setting the class for the body element\n            setBodyClass();\n\n            $window.on('load', function() {\n                scrollToAnchor();\n            });\n\n        });\n\n\n        /**\n        * Creates the control arrows for the given section\n        */\n        function createSlideArrows(section){\n            section.find(SLIDES_WRAPPER_SEL).after('<div class=\"' + SLIDES_ARROW_PREV + '\"></div><div class=\"' + SLIDES_ARROW_NEXT + '\"></div>');\n\n            if(options.controlArrowColor!='#fff'){\n                section.find(SLIDES_ARROW_NEXT_SEL).css('border-color', 'transparent transparent transparent '+options.controlArrowColor);\n                section.find(SLIDES_ARROW_PREV_SEL).css('border-color', 'transparent '+ options.controlArrowColor + ' transparent transparent');\n            }\n\n            if(!options.loopHorizontal){\n                section.find(SLIDES_ARROW_PREV_SEL).hide();\n            }\n        }\n\n        /**\n        * Creates a vertical navigation bar.\n        */\n        function addVerticalNavigation(){\n            $body.append('<div id=\"' + SECTION_NAV + '\"><ul></ul></div>');\n            nav = $(SECTION_NAV_SEL);\n\n            nav.addClass(function() {\n                return options.showActiveTooltip ? SHOW_ACTIVE_TOOLTIP + ' ' + options.navigationPosition : options.navigationPosition;\n            });\n\n            for (var i = 0; i < $(SECTION_SEL).length; i++) {\n                var link = '';\n                if (options.anchors.length) {\n                    link = options.anchors[i];\n                }\n\n                var li = '<li><a href=\"#' + link + '\"><span></span></a>';\n\n                // Only add tooltip if needed (defined by user)\n                var tooltip = options.navigationTooltips[i];\n\n                if (typeof tooltip !== 'undefined' && tooltip !== '') {\n                    li += '<div class=\"' + SECTION_NAV_TOOLTIP + ' ' + options.navigationPosition + '\">' + tooltip + '</div>';\n                }\n\n                li += '</li>';\n\n                nav.find('ul').append(li);\n            }\n        }\n\n        /**\n        * Creates the slim scroll scrollbar for the sections and slides inside them.\n        */\n        function createSlimScrollingHandler(){\n            $(SECTION_SEL).each(function(){\n                var slides = $(this).find(SLIDE_SEL);\n\n                if(slides.length){\n                    slides.each(function(){\n                        createSlimScrolling($(this));\n                    });\n                }else{\n                    createSlimScrolling($(this));\n                }\n\n            });\n            afterRenderActions();\n        }\n\n        /**\n        * Actions and callbacks to fire afterRender\n        */\n        function afterRenderActions(){\n            var section = $(SECTION_ACTIVE_SEL);\n\n            solveBugSlimScroll(section);\n            lazyLoad(section);\n            playMedia(section);\n\n            $.isFunction( options.afterLoad ) && options.afterLoad.call(section, section.data('anchor'), (section.index(SECTION_SEL) + 1));\n            $.isFunction( options.afterRender ) && options.afterRender.call(container);\n        }\n\n\n        /**\n        * Solves a bug with slimScroll vendor library #1037, #553\n        */\n        function solveBugSlimScroll(section){\n            var slides = section.find('SLIDES_WRAPPER');\n            var scrollableWrap = section.find(SCROLLABLE_SEL);\n\n            if(slides.length){\n                scrollableWrap = slides.find(SLIDE_ACTIVE_SEL);\n            }\n\n            scrollableWrap.mouseover();\n        }\n\n\n        var isScrolling = false;\n\n        //when scrolling...\n        $window.on('scroll', scrollHandler);\n\n        function scrollHandler(){\n            var currentSection;\n\n            if(!options.autoScrolling || options.scrollBar){\n                var currentScroll = $window.scrollTop();\n                var visibleSectionIndex = 0;\n                var initial = Math.abs(currentScroll - document.querySelectorAll(SECTION_SEL)[0].offsetTop);\n\n                //taking the section which is showing more content in the viewport\n                var sections =  document.querySelectorAll(SECTION_SEL);\n                for (var i = 0; i < sections.length; ++i) {\n                    var section = sections[i];\n\n                    var current = Math.abs(currentScroll - section.offsetTop);\n\n                    if(current < initial){\n                        visibleSectionIndex = i;\n                        initial = current;\n                    }\n                }\n\n                //geting the last one, the current one on the screen\n                currentSection = $(sections).eq(visibleSectionIndex);\n            }\n\n            if(!options.autoScrolling || options.scrollBar){\n                //executing only once the first time we reach the section\n                if(!currentSection.hasClass(ACTIVE)){\n                    isScrolling = true;\n                    var leavingSection = $(SECTION_ACTIVE_SEL);\n                    var leavingSectionIndex = leavingSection.index(SECTION_SEL) + 1;\n                    var yMovement = getYmovement(currentSection);\n                    var anchorLink  = currentSection.data('anchor');\n                    var sectionIndex = currentSection.index(SECTION_SEL) + 1;\n                    var activeSlide = currentSection.find(SLIDE_ACTIVE_SEL);\n\n                    if(activeSlide.length){\n                        var slideAnchorLink = activeSlide.data('anchor');\n                        var slideIndex = activeSlide.index();\n                    }\n\n                    if(canScroll){\n                        currentSection.addClass(ACTIVE).siblings().removeClass(ACTIVE);\n\n                        $.isFunction( options.onLeave ) && options.onLeave.call( leavingSection, leavingSectionIndex, sectionIndex, yMovement);\n\n                        $.isFunction( options.afterLoad ) && options.afterLoad.call( currentSection, anchorLink, sectionIndex);\n                        lazyLoad(currentSection);\n\n                        activateMenuAndNav(anchorLink, sectionIndex - 1);\n\n                        if(options.anchors.length){\n                            //needed to enter in hashChange event when using the menu with anchor links\n                            lastScrolledDestiny = anchorLink;\n\n                            setState(slideIndex, slideAnchorLink, anchorLink, sectionIndex);\n                        }\n                    }\n\n                    //small timeout in order to avoid entering in hashChange event when scrolling is not finished yet\n                    clearTimeout(scrollId);\n                    scrollId = setTimeout(function(){\n                        isScrolling = false;\n                    }, 100);\n                }\n\n                if(options.fitToSection){\n                    //for the auto adjust of the viewport to fit a whole section\n                    clearTimeout(scrollId2);\n\n                    scrollId2 = setTimeout(function(){\n                        if(canScroll){\n                            //allows to scroll to an active section and\n                            //if the section is already active, we prevent firing callbacks\n                            if($(SECTION_ACTIVE_SEL).is(currentSection)){\n                                isResizing = true;\n                            }\n                            scrollPage(currentSection);\n                            isResizing = false;\n                        }\n                    }, 1000);\n                }\n            }\n        }\n\n\n        /**\n        * Determines whether the active section or slide is scrollable through and scrolling bar\n        */\n        function isScrollable(activeSection){\n            //if there are landscape slides, we check if the scrolling bar is in the current one or not\n            if(activeSection.find(SLIDES_WRAPPER_SEL).length){\n                return activeSection.find(SLIDE_ACTIVE_SEL).find(SCROLLABLE_SEL);\n            }\n\n            return activeSection.find(SCROLLABLE_SEL);\n        }\n\n        /**\n        * Determines the way of scrolling up or down:\n        * by 'automatically' scrolling a section or by using the default and normal scrolling.\n        */\n        function scrolling(type, scrollable){\n            if (!isScrollAllowed.m[type]){\n                return;\n            }\n            var check, scrollSection;\n\n            if(type == 'down'){\n                check = 'bottom';\n                scrollSection = FP.moveSectionDown;\n            }else{\n                check = 'top';\n                scrollSection = FP.moveSectionUp;\n            }\n\n            if(scrollable.length > 0 ){\n                //is the scrollbar at the start/end of the scroll?\n                if(isScrolled(check, scrollable)){\n                    scrollSection();\n                }else{\n                    return true;\n                }\n            }else{\n                // moved up/down\n                scrollSection();\n            }\n        }\n\n\n        var touchStartY = 0;\n        var touchStartX = 0;\n        var touchEndY = 0;\n        var touchEndX = 0;\n\n        /* Detecting touch events\n\n        * As we are changing the top property of the page on scrolling, we can not use the traditional way to detect it.\n        * This way, the touchstart and the touch moves shows an small difference between them which is the\n        * used one to determine the direction.\n        */\n        function touchMoveHandler(event){\n            var e = event.originalEvent;\n\n            // additional: if one of the normalScrollElements isn't within options.normalScrollElementTouchThreshold hops up the DOM chain\n            if (!checkParentForNormalScrollElement(event.target) && isReallyTouch(e) ) {\n\n                if(options.autoScrolling){\n                    //preventing the easing on iOS devices\n                    event.preventDefault();\n                }\n\n                var activeSection = $(SECTION_ACTIVE_SEL);\n                var scrollable = isScrollable(activeSection);\n\n                if (canScroll && !slideMoving) { //if theres any #\n                    var touchEvents = getEventsPage(e);\n\n                    touchEndY = touchEvents.y;\n                    touchEndX = touchEvents.x;\n\n                    //if movement in the X axys is greater than in the Y and the currect section has slides...\n                    if (activeSection.find(SLIDES_WRAPPER_SEL).length && Math.abs(touchStartX - touchEndX) > (Math.abs(touchStartY - touchEndY))) {\n\n                        //is the movement greater than the minimum resistance to scroll?\n                        if (Math.abs(touchStartX - touchEndX) > ($window.width() / 100 * options.touchSensitivity)) {\n                            if (touchStartX > touchEndX) {\n                                if(isScrollAllowed.m.right){\n                                    FP.moveSlideRight(); //next\n                                }\n                            } else {\n                                if(isScrollAllowed.m.left){\n                                    FP.moveSlideLeft(); //prev\n                                }\n                            }\n                        }\n                    }\n\n                    //vertical scrolling (only when autoScrolling is enabled)\n                    else if(options.autoScrolling){\n\n                        //is the movement greater than the minimum resistance to scroll?\n                        if (Math.abs(touchStartY - touchEndY) > ($window.height() / 100 * options.touchSensitivity)) {\n                            if (touchStartY > touchEndY) {\n                                scrolling('down', scrollable);\n                            } else if (touchEndY > touchStartY) {\n                                scrolling('up', scrollable);\n                            }\n                        }\n                    }\n                }\n            }\n\n        }\n\n        /**\n         * recursive function to loop up the parent nodes to check if one of them exists in options.normalScrollElements\n         * Currently works well for iOS - Android might need some testing\n         * @param  {Element} el  target element / jquery selector (in subsequent nodes)\n         * @param  {int}     hop current hop compared to options.normalScrollElementTouchThreshold\n         * @return {boolean} true if there is a match to options.normalScrollElements\n         */\n        function checkParentForNormalScrollElement (el, hop) {\n            hop = hop || 0;\n            var parent = $(el).parent();\n\n            if (hop < options.normalScrollElementTouchThreshold &&\n                parent.is(options.normalScrollElements) ) {\n                return true;\n            } else if (hop == options.normalScrollElementTouchThreshold) {\n                return false;\n            } else {\n                return checkParentForNormalScrollElement(parent, ++hop);\n            }\n        }\n\n        /**\n        * As IE >= 10 fires both touch and mouse events when using a mouse in a touchscreen\n        * this way we make sure that is really a touch event what IE is detecting.\n        */\n        function isReallyTouch(e){\n            //if is not IE   ||  IE is detecting `touch` or `pen`\n            return typeof e.pointerType === 'undefined' || e.pointerType != 'mouse';\n        }\n\n        /**\n        * Handler for the touch start event.\n        */\n        function touchStartHandler(event){\n            var e = event.originalEvent;\n\n            //stopping the auto scroll to adjust to a section\n            if(options.fitToSection){\n                $htmlBody.stop();\n            }\n\n            if(isReallyTouch(e)){\n                var touchEvents = getEventsPage(e);\n                touchStartY = touchEvents.y;\n                touchStartX = touchEvents.x;\n            }\n        }\n\n        /**\n        * Gets the average of the last `number` elements of the given array.\n        */\n        function getAverage(elements, number){\n            var sum = 0;\n\n            //taking `number` elements from the end to make the average, if there are not enought, 1\n            var lastElements = elements.slice(Math.max(elements.length - number, 1));\n\n            for(var i = 0; i < lastElements.length; i++){\n                sum = sum + lastElements[i];\n            }\n\n            return Math.ceil(sum/number);\n        }\n\n        /**\n         * Detecting mousewheel scrolling\n         *\n         * http://blogs.sitepointstatic.com/examples/tech/mouse-wheel/index.html\n         * http://www.sitepoint.com/html5-javascript-mouse-wheel/\n         */\n        var prevTime = new Date().getTime();\n\n        function MouseWheelHandler(e) {\n            var curTime = new Date().getTime();\n\n            //autoscrolling and not zooming?\n            if(options.autoScrolling && !controlPressed){\n                // cross-browser wheel delta\n                e = e || window.event;\n                var value = e.wheelDelta || -e.deltaY || -e.detail;\n                var delta = Math.max(-1, Math.min(1, value));\n\n                //Limiting the array to 150 (lets not waste memory!)\n                if(scrollings.length > 149){\n                    scrollings.shift();\n                }\n\n                //keeping record of the previous scrollings\n                scrollings.push(Math.abs(value));\n\n                //preventing to scroll the site on mouse wheel when scrollbar is present\n                if(options.scrollBar){\n                    e.preventDefault ? e.preventDefault() : e.returnValue = false;\n                }\n\n                var activeSection = $(SECTION_ACTIVE_SEL);\n                var scrollable = isScrollable(activeSection);\n\n                //time difference between the last scroll and the current one\n                var timeDiff = curTime-prevTime;\n                prevTime = curTime;\n\n                //haven't they scrolled in a while?\n                //(enough to be consider a different scrolling action to scroll another section)\n                if(timeDiff > 200){\n                    //emptying the array, we dont care about old scrollings for our averages\n                    scrollings = [];\n                }\n\n                if(canScroll){\n                    var averageEnd = getAverage(scrollings, 10);\n                    var averageMiddle = getAverage(scrollings, 70);\n                    var isAccelerating = averageEnd >= averageMiddle;\n\n                    //to avoid double swipes...\n                    if(isAccelerating){\n                        //scrolling down?\n                        if (delta < 0) {\n                            scrolling('down', scrollable);\n\n                        //scrolling up?\n                        }else {\n                            scrolling('up', scrollable);\n                        }\n                    }\n                }\n\n                return false;\n            }\n\n            if(options.fitToSection){\n                //stopping the auto scroll to adjust to a section\n                $htmlBody.stop();\n            }\n        }\n\n        /**\n        * Slides a slider to the given direction.\n        */\n        function moveSlide(direction){\n            var activeSection = $(SECTION_ACTIVE_SEL);\n            var slides = activeSection.find(SLIDES_WRAPPER_SEL);\n            var numSlides = slides.find(SLIDE_SEL).length;\n\n            // more than one slide needed and nothing should be sliding\n            if (!slides.length || slideMoving || numSlides < 2) {\n                return;\n            }\n\n            var currentSlide = slides.find(SLIDE_ACTIVE_SEL);\n            var destiny = null;\n\n            if(direction === 'prev'){\n                destiny = currentSlide.prev(SLIDE_SEL);\n            }else{\n                destiny = currentSlide.next(SLIDE_SEL);\n            }\n\n            //isn't there a next slide in the secuence?\n            if(!destiny.length){\n                //respect loopHorizontal settin\n                if (!options.loopHorizontal) return;\n\n                if(direction === 'prev'){\n                    destiny = currentSlide.siblings(':last');\n                }else{\n                    destiny = currentSlide.siblings(':first');\n                }\n            }\n\n            slideMoving = true;\n\n            landscapeScroll(slides, destiny);\n        }\n\n        /**\n        * Maintains the active slides in the viewport\n        * (Because he `scroll` animation might get lost with some actions, such as when using continuousVertical)\n        */\n        function keepSlidesPosition(){\n            $(SLIDE_ACTIVE_SEL).each(function(){\n                silentLandscapeScroll($(this), 'internal');\n            });\n        }\n\n        /**\n        * Scrolls the site to the given element and scrolls to the slide if a callback is given.\n        */\n        function scrollPage(element, callback, isMovementUp){\n            var dest = element.position();\n            if(typeof dest === 'undefined'){ return; } //there's no element to scroll, leaving the function\n\n            //local variables\n            var v = {\n                element: element,\n                callback: callback,\n                isMovementUp: isMovementUp,\n                dest: dest,\n                dtop: dest.top,\n                yMovement: getYmovement(element),\n                anchorLink: element.data('anchor'),\n                sectionIndex: element.index(SECTION_SEL),\n                activeSlide: element.find(SLIDE_ACTIVE_SEL),\n                activeSection: $(SECTION_ACTIVE_SEL),\n                leavingSection: $(SECTION_ACTIVE_SEL).index(SECTION_SEL) + 1,\n\n                //caching the value of isResizing at the momment the function is called\n                //because it will be checked later inside a setTimeout and the value might change\n                localIsResizing: isResizing\n            };\n\n            //quiting when destination scroll is the same as the current one\n            if((v.activeSection.is(element) && !isResizing) || (options.scrollBar && $window.scrollTop() === v.dtop)){ return; }\n\n            if(v.activeSlide.length){\n                var slideAnchorLink = v.activeSlide.data('anchor');\n                var slideIndex = v.activeSlide.index();\n            }\n\n            // If continuousVertical && we need to wrap around\n            if (options.autoScrolling && options.continuousVertical && typeof (v.isMovementUp) !== \"undefined\" &&\n                ((!v.isMovementUp && v.yMovement == 'up') || // Intending to scroll down but about to go up or\n                (v.isMovementUp && v.yMovement == 'down'))) { // intending to scroll up but about to go down\n\n                v = createInfiniteSections(v);\n            }\n\n            //callback (onLeave) if the site is not just resizing and readjusting the slides\n            if($.isFunction(options.onLeave) && !v.localIsResizing){\n                if(options.onLeave.call(v.activeSection, v.leavingSection, (v.sectionIndex + 1), v.yMovement) === false){\n                    return;\n                }else{\n                    stopMedia(v.activeSection);\n                }\n            }\n\n            element.addClass(ACTIVE).siblings().removeClass(ACTIVE);\n\n            //preventing from activating the MouseWheelHandler event\n            //more than once if the page is scrolling\n            canScroll = false;\n\n            setState(slideIndex, slideAnchorLink, v.anchorLink, v.sectionIndex);\n\n            performMovement(v);\n\n            //flag to avoid callingn `scrollPage()` twice in case of using anchor links\n            lastScrolledDestiny = v.anchorLink;\n\n            //avoid firing it twice (as it does also on scroll)\n            activateMenuAndNav(v.anchorLink, v.sectionIndex);\n        }\n\n        /**\n        * Performs the movement (by CSS3 or by jQuery)\n        */\n        function performMovement(v){\n            // using CSS3 translate functionality\n            if (options.css3 && options.autoScrolling && !options.scrollBar) {\n\n                var translate3d = 'translate3d(0px, -' + v.dtop + 'px, 0px)';\n                transformContainer(translate3d, true);\n\n                //even when the scrollingSpeed is 0 there's a little delay, which might cause the\n                //scrollingSpeed to change in case of using silentMoveTo();\n                if(options.scrollingSpeed){\n                    afterSectionLoadsId = setTimeout(function () {\n                        afterSectionLoads(v);\n                    }, options.scrollingSpeed);\n                }else{\n                    afterSectionLoads(v);\n                }\n            }\n\n            // using jQuery animate\n            else{\n                var scrollSettings = getScrollSettings(v);\n\n                $(scrollSettings.element).animate(\n                    scrollSettings.options,\n                options.scrollingSpeed, options.easing).promise().done(function () { //only one single callback in case of animating  `html, body`\n                    afterSectionLoads(v);\n                });\n            }\n        }\n\n        /**\n        * Gets the scrolling settings depending on the plugin autoScrolling option\n        */\n        function getScrollSettings(v){\n            var scroll = {};\n\n            if(options.autoScrolling && !options.scrollBar){\n                scroll.options = { 'top': -v.dtop};\n                scroll.element = WRAPPER_SEL;\n            }else{\n                scroll.options = { 'scrollTop': v.dtop};\n                scroll.element = 'html, body';\n            }\n\n            return scroll;\n        }\n\n        /**\n        * Adds sections before or after the current one to create the infinite effect.\n        */\n        function createInfiniteSections(v){\n            // Scrolling down\n            if (!v.isMovementUp) {\n                // Move all previous sections to after the active section\n                $(SECTION_ACTIVE_SEL).after(v.activeSection.prevAll(SECTION_SEL).get().reverse());\n            }\n            else { // Scrolling up\n                // Move all next sections to before the active section\n                $(SECTION_ACTIVE_SEL).before(v.activeSection.nextAll(SECTION_SEL));\n            }\n\n            // Maintain the displayed position (now that we changed the element order)\n            silentScroll($(SECTION_ACTIVE_SEL).position().top);\n\n            // Maintain the active slides visible in the viewport\n            keepSlidesPosition();\n\n            // save for later the elements that still need to be reordered\n            v.wrapAroundElements = v.activeSection;\n\n            // Recalculate animation variables\n            v.dest = v.element.position();\n            v.dtop = v.dest.top;\n            v.yMovement = getYmovement(v.element);\n\n            return v;\n        }\n\n        /**\n        * Fix section order after continuousVertical changes have been animated\n        */\n        function continuousVerticalFixSectionOrder (v) {\n            // If continuousVertical is in effect (and autoScrolling would also be in effect then),\n            // finish moving the elements around so the direct navigation will function more simply\n            if (!v.wrapAroundElements || !v.wrapAroundElements.length) {\n                return;\n            }\n\n            if (v.isMovementUp) {\n                $(SECTION_FIRST_SEL).before(v.wrapAroundElements);\n            }\n            else {\n                $(SECTION_LAST_SEL).after(v.wrapAroundElements);\n            }\n\n            silentScroll($(SECTION_ACTIVE_SEL).position().top);\n\n            // Maintain the active slides visible in the viewport\n            keepSlidesPosition();\n        }\n\n\n        /**\n        * Actions to do once the section is loaded.\n        */\n        function afterSectionLoads (v){\n            continuousVerticalFixSectionOrder(v);\n\n            v.element.find('.fp-scrollable').mouseover();\n\n            //callback (afterLoad) if the site is not just resizing and readjusting the slides\n            $.isFunction(options.afterLoad) && !v.localIsResizing && options.afterLoad.call(v.element, v.anchorLink, (v.sectionIndex + 1));\n\n            lazyLoad(v.element);\n            playMedia(v.element)\n\n            canScroll = true;\n\n            $.isFunction(v.callback) && v.callback.call(this);\n        }\n\n        /**\n        * Lazy loads image, video and audio elements.\n        */\n        function lazyLoad(destiny){\n            //Lazy loading images, videos and audios\n            var slide = destiny.find(SLIDE_ACTIVE_SEL);\n            if( slide.length ) {\n                destiny = $(slide);\n            }\n            destiny.find('img[data-src], video[data-src], audio[data-src]').each(function(){\n                $(this).attr('src', $(this).data('src'));\n                $(this).removeAttr('data-src');\n            });\n        }\n\n        /**\n        * Plays video and audio elements.\n        */\n        function playMedia(destiny){\n            //playing HTML5 media elements\n            destiny.find('video, audio').each(function(){\n                var element = $(this).get(0);\n\n                if( element.hasAttribute('autoplay') && typeof element.play === 'function' ) {\n                    element.play();\n                }\n            });\n        }\n\n        /**\n        * Stops video and audio elements.\n        */\n        function stopMedia(destiny){\n            //stopping HTML5 media elements\n            destiny.find('video, audio').each(function(){\n                var element = $(this).get(0);\n\n                if( !element.hasAttribute('data-ignore') && typeof element.pause === 'function' ) {\n                    element.pause();\n                }\n            });\n        }\n\n        /**\n        * Scrolls to the anchor in the URL when loading the site\n        */\n        function scrollToAnchor(){\n            //getting the anchor link in the URL and deleting the `#`\n            var value =  window.location.hash.replace('#', '').split('/');\n            var section = value[0];\n            var slide = value[1];\n\n            if(section){  //if theres any #\n                scrollPageAndSlide(section, slide);\n            }\n        }\n\n        //detecting any change on the URL to scroll to the given anchor link\n        //(a way to detect back history button as we play with the hashes on the URL)\n        $window.on('hashchange', hashChangeHandler);\n\n        function hashChangeHandler(){\n            if(!isScrolling && !options.lockAnchors){\n                var value =  window.location.hash.replace('#', '').split('/');\n                var section = value[0];\n                var slide = value[1];\n\n                if(section.length){\n                    //when moving to a slide in the first section for the first time (first time to add an anchor to the URL)\n                    var isFirstSlideMove =  (typeof lastScrolledDestiny === 'undefined');\n                    var isFirstScrollMove = (typeof lastScrolledDestiny === 'undefined' && typeof slide === 'undefined' && !slideMoving);\n\n                    /*in order to call scrollpage() only once for each destination at a time\n                    It is called twice for each scroll otherwise, as in case of using anchorlinks `hashChange`\n                    event is fired on every scroll too.*/\n                    if ((section && section !== lastScrolledDestiny) && !isFirstSlideMove || isFirstScrollMove || (!slideMoving && lastScrolledSlide != slide ))  {\n                        scrollPageAndSlide(section, slide);\n                    }\n                }\n            }\n        }\n\n        /**\n         * Sliding with arrow keys, both, vertical and horizontal\n         */\n        $document.keydown(keydownHandler);\n\n        //to prevent scrolling while zooming\n        $document.keyup(function(e){\n            controlPressed = e.ctrlKey;\n        });\n\n        //when opening a new tab (ctrl + t), `control` won't be pressed when comming back.\n        $(window).blur(function() {\n            controlPressed = false;\n        });\n\n        var keydownId;\n        function keydownHandler(e) {\n\n            clearTimeout(keydownId);\n\n\n            var activeElement = $(':focus');\n\n            if(!activeElement.is('textarea') && !activeElement.is('input') && !activeElement.is('select') &&\n                options.keyboardScrolling && options.autoScrolling){\n                var keyCode = e.which;\n\n                //preventing the scroll with arrow keys & spacebar & Page Up & Down keys\n                var keyControls = [40, 38, 32, 33, 34];\n                if($.inArray(keyCode, keyControls) > -1){\n                    e.preventDefault();\n                }\n\n                keydownId = setTimeout(function(){\n                    onkeydown(e);\n                },150);\n            }\n        }\n\n        /**\n        * Keydown event\n        */\n        function onkeydown(e){\n            var shiftPressed = e.shiftKey;\n            controlPressed = e.ctrlKey;\n\n            switch (e.which) {\n                //up\n                case 38:\n                case 33:\n                    if(isScrollAllowed.k.up){\n                        FP.moveSectionUp();\n                    }\n                    break;\n\n                //down\n                case 32: //spacebar\n                    if(shiftPressed && isScrollAllowed.k.up){\n                        FP.moveSectionUp();\n                        break;\n                    }\n                case 40:\n                case 34:\n                    if(isScrollAllowed.k.down){\n                        FP.moveSectionDown();\n                    }\n                    break;\n\n                //Home\n                case 36:\n                    if(isScrollAllowed.k.up){\n                        FP.moveTo(1);\n                    }\n                    break;\n\n                //End\n                case 35:\n                     if(isScrollAllowed.k.down){\n                        FP.moveTo( $(SECTION_SEL).length );\n                    }\n                    break;\n\n                //left\n                case 37:\n                    if(isScrollAllowed.k.left){\n                        FP.moveSlideLeft();\n                    }\n                    break;\n\n                //right\n                case 39:\n                    if(isScrollAllowed.k.right){\n                        FP.moveSlideRight();\n                    }\n                    break;\n\n                default:\n                    return; // exit this handler for other keys\n            }\n        }\n\n        //binding the mousemove when the mouse's middle button is released\n        container.mousedown(function(e){\n            //middle button\n            if (e.which == 2){\n                oldPageY = e.pageY;\n                container.on('mousemove', mouseMoveHandler);\n            }\n        });\n\n        //unbinding the mousemove when the mouse's middle button is released\n        container.mouseup(function(e){\n            //middle button\n            if (e.which == 2){\n                container.off('mousemove');\n            }\n        });\n\n        /**\n        * Detecting the direction of the mouse movement.\n        * Used only for the middle button of the mouse.\n        */\n        var oldPageY = 0;\n        function mouseMoveHandler(e){\n            // moving up\n            if(canScroll){\n                if (e.pageY < oldPageY){\n                    FP.moveSectionUp();\n\n                // moving downw\n                }else if(e.pageY > oldPageY){\n                    FP.moveSectionDown();\n                }\n            }\n            oldPageY = e.pageY;\n        }\n\n        /**\n        * Scrolls to the section when clicking the navigation bullet\n        */\n        $document.on('click touchstart', SECTION_NAV_SEL + ' a', function(e){\n            e.preventDefault();\n            var index = $(this).parent().index();\n            scrollPage($(SECTION_SEL).eq(index));\n        });\n\n        /**\n        * Scrolls the slider to the given slide destination for the given section\n        */\n        $document.on('click touchstart', SLIDES_NAV_LINK_SEL, function(e){\n            e.preventDefault();\n            var slides = $(this).closest(SECTION_SEL).find(SLIDES_WRAPPER_SEL);\n            var destiny = slides.find(SLIDE_SEL).eq($(this).closest('li').index());\n\n            landscapeScroll(slides, destiny);\n        });\n\n        /**\n        * Applying normalScroll elements.\n        * Ignoring the scrolls over the specified selectors.\n        */\n        if(options.normalScrollElements){\n            $document.on('mouseenter', options.normalScrollElements, function () {\n                FP.setMouseWheelScrolling(false);\n            });\n\n            $document.on('mouseleave', options.normalScrollElements, function(){\n                FP.setMouseWheelScrolling(true);\n            });\n        }\n\n        /**\n         * Scrolling horizontally when clicking on the slider controls.\n         */\n        $(SECTION_SEL).on('click touchstart', SLIDES_ARROW_SEL, function() {\n            if ($(this).hasClass(SLIDES_PREV)) {\n                if(isScrollAllowed.m.left){\n                    FP.moveSlideLeft();\n                }\n            } else {\n                if(isScrollAllowed.m.right){\n                    FP.moveSlideRight();\n                }\n            }\n        });\n\n        /**\n        * Scrolls horizontal sliders.\n        */\n        function landscapeScroll(slides, destiny){\n            var destinyPos = destiny.position();\n            var slideIndex = destiny.index();\n            var section = slides.closest(SECTION_SEL);\n            var sectionIndex = section.index(SECTION_SEL);\n            var anchorLink = section.data('anchor');\n            var slidesNav = section.find(SLIDES_NAV_SEL);\n            var slideAnchor = getSlideAnchor(destiny);\n\n            //caching the value of isResizing at the momment the function is called\n            //because it will be checked later inside a setTimeout and the value might change\n            var localIsResizing = isResizing;\n\n            if(options.onSlideLeave){\n                var prevSlide = section.find(SLIDE_ACTIVE_SEL);\n                var prevSlideIndex = prevSlide.index();\n                var xMovement = getXmovement(prevSlideIndex, slideIndex);\n\n                //if the site is not just resizing and readjusting the slides\n                if(!localIsResizing && xMovement!=='none'){\n                    if($.isFunction( options.onSlideLeave )){\n                        if(options.onSlideLeave.call( prevSlide, anchorLink, (sectionIndex + 1), prevSlideIndex, xMovement, slideIndex ) === false){\n                            slideMoving = false;\n                            return;\n                        }\n                    }\n                }\n            }\n\n            destiny.addClass(ACTIVE).siblings().removeClass(ACTIVE);\n            lazyLoad(destiny);\n\n            if(!options.loopHorizontal && options.controlArrows){\n                //hidding it for the fist slide, showing for the rest\n                section.find(SLIDES_ARROW_PREV_SEL).toggle(slideIndex!==0);\n\n                //hidding it for the last slide, showing for the rest\n                section.find(SLIDES_ARROW_NEXT_SEL).toggle(!destiny.is(':last-child'));\n            }\n\n            //only changing the URL if the slides are in the current section (not for resize re-adjusting)\n            if(section.hasClass(ACTIVE)){\n                setState(slideIndex, slideAnchor, anchorLink, sectionIndex);\n            }\n\n            var afterSlideLoads = function(){\n                //if the site is not just resizing and readjusting the slides\n                if(!localIsResizing){\n                    $.isFunction( options.afterSlideLoad ) && options.afterSlideLoad.call( destiny, anchorLink, (sectionIndex + 1), slideAnchor, slideIndex);\n                }\n                //letting them slide again\n                slideMoving = false;\n            };\n\n            if(options.css3){\n                var translate3d = 'translate3d(-' + Math.round(destinyPos.left) + 'px, 0px, 0px)';\n\n                addAnimation(slides.find(SLIDES_CONTAINER_SEL), options.scrollingSpeed>0).css(getTransforms(translate3d));\n\n                afterSlideLoadsId = setTimeout(function(){\n                    afterSlideLoads();\n                }, options.scrollingSpeed, options.easing);\n            }else{\n                slides.animate({\n                    scrollLeft : Math.round(destinyPos.left)\n                }, options.scrollingSpeed, options.easing, function() {\n\n                    afterSlideLoads();\n                });\n            }\n\n            slidesNav.find(ACTIVE_SEL).removeClass(ACTIVE);\n            slidesNav.find('li').eq(slideIndex).find('a').addClass(ACTIVE);\n        }\n\n        //when resizing the site, we adjust the heights of the sections, slimScroll...\n        $window.resize(resizeHandler);\n\n        var previousHeight = windowsHeight;\n        function resizeHandler(){\n            //checking if it needs to get responsive\n            responsive();\n\n            // rebuild immediately on touch devices\n            if (isTouchDevice) {\n                var activeElement = $(document.activeElement);\n\n                //if the keyboard is NOT visible\n                if (!activeElement.is('textarea') && !activeElement.is('input') && !activeElement.is('select')) {\n                    var currentHeight = $window.height();\n\n                    //making sure the change in the viewport size is enough to force a rebuild. (20 % of the window to avoid problems when hidding scroll bars)\n                    if( Math.abs(currentHeight - previousHeight) > (20 * Math.max(previousHeight, currentHeight) / 100) ){\n                        FP.reBuild(true);\n                        previousHeight = currentHeight;\n                    }\n                }\n            }else{\n                //in order to call the functions only when the resize is finished\n                //http://stackoverflow.com/questions/4298612/jquery-how-to-call-resize-event-only-once-its-finished-resizing\n                clearTimeout(resizeId);\n\n                resizeId = setTimeout(function(){\n                    FP.reBuild(true);\n                }, 350);\n            }\n        }\n\n        /**\n        * Checks if the site needs to get responsive and disables autoScrolling if so.\n        * A class `fp-responsive` is added to the plugin's container in case the user wants to use it for his own responsive CSS.\n        */\n        function responsive(){\n            var widthLimit = options.responsive || options.responsiveWidth; //backwards compatiblity\n            var heightLimit = options.responsiveHeight;\n\n            if(widthLimit){\n                FP.setResponsive($window.width() < widthLimit);\n            }\n\n            if(heightLimit){\n                var isResponsive = container.hasClass(RESPONSIVE);\n\n                //if its not already in responsive mode because of the `width` limit\n                if(!isResponsive){\n                    FP.setResponsive($window.height() < heightLimit);\n                }\n            }\n        }\n\n        /**\n        * Adds transition animations for the given element\n        */\n        function addAnimation(element){\n            var transition = 'all ' + options.scrollingSpeed + 'ms ' + options.easingcss3;\n\n            element.removeClass(NO_TRANSITION);\n            return element.css({\n                '-webkit-transition': transition,\n                'transition': transition\n            });\n        }\n\n        /**\n        * Remove transition animations for the given element\n        */\n        function removeAnimation(element){\n            return element.addClass(NO_TRANSITION);\n        }\n\n        /**\n         * Resizing of the font size depending on the window size as well as some of the images on the site.\n         */\n        function resizeMe(displayHeight, displayWidth) {\n            //Standard dimensions, for which the body font size is correct\n            var preferredHeight = 825;\n            var preferredWidth = 900;\n\n            if (displayHeight < preferredHeight || displayWidth < preferredWidth) {\n                var heightPercentage = (displayHeight * 100) / preferredHeight;\n                var widthPercentage = (displayWidth * 100) / preferredWidth;\n                var percentage = Math.min(heightPercentage, widthPercentage);\n                var newFontSize = percentage.toFixed(2);\n\n                $body.css('font-size', newFontSize + '%');\n            } else {\n                $body.css('font-size', '100%');\n            }\n        }\n\n        /**\n         * Activating the website navigation dots according to the given slide name.\n         */\n        function activateNavDots(name, sectionIndex){\n            if(options.navigation){\n                $(SECTION_NAV_SEL).find(ACTIVE_SEL).removeClass(ACTIVE);\n                if(name){\n                    $(SECTION_NAV_SEL).find('a[href=\"#' + name + '\"]').addClass(ACTIVE);\n                }else{\n                    $(SECTION_NAV_SEL).find('li').eq(sectionIndex).find('a').addClass(ACTIVE);\n                }\n            }\n        }\n\n        /**\n         * Activating the website main menu elements according to the given slide name.\n         */\n        function activateMenuElement(name){\n            if(options.menu){\n                $(options.menu).find(ACTIVE_SEL).removeClass(ACTIVE);\n                $(options.menu).find('[data-menuanchor=\"'+name+'\"]').addClass(ACTIVE);\n            }\n        }\n\n        function activateMenuAndNav(anchor, index){\n            activateMenuElement(anchor);\n            activateNavDots(anchor, index);\n        }\n\n        /**\n        * Return a boolean depending on whether the scrollable element is at the end or at the start of the scrolling\n        * depending on the given type.\n        */\n        function isScrolled(type, scrollable){\n            if(type === 'top'){\n                return !scrollable.scrollTop();\n            }else if(type === 'bottom'){\n                return scrollable.scrollTop() + 1 + scrollable.innerHeight() >= scrollable[0].scrollHeight;\n            }\n        }\n\n        /**\n        * Retuns `up` or `down` depending on the scrolling movement to reach its destination\n        * from the current section.\n        */\n        function getYmovement(destiny){\n            var fromIndex = $(SECTION_ACTIVE_SEL).index(SECTION_SEL);\n            var toIndex = destiny.index(SECTION_SEL);\n            if( fromIndex == toIndex){\n                return 'none';\n            }\n            if(fromIndex > toIndex){\n                return 'up';\n            }\n            return 'down';\n        }\n\n        /**\n        * Retuns `right` or `left` depending on the scrolling movement to reach its destination\n        * from the current slide.\n        */\n        function getXmovement(fromIndex, toIndex){\n            if( fromIndex == toIndex){\n                return 'none';\n            }\n            if(fromIndex > toIndex){\n                return 'left';\n            }\n            return 'right';\n        }\n\n\n        function createSlimScrolling(element){\n            //needed to make `scrollHeight` work under Opera 12\n            element.css('overflow', 'hidden');\n\n            //in case element is a slide\n            var section = element.closest(SECTION_SEL);\n            var scrollable = element.find(SCROLLABLE_SEL);\n            var contentHeight;\n\n            //if there was scroll, the contentHeight will be the one in the scrollable section\n            if(scrollable.length){\n                contentHeight = scrollable.get(0).scrollHeight;\n            }else{\n                contentHeight = element.get(0).scrollHeight;\n                if(options.verticalCentered){\n                    contentHeight = element.find(TABLE_CELL_SEL).get(0).scrollHeight;\n                }\n            }\n\n            var scrollHeight = windowsHeight - parseInt(section.css('padding-bottom')) - parseInt(section.css('padding-top'));\n\n            //needs scroll?\n            if ( contentHeight > scrollHeight) {\n                //was there already an scroll ? Updating it\n                if(scrollable.length){\n                    scrollable.css('height', scrollHeight + 'px').parent().css('height', scrollHeight + 'px');\n                }\n                //creating the scrolling\n                else{\n                    if(options.verticalCentered){\n                        element.find(TABLE_CELL_SEL).wrapInner('<div class=\"' + SCROLLABLE + '\" />');\n                    }else{\n                        element.wrapInner('<div class=\"' + SCROLLABLE + '\" />');\n                    }\n\n                    element.find(SCROLLABLE_SEL).slimScroll({\n                        allowPageScroll: true,\n                        height: scrollHeight + 'px',\n                        size: '10px',\n                        alwaysVisible: true\n                    });\n                }\n            }\n\n            //removing the scrolling when it is not necessary anymore\n            else{\n                removeSlimScroll(element);\n            }\n\n            //undo\n            element.css('overflow', '');\n        }\n\n        function removeSlimScroll(element){\n            element.find(SCROLLABLE_SEL).children().first().unwrap().unwrap();\n            element.find(SLIMSCROLL_BAR_SEL).remove();\n            element.find(SLIMSCROLL_RAIL_SEL).remove();\n        }\n\n        function addTableClass(element){\n            element.addClass(TABLE).wrapInner('<div class=\"' + TABLE_CELL + '\" style=\"height:' + getTableHeight(element) + 'px;\" />');\n        }\n\n        function getTableHeight(element){\n            var sectionHeight = windowsHeight;\n\n            if(options.paddingTop || options.paddingBottom){\n                var section = element;\n                if(!section.hasClass(SECTION)){\n                    section = element.closest(SECTION_SEL);\n                }\n\n                var paddings = parseInt(section.css('padding-top')) + parseInt(section.css('padding-bottom'));\n                sectionHeight = (windowsHeight - paddings);\n            }\n\n            return sectionHeight;\n        }\n\n        /**\n        * Adds a css3 transform property to the container class with or without animation depending on the animated param.\n        */\n        function transformContainer(translate3d, animated){\n            if(animated){\n                addAnimation(container);\n            }else{\n                removeAnimation(container);\n            }\n\n            container.css(getTransforms(translate3d));\n\n            //syncronously removing the class after the animation has been applied.\n            setTimeout(function(){\n                container.removeClass(NO_TRANSITION);\n            },10);\n        }\n\n        /**\n        * Gets a section by its anchor / index\n        */\n        function getSectionByAnchor(sectionAnchor){\n            //section\n            var section = $(SECTION_SEL + '[data-anchor=\"'+sectionAnchor+'\"]');\n            if(!section.length){\n                section = $(SECTION_SEL).eq( (sectionAnchor -1) );\n            }\n\n            return section;\n        }\n\n        /**\n        * Gets a slide inside a given section by its anchor / index\n        */\n        function getSlideByAnchor(slideAnchor, section){\n            var slides = section.find(SLIDES_WRAPPER_SEL);\n            var slide =  slides.find(SLIDE_SEL + '[data-anchor=\"'+slideAnchor+'\"]');\n\n            if(!slide.length){\n                slide = slides.find(SLIDE_SEL).eq(slideAnchor);\n            }\n\n            return slide;\n        }\n\n        /**\n        * Scrolls to the given section and slide anchors\n        */\n        function scrollPageAndSlide(destiny, slide){\n            var section = getSectionByAnchor(destiny);\n\n            //default slide\n            if (typeof slide === 'undefined') {\n                slide = 0;\n            }\n\n            //we need to scroll to the section and then to the slide\n            if (destiny !== lastScrolledDestiny && !section.hasClass(ACTIVE)){\n                scrollPage(section, function(){\n                    scrollSlider(section, slide);\n                });\n            }\n            //if we were already in the section\n            else{\n                scrollSlider(section, slide);\n            }\n        }\n\n        /**\n        * Scrolls the slider to the given slide destination for the given section\n        */\n        function scrollSlider(section, slideAnchor){\n            if(typeof slideAnchor !== 'undefined'){\n                var slides = section.find(SLIDES_WRAPPER_SEL);\n                var destiny =  getSlideByAnchor(slideAnchor, section);\n\n                if(destiny.length){\n                    landscapeScroll(slides, destiny);\n                }\n            }\n        }\n\n        /**\n        * Creates a landscape navigation bar with dots for horizontal sliders.\n        */\n        function addSlidesNavigation(section, numSlides){\n            section.append('<div class=\"' + SLIDES_NAV + '\"><ul></ul></div>');\n            var nav = section.find(SLIDES_NAV_SEL);\n\n            //top or bottom\n            nav.addClass(options.slidesNavPosition);\n\n            for(var i=0; i< numSlides; i++){\n                nav.find('ul').append('<li><a href=\"#\"><span></span></a></li>');\n            }\n\n            //centering it\n            nav.css('margin-left', '-' + (nav.width()/2) + 'px');\n\n            nav.find('li').first().find('a').addClass(ACTIVE);\n        }\n\n\n        /**\n        * Sets the state of the website depending on the active section/slide.\n        * It changes the URL hash when needed and updates the body class.\n        */\n        function setState(slideIndex, slideAnchor, anchorLink, sectionIndex){\n            var sectionHash = '';\n\n            if(options.anchors.length && !options.lockAnchors){\n\n                //isn't it the first slide?\n                if(slideIndex){\n                    if(typeof anchorLink !== 'undefined'){\n                        sectionHash = anchorLink;\n                    }\n\n                    //slide without anchor link? We take the index instead.\n                    if(typeof slideAnchor === 'undefined'){\n                        slideAnchor = slideIndex;\n                    }\n\n                    lastScrolledSlide = slideAnchor;\n                    setUrlHash(sectionHash + '/' + slideAnchor);\n\n                //first slide won't have slide anchor, just the section one\n                }else if(typeof slideIndex !== 'undefined'){\n                    lastScrolledSlide = slideAnchor;\n                    setUrlHash(anchorLink);\n                }\n\n                //section without slides\n                else{\n                    setUrlHash(anchorLink);\n                }\n            }\n\n            setBodyClass();\n        }\n\n        /**\n        * Sets the URL hash.\n        */\n        function setUrlHash(url){\n            if(options.recordHistory){\n                location.hash = url;\n            }else{\n                //Mobile Chrome doesn't work the normal way, so... lets use HTML5 for phones :)\n                if(isTouchDevice || isTouch){\n                    history.replaceState(undefined, undefined, '#' + url);\n                }else{\n                    var baseUrl = window.location.href.split('#')[0];\n                    window.location.replace( baseUrl + '#' + url );\n                }\n            }\n        }\n\n        /**\n        * Gets the anchor for the given slide. Its index will be used if there's none.\n        */\n        function getSlideAnchor(slide){\n            var slideAnchor = slide.data('anchor');\n            var slideIndex = slide.index();\n\n            //Slide without anchor link? We take the index instead.\n            if(typeof slideAnchor === 'undefined'){\n                slideAnchor = slideIndex;\n            }\n\n            return slideAnchor;\n        }\n\n        /**\n        * Sets a class for the body of the page depending on the active section / slide\n        */\n        function setBodyClass(){\n            var section = $(SECTION_ACTIVE_SEL);\n            var slide = section.find(SLIDE_ACTIVE_SEL);\n\n            var sectionAnchor = section.data('anchor');\n            var slideAnchor = getSlideAnchor(slide);\n\n            var sectionIndex = section.index(SECTION_SEL);\n\n            var text = String(sectionIndex);\n\n            if(options.anchors.length){\n                text = sectionAnchor;\n            }\n\n            if(slide.length){\n                text = text + '-' + slideAnchor;\n            }\n\n            //changing slash for dash to make it a valid CSS style\n            text = text.replace('/', '-').replace('#','');\n\n            //removing previous anchor classes\n            var classRe = new RegExp('\\\\b\\\\s?' + VIEWING_PREFIX + '-[^\\\\s]+\\\\b', \"g\");\n            $body[0].className = $body[0].className.replace(classRe, '');\n\n            //adding the current anchor\n            $body.addClass(VIEWING_PREFIX + '-' + text);\n        }\n\n        /**\n        * Checks for translate3d support\n        * @return boolean\n        * http://stackoverflow.com/questions/5661671/detecting-transform-translate3d-support\n        */\n        function support3d() {\n            var el = document.createElement('p'),\n                has3d,\n                transforms = {\n                    'webkitTransform':'-webkit-transform',\n                    'OTransform':'-o-transform',\n                    'msTransform':'-ms-transform',\n                    'MozTransform':'-moz-transform',\n                    'transform':'transform'\n                };\n\n            // Add it to the body to get the computed style.\n            document.body.insertBefore(el, null);\n\n            for (var t in transforms) {\n                if (el.style[t] !== undefined) {\n                    el.style[t] = 'translate3d(1px,1px,1px)';\n                    has3d = window.getComputedStyle(el).getPropertyValue(transforms[t]);\n                }\n            }\n\n            document.body.removeChild(el);\n\n            return (has3d !== undefined && has3d.length > 0 && has3d !== 'none');\n        }\n\n        /**\n        * Removes the auto scrolling action fired by the mouse wheel and trackpad.\n        * After this function is called, the mousewheel and trackpad movements won't scroll through sections.\n        */\n        function removeMouseWheelHandler(){\n            if (document.addEventListener) {\n                document.removeEventListener('mousewheel', MouseWheelHandler, false); //IE9, Chrome, Safari, Oper\n                document.removeEventListener('wheel', MouseWheelHandler, false); //Firefox\n                document.removeEventListener('DOMMouseScroll', MouseWheelHandler, false); //old Firefox\n            } else {\n                document.detachEvent('onmousewheel', MouseWheelHandler); //IE 6/7/8\n            }\n        }\n\n        /**\n        * Adds the auto scrolling action for the mouse wheel and trackpad.\n        * After this function is called, the mousewheel and trackpad movements will scroll through sections\n        */\n        function addMouseWheelHandler(){\n            if (document.addEventListener) {\n                document.addEventListener('mousewheel', MouseWheelHandler, false); //IE9, Chrome, Safari, Oper\n                document.addEventListener('wheel', MouseWheelHandler, false); //Firefox\n                document.addEventListener('DOMMouseScroll', MouseWheelHandler, false); //Old Firefox\n            } else {\n                document.attachEvent('onmousewheel', MouseWheelHandler); //IE 6/7/8\n            }\n        }\n\n        /**\n        * Adds the possibility to auto scroll through sections on touch devices.\n        */\n        function addTouchHandler(){\n            if(isTouchDevice || isTouch){\n                //Microsoft pointers\n                var MSPointer = getMSPointer();\n\n                $(WRAPPER_SEL).off('touchstart ' +  MSPointer.down).on('touchstart ' + MSPointer.down, touchStartHandler);\n                $(WRAPPER_SEL).off('touchmove ' + MSPointer.move).on('touchmove ' + MSPointer.move, touchMoveHandler);\n            }\n        }\n\n        /**\n        * Removes the auto scrolling for touch devices.\n        */\n        function removeTouchHandler(){\n            if(isTouchDevice || isTouch){\n                //Microsoft pointers\n                var MSPointer = getMSPointer();\n\n                $(WRAPPER_SEL).off('touchstart ' + MSPointer.down);\n                $(WRAPPER_SEL).off('touchmove ' + MSPointer.move);\n            }\n        }\n\n        /*\n        * Returns and object with Microsoft pointers (for IE<11 and for IE >= 11)\n        * http://msdn.microsoft.com/en-us/library/ie/dn304886(v=vs.85).aspx\n        */\n        function getMSPointer(){\n            var pointer;\n\n            //IE >= 11 & rest of browsers\n            if(window.PointerEvent){\n                pointer = { down: 'pointerdown', move: 'pointermove'};\n            }\n\n            //IE < 11\n            else{\n                pointer = { down: 'MSPointerDown', move: 'MSPointerMove'};\n            }\n\n            return pointer;\n        }\n\n        /**\n        * Gets the pageX and pageY properties depending on the browser.\n        * https://github.com/alvarotrigo/fullPage.js/issues/194#issuecomment-34069854\n        */\n        function getEventsPage(e){\n            var events = [];\n\n            events.y = (typeof e.pageY !== 'undefined' && (e.pageY || e.pageX) ? e.pageY : e.touches[0].pageY);\n            events.x = (typeof e.pageX !== 'undefined' && (e.pageY || e.pageX) ? e.pageX : e.touches[0].pageX);\n\n            //in touch devices with scrollBar:true, e.pageY is detected, but we have to deal with touch events. #1008\n            if(isTouch && isReallyTouch(e) && options.scrollBar){\n                events.y = e.touches[0].pageY;\n                events.x = e.touches[0].pageX;\n            }\n\n            return events;\n        }\n\n        /**\n        * Slides silently (with no animation) the active slider to the given slide.\n        */\n        function silentLandscapeScroll(activeSlide, noCallbacks){\n            FP.setScrollingSpeed (0, 'internal');\n\n            if(typeof noCallbacks !== 'undefined'){\n                //preventing firing callbacks afterSlideLoad etc.\n                isResizing = true;\n            }\n\n            landscapeScroll(activeSlide.closest(SLIDES_WRAPPER_SEL), activeSlide);\n\n            if(typeof noCallbacks !== 'undefined'){\n                isResizing = false;\n            }\n\n            FP.setScrollingSpeed(originals.scrollingSpeed, 'internal');\n        }\n\n        /**\n        * Scrolls silently (with no animation) the page to the given Y position.\n        */\n        function silentScroll(top){\n            if(options.scrollBar){\n                container.scrollTop(top);\n            }\n            else if (options.css3) {\n                var translate3d = 'translate3d(0px, -' + top + 'px, 0px)';\n                transformContainer(translate3d, false);\n            }\n            else {\n                container.css('top', -top);\n            }\n        }\n\n        /**\n        * Returns the cross-browser transform string.\n        */\n        function getTransforms(translate3d){\n            return {\n                '-webkit-transform': translate3d,\n                '-moz-transform': translate3d,\n                '-ms-transform':translate3d,\n                'transform': translate3d\n            };\n        }\n\n        /**\n        * Allowing or disallowing the mouse/swipe scroll in a given direction. (not for keyboard)\n        * @type  m (mouse) or k (keyboard)\n        */\n        function setIsScrollAllowed(value, direction, type){\n            switch (direction){\n                case 'up': isScrollAllowed[type].up = value; break;\n                case 'down': isScrollAllowed[type].down = value; break;\n                case 'left': isScrollAllowed[type].left = value; break;\n                case 'right': isScrollAllowed[type].right = value; break;\n                case 'all':\n                    if(type == 'm'){\n                        FP.setAllowScrolling(value);\n                    }else{\n                        FP.setKeyboardScrolling(value);\n                    }\n            }\n        }\n\n        /*\n        * Destroys fullpage.js plugin events and optinally its html markup and styles\n        */\n        FP.destroy = function(all){\n            FP.setAutoScrolling(false, 'internal');\n            FP.setAllowScrolling(false);\n            FP.setKeyboardScrolling(false);\n            container.addClass(DESTROYED);\n\n            clearTimeout(afterSlideLoadsId);\n            clearTimeout(afterSectionLoadsId);\n            clearTimeout(resizeId);\n            clearTimeout(scrollId);\n            clearTimeout(scrollId2);\n\n            $window\n                .off('scroll', scrollHandler)\n                .off('hashchange', hashChangeHandler)\n                .off('resize', resizeHandler);\n\n            $document\n                .off('click', SECTION_NAV_SEL + ' a')\n                .off('mouseenter', SECTION_NAV_SEL + ' li')\n                .off('mouseleave', SECTION_NAV_SEL + ' li')\n                .off('click', SLIDES_NAV_LINK_SEL)\n                .off('mouseover', options.normalScrollElements)\n                .off('mouseout', options.normalScrollElements);\n\n            $(SECTION_SEL)\n                .off('click', SLIDES_ARROW_SEL);\n\n            //lets make a mess!\n            if(all){\n                destroyStructure();\n            }\n        };\n\n        /*\n        * Removes inline styles added by fullpage.js\n        */\n        function destroyStructure(){\n            //reseting the `top` or `translate` properties to 0\n            silentScroll(0);\n\n            $(SECTION_NAV_SEL + ', ' + SLIDES_NAV_SEL +  ', ' + SLIDES_ARROW_SEL).remove();\n\n            //removing inline styles\n            $(SECTION_SEL).css( {\n                'height': '',\n                'background-color' : '',\n                'padding': ''\n            });\n\n            $(SLIDE_SEL).css( {\n                'width': ''\n            });\n\n            container.css({\n                'height': '',\n                'position': '',\n                '-ms-touch-action': '',\n                'touch-action': ''\n            });\n\n            //removing added classes\n            $(SECTION_SEL + ', ' + SLIDE_SEL).each(function(){\n                removeSlimScroll($(this));\n                $(this).removeClass(TABLE + ' ' + ACTIVE);\n            });\n\n            removeAnimation(container);\n\n            //Unwrapping content\n            container.find(TABLE_CELL_SEL + ', ' + SLIDES_CONTAINER_SEL + ', ' + SLIDES_WRAPPER_SEL).each(function(){\n                //unwrap not being use in case there's no child element inside and its just text\n                $(this).replaceWith(this.childNodes);\n            });\n\n            //scrolling the page to the top with no animation\n            $htmlBody.scrollTop(0);\n        }\n\n        /*\n        * Sets the state for a variable with multiple states (original, and temporal)\n        * Some variables such as `autoScrolling` or `recordHistory` might change automatically its state when using `responsive` or `autoScrolling:false`.\n        * This function is used to keep track of both states, the original and the temporal one.\n        * If type is not 'internal', then we assume the user is globally changing the variable.\n        */\n        function setVariableState(variable, value, type){\n            options[variable] = value;\n            if(type !== 'internal'){\n                originals[variable] = value;\n            }\n        }\n\n        /**\n        * Displays warnings\n        */\n        function displayWarnings(){\n            // Disable mutually exclusive settings\n            if (options.continuousVertical &&\n                (options.loopTop || options.loopBottom)) {\n                options.continuousVertical = false;\n                showError('warn', 'Option `loopTop/loopBottom` is mutually exclusive with `continuousVertical`; `continuousVertical` disabled');\n            }\n\n            if(options.scrollBar && options.scrollOverflow){\n                showError('warn', 'Option `scrollBar` is mutually exclusive with `scrollOverflow`. Sections with scrollOverflow might not work well in Firefox');\n            }\n\n            if(options.continuousVertical && options.scrollBar){\n                options.continuousVertical = false;\n                showError('warn', 'Option `scrollBar` is mutually exclusive with `continuousVertical`; `continuousVertical` disabled');\n            }\n\n            //anchors can not have the same value as any element ID or NAME\n            $.each(options.anchors, function(index, name){\n                if($('#' + name).length || $('[name=\"'+name+'\"]').length ){\n                    showError('error', 'data-anchor tags can not have the same value as any `id` element on the site (or `name` element for IE).');\n                }\n            });\n        }\n\n        /**\n        * Shows a message in the console of the given type.\n        */\n        function showError(type, text){\n            console && console[type] && console[type]('fullPage: ' + text);\n        }\n    };\n});\n",
+			"file": "assets/publicity/js/jquery.fullPage.js",
+			"file_size": 92800,
+			"file_write_time": 130819010220000000,
+			"settings":
+			{
+				"buffer_size": 90338,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/publicity/css/animate.css",
+			"settings":
+			{
+				"buffer_size": 55292,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as Javascript Syntax"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/workspace/uedhome/node_wechat/assets/publicity/app.html",
+		"/D/workspace/uedhome/node_wechat/assets/publicity/css/animate.css",
+		"/D/workspace/uedhome/node_wechat/api/services/WechatDispatch.js",
+		"/D/workspace/uedhome/node_wechat/test/unit/controllers/ApiController.test.js",
+		"/D/workspace/uedhome/node_wechat/test/unit/controllers/UserRelevanceController.test.js",
+		"/D/workspace/uedhome/node_wechat/assets/js/javascript/user_relevance/index.js",
+		"/D/workspace/uedhome/node_wechat/api/services/HttpClient.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/liujie/Desktop/host/dev.host.txt",
+		"/D/workspace/uedhome/node_wechat/api/controllers/ApiController.js",
+		"/D/workspace/uedhome/node_wechat/views/api/auth.ejs",
+		"/D/workspace/uedhome/node_wechat/api/controllers/UserRelevanceController.js",
+		"/D/workspace/uedhome/node_wechat/assets/css/style/order_success.less",
+		"/C/Users/liujie/Desktop/shop.hosts",
+		"/C/Users/liujie/Desktop/host/pnrshop.host.txt",
+		"/C/Users/liujie/Desktop/资金独立hosts.txt",
+		"/D/workspace/uedhome/node_wechat/assets/css/style/user_relevance.less",
+		"/D/workspace/uedhome/node_wechat/api/services/RemoteApi.js",
+		"/D/workspace/uedhome/node_wechat/api/models/User.js",
+		"/D/workspace/uedhome/node_wechat/api/models/Menu.js",
+		"/D/workspace/uedhome/node_wechat/assets/js/javascript/common/Alert.js",
+		"/C/Users/liujie/Desktop/Alert.js",
+		"/D/workspace/uedhome/node_wechat/config/custom.js",
+		"/D/workspace/uedhome/node_wechat/views/userrelevance/index.ejs",
+		"/D/workspace/uedhome/node_wechat/assets/js/javascript/common/Validate.js",
+		"/D/workspace/uedhome/node_wechat/node_wechat.sublime-workspace",
+		"/D/workspace/uedhome/pay2.0/routes/users.js",
+		"/D/workspace/uedhome/node_wechat/node_wechat.sublime-project",
+		"/D/workspace/uedhome/node_wechat/views/homepage.ejs",
+		"/D/workspace/uedhome/node_wechat/views/404.ejs",
+		"/D/workspace/uedhome/node_wechat/views/403.ejs",
+		"/D/workspace/uedhome/node_wechat/views/500.ejs",
+		"/D/workspace/uedhome/node_wechat/access_token.txt",
+		"/D/workspace/uedhome/node_wechat/api/controllers/UserController.js",
+		"/D/workspace/uedhome/node_wechat/api/services/WechatUtils.js",
+		"/D/workspace/uedhome/node_wechat/assets/js/javascript/common/config.js",
+		"/D/workspace/uedhome/node_wechat/tasks/pipeline.js",
+		"/D/workspace/uedhome/node_wechat/config/views.js",
+		"/D/workspace/uedhome/node_wechat/node_modules/wechat-api/test/api_customer.test.js",
+		"/C/Users/liujie/Desktop/host.dev.txt",
+		"/D/workspace/uedhome/node_wechat/test/unit/models/User.test.js",
+		"/D/workspace/uedhome/node_wechat/config/log.js",
+		"/D/workspace/uedhome/node_wechat/node_modules/sails/lib/hooks/http/start.js",
+		"/D/workspace/uedhome/node_wechat/package.json",
+		"/D/workspace/uedhome/node_wechat/test/bootstrap.test.js",
+		"/D/workspace/uedhome/node_wechat/node_modules/supertest/test/supertest.js",
+		"/D/workspace/uedhome/node_wechat/config/http.js",
+		"/D/workspace/uedhome/node_wechat/views/api/voice.ejs",
+		"/D/workspace/uedhome/node_wechat/wechat.sql",
+		"/D/workspace/uedhome/node_wechat/README.md",
+		"/D/workspace/uedhome/node_wechat/quickstart.bat",
+		"/D/workspace/uedhome/node_wechat/pub",
+		"/D/workspace/uedhome/node_wechat/.editorconfig",
+		"/D/workspace/uedhome/node_wechat/views/api/text.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/test/bootstrap.test.js",
+		"/C/Users/liujie/Desktop/news_h5/news_h5/home.html",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/models1/User.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/layout.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/homepage.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/Api/text.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/node_modules/sails/bin/sails-lift.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/app.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/node_modules/sails/lib/hooks/http/start.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/.sailsrc",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/globals.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/controllers/ApiController.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/models/Menu.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/models.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/connections.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/bootstrap.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/blueprints.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/env/production.js",
+		"/D/workspace/uedhome/newStatic/tapp/package.json",
+		"/D/workspace/uedhome/newStatic/tapp/test/bootstrap.test.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/test/unit/models/User.test.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/models/User.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/package.json",
+		"/D/workspace/uedhome/newStatic/node_wechat/node_modules/sails/package.json",
+		"/D/workspace/uedhome/newStatic/node_wechat/node_modules/sails/bin/sails.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/test/mocha.opts",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/controllers/UserRelevanceController.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/controllers/UserController.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/UserRelevance/index.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/assets/js/javascript/user_relevance/index.js",
+		"/C/Users/liujie/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/liujie/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/README.md",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/services/RemoteApi.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/services/WechatUtils.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/services/WechatDispatch.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/UserRelevance/succss.ejs",
+		"/C/Users/liujie/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/http.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/assets/js/javascript/common/vercode.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/assets/js/javascript/common/config.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/policies.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/assets/css/style/user_relevance.less",
+		"/D/workspace/uedhome/newStatic/node_wechat/assets/js/javascript/common/Httpclient.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/assets/js/javascript/common/Validate.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/assets/css/style/common.css",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/services/HttpClient.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/assets/js/javascript/product/detail.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/assets/js/javascript/common/common.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/access_token.txt",
+		"/C/Users/liujie/Desktop/pnrshop.host.txt",
+		"/D/workspace/uedhome/newStatic/node_wechat/pub",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/policies/sessionAuth.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/403.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/node_modules/sails/node_modules/waterline/lib/waterline/model/lib/model.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/Api/index.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/Api/video.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/Api/shortvideo.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/custom.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/controllers/admin/CodePublishController.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/Api/image.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/Api/news.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/Api/voice.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/node_modules/.bin/sails",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/Api/music.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/admin/codepublish/index.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/api/controllers/CodePublishController.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/CodePublish/index.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/node_modules/skipper/node_modules/connect/lib/utils.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/api/index.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/500.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/views/404.ejs",
+		"/D/workspace/uedhome/newStatic/node_wechat/tasks/pipeline.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/Gruntfile.js",
+		"/D/workspace/uedhome/newStatic/node_wechat/config/views.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\workspace\\uedhome\\node_wechat",
+			"D:\\workspace\\uedhome\\node_wechat\\api",
+			"D:\\workspace\\uedhome\\node_wechat\\api\\controllers",
+			"D:\\workspace\\uedhome\\node_wechat\\api\\services",
+			"D:\\workspace\\uedhome\\node_wechat\\api",
+			"D:\\workspace\\uedhome\\node_wechat\\node_modules",
+			"D:\\workspace\\uedhome\\node_wechat\\views",
+			"D:\\workspace\\uedhome\\node_wechat\\config",
+			"D:\\workspace\\uedhome\\node_wechat\\api",
+			"D:\\workspace\\uedhome\\node_wechat\\api\\controllers",
+			"D:\\workspace\\uedhome\\node_wechat\\api\\services",
+			"D:\\workspace\\uedhome\\node_wechat\\api",
+			"D:\\workspace\\uedhome\\node_wechat\\views",
+			"D:\\workspace\\uedhome\\node_wechat\\api\\controllers",
+			"D:\\workspace\\uedhome\\newStatic\\node_wechat\\node_modules\\sails",
+			"D:\\workspace\\uedhome\\newStatic\\node_wechat\\config",
+			"D:\\workspace\\uedhome\\newStatic\\node_wechat\\assets",
+			"D:\\workspace\\uedhome\\newStatic\\node_wechat\\views",
+			"D:\\workspace\\uedhome\\newStatic\\node_wechat\\config",
+			"D:\\workspace\\uedhome\\newStatic\\node_wechat\\node_modules\\wechat\\lib",
+			"D:\\workspace\\uedhome\\newStatic\\node_wechat\\node_modules\\sails",
+			"D:\\workspace\\uedhome\\newStatic\\node_wechat\\config",
+			"D:\\workspace\\uedhome\\newStatic\\node_wechat",
+			"D:\\java\\workspace3\\wap-pnr\\wap-pnr-web\\src\\main\\webapp\\WEB-INF\\views\\order",
+			"D:\\java\\workspace3\\wap-pnr\\wap-pnr-web\\src\\main\\webapp",
+			"D:\\java\\workspace3\\wap-pnr\\wap-pnr-web\\src\\main\\webapp\\assets\\js\\javascript",
+			"D:\\java\\workspace3\\wap-pnr\\wap-pnr-web\\src\\main\\webapp\\assets\\js\\javascript\\order",
+			"D:\\workspace\\nodecms\\trunk\\config",
+			"D:\\workspace\\nodecms\\trunk\\node_modules\\sails",
+			"D:\\workspace\\nodecms\\trunk",
+			"D:\\workspace\\nodecms\\trunk\\assets\\admin_lte",
+			"D:\\workspace\\nodecms\\trunk\\assets\\admin_lte\\dist\\js",
+			"D:\\workspace\\nodecms\\trunk\\assets\\admin_lte\\build",
+			"D:\\workspace\\nodecms\\trunk\\assets",
+			"D:\\java\\workspace3\\wap-pnr\\wap-pnr-web",
+			"D:\\java\\workspace3\\wap-pnr\\wap-pnr-web\\src\\main\\webapp",
+			"D:\\workspace\\sails\\nodecms\\views",
+			"D:\\workspace\\sails\\nodecms\\config",
+			"D:\\workspace\\nodecms\\trunk",
+			"D:\\workspace\\x6cms",
+			"D:\\workspace\\x6cms\\application",
+			"D:\\workspace\\x6cms",
+			"D:\\workspace\\nodecms\\trunk\\App",
+			"D:\\workspace\\bae_helpjs\\demo\\piwik",
+			"D:\\workspace\\bae_helpjs\\usr",
+			"D:\\workspace\\bae_helpjs\\var",
+			"D:\\workspace\\bae_helpjs",
+			"D:\\workspace\\bae_helpjs\\var",
+			"D:\\workspace\\uedhome\\pnrRebirth\\newStatic\\pnr\\newstyle",
+			"D:\\workspace\\uedhome\\pnrRebirth\\newStatic\\pnr\\6.0",
+			"D:\\workspace\\bae_helpjs\\var",
+			"D:\\workspace\\bae_helpjs",
+			"D:\\workspace\\codydev\\node_modules\\cody\\views\\cms",
+			"D:\\workspace\\codydev\\node_modules\\cody\\controllers",
+			"D:\\workspace\\codydev\\node_modules\\cody\\views",
+			"D:\\workspace\\codydev\\node_modules\\cody\\views\\cms",
+			"D:\\workspace\\uedhome\\pnrRebirth\\newStatic\\pnr\\6.0",
+			"D:\\workspace\\codydev\\node_modules",
+			"D:\\workspace\\codydev\\node_modules\\cody",
+			"D:\\workspace\\codydev\\node_modules",
+			"D:\\workspace\\cody\\node_modules",
+			"D:\\workspace\\cody",
+			"D:\\workspace\\cody\\mysite",
+			"D:\\工作区\\cody",
+			"D:\\工作区\\bae_helpjs",
+			"D:\\工作区\\bae_helpjs\\var",
+			"D:\\工作区\\bae_helpjs",
+			"D:\\工作区\\bae_helpjs\\usr\\themes\\Yilia"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flipInX",
+			"地产",
+			"bgZoom",
+			"item2",
+			".item2",
+			"onLeave",
+			"default",
+			".box .desc",
+			"onSlideLeave",
+			"default",
+			"slides",
+			"icon-3",
+			".text",
+			"images",
+			"SLIDES_CONTAINER_SEL",
+			"fp-slides",
+			"SLIDES_ARROW_NEXT",
+			"fp-next",
+			"SLIDES_NEXT",
+			".",
+			"un",
+			"解除",
+			"mapi.pay.nong12",
+			"mobapi.nong12.com",
+			"on",
+			"bind",
+			"hide",
+			"default",
+			"width",
+			"newStatic\\\\node_wechat",
+			"uedhome/newStatic/node_wechat",
+			"new",
+			"User.login",
+			"User",
+			"User.",
+			"login(",
+			"m.nong12",
+			"console",
+			"openid",
+			"sails.config.custom",
+			"农丰网",
+			"欢迎关注",
+			"console",
+			"event_key",
+			"user_id",
+			"userid",
+			"defaultrepy",
+			"defaultSubscribeRepy",
+			"nong12",
+			"sails.log",
+			"liftTime",
+			"listTime",
+			"font",
+			"log",
+			"logo",
+			"HttpClient",
+			"HttpClient.",
+			"HttpClient.login(",
+			"repyFactory",
+			"getMessage",
+			"callback",
+			"xml2js",
+			"xml",
+			"requ",
+			"static",
+			"redirc",
+			"red",
+			"redir",
+			"user_id",
+			"userid",
+			"User",
+			"traget_url",
+			"liftTimeout",
+			"sails",
+			"au",
+			"auth",
+			"author",
+			"user",
+			"direct",
+			"target_url",
+			"Promise.",
+			"Promise",
+			"console",
+			"dili7",
+			"console.log",
+			"check",
+			"checkVerCode",
+			"reg-bind",
+			"[description]",
+			"checkVerCode",
+			"VerCode.sendCode",
+			"sendVerCode",
+			"data",
+			"init",
+			"Promise.",
+			"local",
+			"[description]",
+			"266",
+			"password",
+			"login",
+			"container",
+			"container ",
+			".relevance-form",
+			".relevance-form li",
+			"arges",
+			"0",
+			"console",
+			"localhost",
+			"click",
+			"db",
+			"== \"function\"",
+			"function",
+			"this",
+			"EventHanderCenter",
+			"eventHanderCenter",
+			"\n		 ",
+			"事件处理器",
+			"msgDefaultHander(",
+			"<%-",
+			"CDATA",
+			"<%-",
+			" basic-auth",
+			"auth",
+			"req.auth",
+			"instead",
+			"Use basic-auth ",
+			"Use basic-auth \\",
+			"Use basic-auth npm module "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"申诉",
+			"mvn.diligrp.com/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/publicity/app.html",
+					"settings":
+					{
+						"buffer_size": 4180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3110,
+								3110
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1386.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/publicity/css/app.css",
+					"settings":
+					{
+						"buffer_size": 7575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6702,
+								6702
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7243.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/publicity/js/app.js",
+					"settings":
+					{
+						"buffer_size": 881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/publicity/js/jquery.fullPage.js",
+					"settings":
+					{
+						"buffer_size": 90338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29060,
+								29060
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 106.0,
+						"translation.y": 17470.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/publicity/css/animate.css",
+					"settings":
+					{
+						"buffer_size": 55292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27356,
+								27363
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 271950.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.css",
+				"assets/publicity/css/app.css"
+			],
+			[
+				"/publicityapp",
+				"assets/publicity/app.html"
+			],
+			[
+				"ordersuccess",
+				"assets/css/style/order_success.less"
+			],
+			[
+				"auth.ejs",
+				"views/api/auth.ejs"
+			],
+			[
+				"httpclient",
+				"api/services/HttpClient.js"
+			],
+			[
+				"http",
+				"api/services/HttpClient.js"
+			],
+			[
+				"testapicon",
+				"test/unit/controllers/ApiController.test.js"
+			],
+			[
+				"alert",
+				"assets/js/javascript/common/Alert.js"
+			],
+			[
+				"user_re",
+				"assets/css/style/user_relevance.less"
+			],
+			[
+				"user",
+				"api/models/User.js"
+			],
+			[
+				"userrever",
+				"api/controllers/UserRelevanceController.js"
+			],
+			[
+				"api",
+				"api/controllers/ApiController.js"
+			],
+			[
+				"menu",
+				"api/models/Menu.js"
+			],
+			[
+				"remoe",
+				"api/services/RemoteApi.js"
+			],
+			[
+				"cu",
+				"config/custom.js"
+			],
+			[
+				"valida",
+				"assets/js/javascript/common/Validate.js"
+			],
+			[
+				"index.ejs",
+				"views/userrelevance/index.ejs"
+			],
+			[
+				"user_rev",
+				"assets/css/style/user_relevance.less"
+			],
+			[
+				"admin/code",
+				"api/controllers/admin/CodePublishController.js"
+			],
+			[
+				"user.",
+				"api/models/User.js"
+			],
+			[
+				"httpcl",
+				"api/services/HttpClient.js"
+			],
+			[
+				"user.js",
+				"api/models/User.js"
+			],
+			[
+				"cus",
+				"config/custom.js"
+			],
+			[
+				"apicon",
+				"api/controllers/ApiController.js"
+			],
+			[
+				"me",
+				"api/models/Menu.js"
+			],
+			[
+				"config",
+				"assets/js/javascript/common/config.js"
+			],
+			[
+				"vali",
+				"assets/js/javascript/common/Validate.js"
+			],
+			[
+				"userreveindex",
+				"views/userrelevance/index.ejs"
+			],
+			[
+				"viewhome",
+				"views/homepage.ejs"
+			],
+			[
+				"custo",
+				"config/custom.js"
+			],
+			[
+				"custom",
+				"config/custom.js"
+			],
+			[
+				"remoteapi",
+				"api/services/RemoteApi.js"
+			],
+			[
+				"custom.js",
+				"config/custom.js"
+			],
+			[
+				"custome",
+				"node_modules/wechat-api/test/api_customer.test.js"
+			],
+			[
+				"user_relevance/index.js",
+				"assets/js/javascript/user_relevance/index.js"
+			],
+			[
+				"userreleveindex",
+				"views/userrelevance/index.ejs"
+			],
+			[
+				"supertest",
+				"node_modules/supertest/test/supertest.js"
+			],
+			[
+				"assenindex.js",
+				"assets/js/javascript/user_relevance/index.js"
+			],
+			[
+				"config.js",
+				"assets/js/javascript/common/config.js"
+			],
+			[
+				"text.ejs",
+				"views/Api/text.ejs"
+			],
+			[
+				"viewlayout",
+				"views/layout.ejs"
+			],
+			[
+				"sails-lift",
+				"node_modules/sails/bin/sails-lift.js"
+			],
+			[
+				"users",
+				"api/models/User.js"
+			],
+			[
+				"user_",
+				"assets/css/style/user_relevance.less"
+			],
+			[
+				"vercode",
+				"assets/js/javascript/common/vercode.js"
+			],
+			[
+				"asstconfig",
+				"assets/js/javascript/common/config.js"
+			],
+			[
+				"asshttp",
+				"assets/js/javascript/common/Httpclient.js"
+			],
+			[
+				"assconfig.js",
+				"assets/js/javascript/common/config.js"
+			],
+			[
+				"validate",
+				"assets/js/javascript/common/Validate.js"
+			],
+			[
+				"index",
+				"views/UserRelevance/index.ejs"
+			],
+			[
+				"common.css",
+				"assets/css/style/common.css"
+			],
+			[
+				"userrelevanceindex.ejs",
+				"views/UserRelevance/index.ejs"
+			],
+			[
+				"connet",
+				"config/connections.js"
+			],
+			[
+				"men",
+				"api/models/Menu.js"
+			],
+			[
+				".ejs",
+				"views/403.ejs"
+			],
+			[
+				"model.js",
+				"node_modules/sails/node_modules/waterline/lib/waterline/model/lib/model.js"
+			],
+			[
+				"pub",
+				"pub"
+			],
+			[
+				"news.ejs",
+				"views/Api/news.ejs"
+			],
+			[
+				"wechat.js",
+				"api/services/WechatUtils.js"
+			],
+			[
+				"codepublishindex",
+				"views/admin/codepublish/index.ejs"
+			],
+			[
+				"connect/lib/utils.js",
+				"node_modules/skipper/node_modules/connect/lib/utils.js"
+			],
+			[
+				"mobi",
+				"views/mobile.ejs"
+			],
+			[
+				"wechat",
+				"node_modules/wechat/lib/wechat.js"
+			],
+			[
+				"xml",
+				"node_modules/express-xml-bodyparser/lib/types/xml.js"
+			],
+			[
+				"express-xml-bodyparser",
+				"node_modules/express-xml-bodyparser/index.js"
+			],
+			[
+				"credit_detai",
+				"assets/js/javascript/order/credit_detail.js"
+			],
+			[
+				"utils",
+				"assets/js/javascript/common/utils.js"
+			],
+			[
+				"credit",
+				"assets/js/javascript/order/credit_detail.js"
+			],
+			[
+				"detail",
+				"assets/js/javascript/order/detail.js"
+			],
+			[
+				"order_detail.js",
+				"assets/js/javascript/order/refund_detail.js"
+			],
+			[
+				"order_detail",
+				"WEB-INF/views/order/order_detail.vm"
+			],
+			[
+				"detail.",
+				"assets/js/javascript/order/detail.js"
+			],
+			[
+				"oder_deta",
+				"assets/js/javascript/order/refund_detail.js"
+			],
+			[
+				"common/popup",
+				"assets/js/javascript/common/popup.js"
+			],
+			[
+				"refund",
+				"assets/js/javascript/order/refund.js"
+			],
+			[
+				"refund.v",
+				"WEB-INF/views/order/refund.vm"
+			],
+			[
+				"refund.css",
+				"css/style/refund.css"
+			],
+			[
+				"appeal_success.css",
+				"css/style/appeal_success.css"
+			],
+			[
+				"appeal.css",
+				"css/style/appeal.css"
+			],
+			[
+				"refund_deta",
+				"html/refund_detail_appeal.html"
+			],
+			[
+				"appeal_",
+				"html/appeal_success.html"
+			],
+			[
+				"app",
+				"html/appeal.html"
+			],
+			[
+				"refun",
+				"html/refund_detail.html"
+			],
+			[
+				"commo",
+				"css/style/common.css"
+			],
+			[
+				"appeal",
+				"css/style/appeal.css"
+			],
+			[
+				"order_success.css",
+				"css/style/order_success.css"
+			],
+			[
+				"order_success.html",
+				"html/order_success.html"
+			],
+			[
+				"shope",
+				"html/shopped_list.html"
+			],
+			[
+				"refund_detai",
+				"html/refund_detail.html"
+			],
+			[
+				"shop",
+				"wap-pnr-web/src/main/webapp/assets/js/javascript/order/shopped_list.js"
+			],
+			[
+				"shopped_list",
+				"wap-pnr-web/src/main/webapp/assets/js/javascript/order/shopped_list.js"
+			],
+			[
+				"trunkheader.ejs",
+				"trunk/views/admin/header.ejs"
+			],
+			[
+				"lteboostrap.js",
+				"trunk/assets/admin_lte/bootstrap/js/bootstrap.js"
+			],
+			[
+				"main.js",
+				"trunk/assets/js/main.js"
+			],
+			[
+				"apipuer",
+				"trunk/api/controllers/Admin/PurviewController.js"
+			],
+			[
+				"viewindex.ejs",
+				"trunk/views/admin/purview/index.ejs"
+			],
+			[
+				"shopped_list.js",
+				"wap-pnr-web/src/main/webapp/assets/js/javascript/order/shopped_list.js"
+			],
+			[
+				"lteapp.js",
+				"trunk/assets/admin_lte/dist/js/app.js"
+			],
+			[
+				"admin/purview.ejs",
+				"trunk/views/admin/purview/index.ejs"
+			],
+			[
+				"purview.js",
+				"trunk/api/models/Admin/Purview.js"
+			],
+			[
+				"credit_list.js",
+				"wap-pnr-web/src/main/webapp/assets/js/javascript/order/credit_list.js"
+			],
+			[
+				"credit_list/",
+				"trunk/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/gzip-size/node_modules/zlib-browserify/node_modules/tape/test/max_listeners/source.js"
+			],
+			[
+				"pnrcredit_list",
+				"wap-pnr-web/src/main/webapp/WEB-INF/views/order/credit_list.vm"
+			],
+			[
+				"puviewindex",
+				"trunk/views/admin/purview/index.ejs"
+			],
+			[
+				"purview.php",
+				"x6cms/application/controllers/admin/purview.php"
+			],
+			[
+				"header.ejs",
+				"trunk/views/admin/header.ejs"
+			],
+			[
+				"nodecmsuser",
+				"nodecms/api/controllers/Admin/UserController.js"
+			],
+			[
+				"adminlte/index.",
+				"nodecms/assets/admin_lte/index.html"
+			],
+			[
+				"nodecmlayout.ejs",
+				"nodecms/views/layout.ejs"
+			],
+			[
+				"jquery",
+				"pnr/oldCommon/jsbak/jquery.js"
+			],
+			[
+				"login.ejs",
+				"nodecms/views/admin/user/login.ejs"
+			],
+			[
+				"adminte",
+				"nodecms/assets/admin_lte/dist/css/AdminLTE.css"
+			],
+			[
+				"layout.ejs",
+				"cms-on-sails/views/layout.ejs"
+			],
+			[
+				"sessioncon",
+				"cms-on-sails/api/controllers/SessionController.js"
+			],
+			[
+				"/header/header.js",
+				"js/javascript/header/header.js"
+			],
+			[
+				"usercontro",
+				"trunk/test/Lib/Controller/Home/IndexController.js"
+			],
+			[
+				"purviewmodel",
+				"trunk/App/Lib/Model/PurviewModel.js"
+			],
+			[
+				"purviewcontroller",
+				"trunk/App/Lib/Controller/Admin/PurviewController.js"
+			],
+			[
+				"usermodel",
+				"trunk/App/Lib/Model/UserModel.js"
+			],
+			[
+				"libtr",
+				"x6cms/application/libraries/Tree.php"
+			],
+			[
+				"data_model",
+				"x6cms/application/models/data_model.php"
+			],
+			[
+				"purviewcon",
+				"x6cms/application/controllers/admin/PurviewController.js"
+			],
+			[
+				"maincontr",
+				"trunk/App/Lib/Controller/Admin/mainController.js"
+			],
+			[
+				"viewmain_left",
+				"trunk/App/View/Admin/main_left.html"
+			],
+			[
+				"purview_model",
+				"x6cms/application/models/purview_model.php"
+			],
+			[
+				"login.php",
+				"x6cms/application/views/login.php"
+			],
+			[
+				"x6cmscontrollermain",
+				"x6cms/application/controllers/admin/main.php"
+			],
+			[
+				"admin_index.html",
+				"trunk/App/View/Admin/admin_index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/workspace/bae_helpjs/printf.sublime-project"
+			],
+			[
+				"ndoecms",
+				"/D/workspace/nodecms/nodecms.sublime-project"
+			],
+			[
+				"nodd",
+				"/D/workspace/nodecms/nodecms.sublime-project"
+			],
+			[
+				"nodecms",
+				"/D/workspace/nodecms/nodecms.sublime-project"
+			],
+			[
+				"node",
+				"/D/workspace/nodecms/nodecms.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true
+}

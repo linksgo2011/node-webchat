@@ -1,0 +1,332 @@
+/**
+ *  资金管理
+ */
+@import "m/var";
+
+@green : #23ac38;
+// color
+.orange{
+	color:#ff9d2c;
+}
+.green{
+	color:@green;
+}
+// font
+.yahei{
+	font-family:"Microsoft YaHei","WenQuanYi Micro Hei",SimHei,tahoma,sans-serif;
+}
+
+// icon
+.m-icon{
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: left;
+	text-indent: -999em;
+	overflow: hidden;
+	&.icon-charge{
+    	background: url("@{imgURI}icon-1-3.png") -161px -171px no-repeat;
+		background-size: 250px 230px;
+	}
+}
+
+body{
+	white-space:normal;
+	.yahei;
+	.m-header{
+		background-color:@green;
+	}
+}
+
+// 账单记录
+#money-records{
+	a{	
+		.yahei;
+	}
+	.btns-tabs{
+		padding:10px 15px;
+		border-top:1px solid #ddd;
+		margin-top:10px;
+		background:#fff;
+		.nav-tabs{
+			width:100%;
+			overflow:hidden;
+		}
+		li{
+			box-sizing: border-box;
+			width:33.33333%;
+			display:inline-block;
+		}
+		li a{
+			display:inline-block;
+			box-sizing: border-box;
+			width:100%;
+			height:30px;
+			font-size:14px;
+			color:#666;
+			text-align:center;
+			line-height:30px;
+			background:#fff;
+			border:1px solid #ddd;
+			border-left:0px solid #ddd;
+			border-radius:0px;
+		}
+		li:first-child a{
+			border-left:1px solid #ddd;
+			border-bottom-left-radius: 3px;
+			border-top-left-radius: 3px;
+		}
+		li:last-child a{
+			border-bottom-right-radius: 3px;
+			border-top-right-radius: 3px;
+		}
+		li.active a{
+			color:#fff;
+			background: #23ac38;
+			border:1px solid #23ac38;
+		}
+	}
+	.profile{
+		box-sizing: border-box;
+		padding:15px;
+		display: flex;
+		flex-flow: row wrap;
+		background:#fff;
+		border-bottom:1px solid #ddd;
+		img{
+			width:100%;
+		}
+		.avatar{
+			width:50px;
+			height:50px;
+			border-radius:100%;
+			margin-right:15px;
+		}
+		.info{
+			flex: 1; 
+			line-height:24px;
+			.profile-name{
+				font-size:16px;
+				color:#333;
+			}
+			.profile-balance{
+				font-size:14px;
+			}
+			.profile-mobile{
+				font-size:14px;
+				color:#333;
+				line-height:14px;
+				margin-top:5px;
+			}
+		}
+		.op{
+			width:50px;
+			position:relative;
+			.charge{
+				font-size:14px;
+				color:#1b6ba5;
+				position:absolute;
+				bottom:5px;
+				right:0px;
+			}
+		}
+	}
+	.record-list{
+		margin-top:0px;
+	}
+	.record-list .cell{
+		box-sizing: border-box;
+		background:#fff;
+		border-top:1px solid #ddd;
+		*height:60px;
+		min-height:60px;
+	}
+	.record-list .cell:last-child{
+		border-bottom:1px solid #ddd;
+	}
+	.record-list .cell>a{
+		padding:15px;
+		display: flex;
+		flex-flow: row wrap;
+	}
+	.subject{
+		flex:1;
+		text-align:left;
+	}
+	.subject-title{
+		font-size:14px;
+		color:#333;
+		line-height:14px;
+	}
+	.subject-time{
+		font-size: 12px;
+		color:#999;
+	}
+	.status{
+		width:110px;
+		text-align:right;
+		.decimal{
+			white-space:normal;
+			word-wrap: break-word;
+			font-size:14px;
+			color:#000;
+			line-height:14px;
+		}
+		.green{
+			.green;
+		}
+		.stats-desc{
+			font-size: 12px;
+			color:#999;
+		}
+	}
+}
+
+// 账单详情
+#money-trade-detail{
+	.key-value{
+		display: flex;
+		flex-flow: row wrap;
+		.key{
+			width:100px;
+			text-align:left;
+		}
+		.value{
+			flex:1;
+			white-space:normal;
+			word-wrap: break-word;
+			text-align:right;
+		}
+	}
+
+	.profile{
+		box-sizing: border-box;
+		padding:15px;
+		height:70px;
+		display: flex;
+		flex-flow: row wrap;
+		background:#fff;
+		border-bottom:1px solid #ddd;
+		img{
+			width:100%;
+		}
+		.avatar{
+			width:40px;
+			height:40px;
+			border-radius:100%;
+			margin-right:10px;
+		}
+		.info{
+			flex: 1; 
+			line-height:24px;
+			.profile-name{
+				font-size:16px;
+				line-height:16px;
+				margin-top:4px;
+				color:#333;
+			}
+			.profile-mobile{
+				font-size:14px;
+				line-height:14px;
+				margin-top:5px;
+				color:#333;
+			}
+			.profile-number,.profile-desc{
+				font-size:14px;
+				line-height:14px;
+				margin-top:5px;
+				color:#333;
+			}
+		}
+	}
+
+	.balance,.refund-amount,.cash-out-amount,.amount{
+		box-sizing: border-box;
+		line-height:34px;
+		padding:15px;
+		border-bottom:1px solid #ddd;
+		background:#fff;
+		.key{
+			font-size:14px;
+			color:#666;
+			text-align:left;
+		}
+		.value{
+			font-size:30px;
+			color:#000;
+			font-weight:bold;
+			text-align:right;
+		}
+	}
+	.refund-amount .value{
+		.green;
+	}
+	.cash-out-amount .value{
+		.green;
+	}
+	.trade-params{
+		margin-top:10px;
+		background:#fff;
+		li{
+			line-height:20px;
+			padding:15px 15px;
+			border-top:1px solid #ddd;
+			overflow:hidden;
+			.key{
+				font-size:14px;
+				color:#666;
+			}
+			.value{
+				font-size:14px;
+				color:#333;
+			}
+		}
+		li:last-child{
+			border-bottom:1px solid #ddd;
+		}
+	}
+	.btn-block{
+		position:fixed;
+		bottom:0px;
+		height:55px;
+		line-height:55px;
+		width:100%;
+		border-top:1px solid #ddd;
+		background:#fff;
+		text-align:center;
+		font-size:18px;
+		color:#ff9d2c;
+	}
+	.alert-block{
+		position:fixed;
+		bottom:0px;
+		height:55px;
+		line-height:55px;
+		width:100%;
+		border-top:1px solid #ddd;
+		background:#fff;
+		text-align:center;
+		font-size:18px;
+		color:#333;
+	}
+	.alert-block-succ{
+		.green;
+	}
+
+	.coupon-comment{
+		line-height:20px;
+		padding:15px 15px;
+		border-bottom:1px solid #ddd;
+		background-color:#fff;
+		.key{
+			font-size:14px;
+			color:#666;
+			width:70px;
+		}
+		.value{
+			font-size:14px;
+			color:#333;
+		}
+	}
+}

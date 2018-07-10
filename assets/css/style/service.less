@@ -1,0 +1,90 @@
+@import "m/var";
+/*
+	service.less 
+*/
+
+.service{
+	margin: 0 5px;
+	li{
+		float: left;
+		width: 50%;
+	}
+	a{
+		display: block;
+		padding: 15px 0 15px 15px;
+		margin: 10px 5px 0 5px;
+		background: #fff;
+		border: 1px @border-color solid;
+		color: #666;
+		font-size: 14px;
+	}
+	img{
+		width: 30px;
+		height: 30px;
+	}
+}
+
+.m-table-view{
+	color: #666;
+	img{
+		width: 30px;
+		height: 30px;
+	}
+	.group-title{
+		color: #66cc22;
+	}
+	.m-input{
+		height: auto;
+		min-height: 18px;
+		padding: 0 10px;
+		vertical-align: top;
+		&[type='number']{
+			width: 100px;
+		}
+	}
+	.m-select{
+		width: auto;
+		margin-right: 15px;
+		min-width: 30px;
+		border-left:1px @border-color solid;
+		.select-text{
+			padding: 0 5px 0 10px;
+		}
+		:after{
+			position: absolute;
+			right: -15px;
+			top:50%;
+			margin-top: -4.5px;
+			content: ' ';
+			background: url("@{imgURI}icon.png") -270px -112px repeat;
+			width: 15px;
+			height: 9px;
+			background-size: 150px;
+		}
+	}
+	.m-input-date{
+		background: transparent;
+		text-align: right;
+		padding: 0;
+	}
+}
+.m-textarea{
+	margin-top: 0;
+}
+
+
+.service-view{
+	margin: 5px 0 5px 10px;
+	display: inline-block;
+	vertical-align: middle;
+	span{
+		color: #000;
+		margin-right: 10px;
+	}
+}
+.btn-bar{
+	margin: 10px;
+	#add-more{
+		font-size: 14px;
+	}
+}

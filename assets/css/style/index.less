@@ -1,0 +1,177 @@
+@import "m/var";
+// @import "m_header_search";/*搜索*/
+// // @import "./location";/*市场定位*/
+// @import "./searchIndex";
+/*搜索*/
+
+// body{
+// 	width: 100%;
+// 	height: 100%;
+// 	overflow: hidden;
+// 	position: relative;
+// }
+#indexPage {
+	.m-table-view{
+	    margin-top: 0;
+	}
+	.icon-history{
+	    margin-right: 5px;
+	}
+
+	.clear-history{
+	    text-align: center;
+	    padding-top: 10px;
+	    .m-btn{
+	        width: 170px;
+	        line-height: 40px;
+	    }
+	}
+    .banner {
+        height: 120px;
+        position: relative;
+        overflow: hidden;
+        font-size: 0;
+        a {
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+        img {
+            display: inline-block;
+            width: 100%;
+            height: 100%;
+            float: left;
+        }
+        .swiper-container {
+            height: 100%;
+        }
+    }
+    .p-page {
+        // position: absolute;
+        // width: 100%;
+        // left: 0;
+        // top: 100%;
+        width: 100%;
+        min-height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 999;
+        overflow-x: hidden;
+        overflow-y: auto;
+        padding-bottom: 20px;
+        -webkit-transform: translate3d(0px, 100%, 0px);
+        -moz-transform: translate3d(0px, 100%, 0px);
+        transform: translate3d(0px, 100%, 0px);
+        -webkit-transition: -webkit-transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+        -moz-transition: -moz-transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+        -o-transition: -o-transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+        transition: transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+    }
+    .p-page.show {
+        // animation: pageshow 0.5s;
+        // -moz-animation: pageshow 0.5s;	/* Firefox */
+        // -webkit-animation: pageshow 0.5s;	/* Safari 和 Chrome */
+        // -o-animation: pageshow 0.5s;	/* Opera */
+        // top: 0;
+        -webkit-transform: translate3d(0px, 0%, 0px);
+        -moz-transform: translate3d(0px, 0%, 0px);
+        transform: translate3d(0px, 0%, 0px);
+        -webkit-transition: -webkit-transform 0.3s cubic-bezier(0.165, 0.840, 0.440, 1.000);
+        -moz-transition: -moz-transform 0.3s cubic-bezier(0.165, 0.840, 0.440, 1.000);
+        -o-transition: -o-transform 0.3s cubic-bezier(0.165, 0.840, 0.440, 1.000);
+        transition: transform 0.3s cubic-bezier(0.165, 0.840, 0.440, 1.000);
+    }
+    .p-page .page-content {
+        display: none;
+    }
+    .page-content.show {
+        display: block;
+    }
+    @border-ddd: 1px #ddd solid;
+    .menu {
+        padding: 15px 10px;
+        text-align: center;
+        background-color: #fff;
+        border-bottom: @border-ddd;
+        overflow: hidden;
+        li {
+            float: left;
+            width: 25%;
+            text-align: center;
+        }
+        a {
+            display: inline-block;
+            font-size: 12px;
+        }
+        .menu-icon {
+            display: block;
+            background: url('@{iconURI}index-bar.png') no-repeat;
+            background-size: 110px;
+            width: 55px;
+            height: 55px;
+            margin-bottom: 5px;
+        }
+        #mi2 {
+            background-position: -55px 0;
+        }
+        #mi3 {
+            background-position: 0 -55px;
+        }
+        #mi4 {
+            background-position: -55px -55px;
+        }
+    }
+    .category {
+        background: #fff;
+        margin-top: 10px;
+        border-top: @border-ddd;
+        border-bottom: @border-ddd;
+        .title {
+            height: 40px;
+            line-height: 40px;
+            padding-left: 15px;
+            font-size: 14px;
+        }
+        li {
+            border-top: @border-ddd;
+            border-left: @border-ddd;
+            margin-left: -1px;
+            padding: 10px 0;
+            float: left;
+            width: 50%;
+            a {
+                display: block;
+            }
+            .desc {
+                display: inline-block;
+                vertical-align: middle;
+                font-size: 14px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                padding-left: 60px;
+                margin-left: -60px;
+                box-sizing: border-box;
+                width: 100%;
+                p {
+                    color: #999;
+                    font-size: 12px;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                }
+            }
+            img {
+                display: inline-block;
+                width: 40px;
+                height: 40px;
+                margin: 0 10px;
+                float: left;
+            }
+        }
+    }
+    .m-slider {
+        height: 100px;
+    }
+}

@@ -1,0 +1,58 @@
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+.authEnterprisePage .m-tab li {
+  width: 50%;
+  padding: 0;
+}
+.authEnterprisePage .m-table-view .cell {
+  padding: 0 10px 0 95px;
+}
+.authEnterprisePage .m-table-view .cell .title {
+  margin-left: -85px;
+  line-height: 42px;
+  min-width: 70px;
+  color: #666;
+  text-align: left;
+}
+.authEnterprisePage .m-table-view .cell .m-input {
+  margin-left: -10px;
+  float: left;
+  width: 100%;
+}
+.authEnterprisePage .m-table-view .cell .text {
+  line-height: 42px;
+  position: relative;
+}
+.authEnterprisePage .m-table-view .cell.on .text .tips {
+  visibility: hidden;
+}
+.authEnterprisePage .m-table-view .cell .pic {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  z-index: 1;
+}
+.authEnterprisePage .m-table-view .cell .preview {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  right: 15px;
+  top: 3px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}

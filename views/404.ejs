@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Not Found</title>
+    </head>
+    <body>
+        <div class="fourohfour">
+            <div class="main">
+                <h1>
+                Something's fishy here.
+                </h1>
+                <h2>
+                <% if (typeof error!== 'undefined') { %>
+                <%= error %>
+                <% } else { %>
+                The page you were trying to reach doesn't exist.
+                <% } %>
+                </h2>
+            </div>
+        </div>
+    </body>
+</html>

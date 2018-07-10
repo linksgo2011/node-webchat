@@ -1,0 +1,98 @@
+/*zzf*/
+// @import "./m-public";/*基类*/
+// @import "./m-activity";/*消息动态*/
+
+/***************************************************
+* feature  :  activity;
+* update   :  2015/02/03;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+
+@import "m/var";
+/*zzf*/
+.a-act {
+  padding: 10px;
+  display:-moz-box;
+  display:-webkit-box;
+  display:box;
+  border-bottom: 1px solid #ddd;
+  background: #fff;
+  .user {
+    margin-right: 10px;
+    display: inline-block;
+    // -moz-box-flex:1;
+    // -webkit-box-flex:1;
+    // box-flex:1;
+    overflow: hidden;
+    border-radius: 100%;
+    border: 2px solid #FFBB26;
+    img {
+      width: 40px;
+      height: 40px;
+      border-radius: 100%;
+    }
+  }
+  .cont {
+    -moz-box-flex:2;
+    -webkit-box-flex:2;
+    box-flex:2;
+    .head {
+      margin-bottom: 5px;
+      .left {
+        float: left;
+        font-size: 14px;
+        h3 {
+          color: #000;
+          text-align: left;
+        }
+        p {
+          color: #999;
+        }
+      }
+      .right {
+        float: right;
+        font-size: 12px;
+        color: #999;
+      }
+    }
+    .view {
+      padding-bottom: 10px;
+      border-bottom: 1px solid #ddd;
+      .text {
+        margin-bottom: 5px;
+        font-size: 14px;
+      }
+      .images li {
+        display: inline-block;
+        margin: 5px 2px 5px 0;
+
+      }
+      .min-img img {
+        width: 75px;
+        height: 75px;
+      }
+      .max-img img {
+        width: 180px;
+      }
+    }
+    .end {
+      height: 30px;
+      line-height: 40px;
+      text-align: right;
+      a.call {
+        color: #0099cc;
+        font-size: 12px;
+      }
+      a.del {
+        color: #999;
+        font-size: 12px;
+        float: left;
+      }
+    }
+  }
+}

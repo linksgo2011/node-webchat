@@ -1,0 +1,178 @@
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+.shoppedList {
+  background-color: #f5f5f5;
+}
+.shoppedList .code {
+  color: #666;
+  font-size: 12px;
+  line-height: 22px;
+}
+.shoppedList .m-dropdown .current {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 44px;
+  font-weight: normal;
+  font-size: 18px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  padding: 0;
+  display: block;
+  min-width: 130px;
+}
+.shoppedList .m-dropdown .current:after {
+  display: none;
+}
+.shoppedList .m-dropdown .current i {
+  display: inline-block;
+  margin-left: 3px;
+  background: none;
+  vertical-align: middle;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  border: 6px solid #FFF;
+  border-color: #FFF transparent  transparent;
+  position: relative;
+  top: 3px;
+}
+.shoppedList .m-dropdown .dropdown-items {
+  min-width: 130px;
+  top: 44px;
+  height: 0;
+  display: block;
+  overflow: hidden;
+}
+.shoppedList .m-dropdown .dropdown-items:before {
+  left: 50%;
+  margin-left: -8px;
+}
+.shoppedList .m-dropdown .item {
+  line-height: 40px;
+}
+.shoppedList .m-dropdown .item a {
+  display: block;
+  text-align: center;
+}
+.shoppedList .m-dropdown .item.on {
+  color: #6c2;
+}
+.shoppedList .m-dropdown .item.on a {
+  color: #6c2;
+}
+.shoppedList .m-dropdown.dropdown-show .current i {
+  display: none;
+}
+.shoppedList .m-dropdown.dropdown-show .dropdown-items {
+  overflow: visible;
+  height: auto;
+}
+.shoppedList .status {
+  font-size: 12px;
+  color: #999;
+}
+.shoppedList .status.font-red {
+  color: #FA4535;
+}
+.shoppedList .status.font-green {
+  color: #6c2;
+}
+.shoppedList .status.font-orange {
+  color: #FF9D2C;
+}
+.shoppedList .status.font-blue {
+  color: #6EC5EB;
+}
+.shoppedList .status.font-gray {
+  color: #999;
+}
+.shoppedList .m-table-view .cell .m-radio {
+  margin-right: 5px;
+}
+.shoppedList .m-table-view .cell .cell-extend-pic {
+  padding: 10px 45px 10px 110px;
+}
+.shoppedList .m-table-view .cell .m-btn.btn-text {
+  margin-top: 0;
+}
+.shoppedList .subtotal .title,
+.shoppedList .time .title {
+  font-size: 12px;
+  color: #333;
+  font-weight: 700;
+  line-height: 25px;
+}
+.shoppedList .subtotal .title em,
+.shoppedList .time .title em {
+  font-style: normal;
+  color: #FA4535;
+}
+.shoppedList .subtotal .text,
+.shoppedList .time .text {
+  font-size: 12px;
+  color: #999;
+}
+.shoppedList .subtotal strong,
+.shoppedList .time strong {
+  font-weight: bold;
+  color: #999;
+}
+.shoppedList .cell-extend-pic .text em {
+  color: #999;
+}
+.shoppedList .m-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 12px;
+  border-top: 1px solid #ddd;
+}
+.shoppedList .m-footer .total {
+  float: left;
+  line-height: 25px;
+  font-size: 16px;
+  color: #FA4535;
+  font-weight: 700;
+  text-align: left;
+}
+.shoppedList .m-footer .total em {
+  display: inline;
+  font-style: normal;
+}
+.shoppedList .m-footer strong {
+  display: block;
+  text-align: left;
+  font-weight: normal;
+  color: #666;
+}
+.shoppedList .m-footer strong em {
+  font-style: normal;
+  font-weight: 700;
+  color: #FA4535;
+  font-size: 12px;
+}
+.shoppedList .m-footer .money-info {
+  float: left;
+}
+.shoppedList .m-footer .btn-success {
+  float: right;
+  padding: 0 32px;
+}
+.refundList .m-page {
+  padding-bottom: 0;
+}

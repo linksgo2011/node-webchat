@@ -1,0 +1,50 @@
+.appeal_success {
+    font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, tahoma, sans-serif;
+    font-weight:normal;
+}
+.bg-img {
+    background:url(../../images/icon/icon.png)no-repeat;
+    background-size:150px
+}
+.appeal_success {
+    background-color:#F5F5F5
+}
+.appeal_success .m-header {
+    background-color:#23ac38;
+    color:#FFF
+}
+.appeal_success .m-content {
+    padding-bottom:70px;
+    text-align:center;
+    width:290px;
+    margin:0 auto
+}
+.appeal_success .m-content img {
+    width:150px;
+    height:150px;
+    margin-top:30px
+}
+.appeal_success .m-content h4 {
+    margin:18px 0;
+    font-size:18px;
+    line-height:18px;
+    color:#333;
+    font-weight:400
+}
+.appeal_success .m-content p {
+    font-size:14px;
+    color:#999;
+    margin-bottom:20px;
+    line-height:20px;
+    width:270px;
+    text-indent:42px;
+}
+.appeal_success .m-content p span {
+    color:#23ac38
+}
+.appeal_success .m-content .btn-success {
+    display:block
+}
+.appeal_success .btn-success{
+    background:#23ac38
+}

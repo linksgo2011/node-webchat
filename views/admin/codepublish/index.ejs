@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>部署代码</title>
+		<meta name="fragment" content="!">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width">
+	</head>
+	<body>
+		<div class="container">
+			<div class="row-fluid">
+				<div class="span6">
+					<h2>部署代码</h2>
+					<form action="/admin/CodePublish/upload" method="post" enctype ="multipart/form-data" runat="server">
+						<input id="code" runat="server" name="code" type="file" />
+						<input type="submit" name="btn" value="提交" id="btn" />
+					</form>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

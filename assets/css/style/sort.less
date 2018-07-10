@@ -1,0 +1,122 @@
+/*zzf*/
+
+// @import "./m-public";/*基类*/
+// @import "./m_icon";/*基类*/
+// @import "./m_radio";/*基类*/
+// @import "./m_header";/*基类*/
+// @import "./m_table_view";/*列表*/
+// @import "./m-form";/*列表*/
+@import "m/var";
+#sortPage{
+.m-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    // z-index: 1000;
+    width: 100%;
+}
+.sort {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: @bg-fff;
+}
+.sort-left, .sort-right {
+    width: 50%;
+    height: 100%;
+    overflow-y: auto;
+    // -webkit-overflow-scrolling: touch;
+    position: fixed;
+    top: 0;
+    margin-top: 44px;
+    ul {
+        padding-bottom: 44px;
+    }
+}
+.sort-left {
+    background: @bg-f4;
+    left: 0;
+    font-size: 0;
+    li {
+        border-right: 1px solid @br-ddd;
+    }
+    li.on {
+        background: @bg-fff;
+        border-right: 1px solid @br-fff;
+        .title {
+            color: @hbg-color;
+        }
+    }
+}
+.m-table-view {
+    .cell {
+        padding: 0;
+        overflow: visible;
+        .title {
+            display: block;
+            float: none;
+            text-align: left;
+            padding: 11px 15px;
+        }
+    }
+}
+.sort-right {
+    right: 0;
+    ul {
+        padding-bottom: 0;
+    }
+    li {
+        margin: 0 10px;
+        .m-table-view {
+            width: auto;
+            display: block;
+            margin: 0 -10px;
+            background-color: #888;
+            .cell {
+                &:last-child {
+                    border-bottom: none;
+                }
+                &:after {
+                    display: none;
+                }
+                .title {
+                    color: #fff;
+                    padding: 11px 15px;
+                }
+            }
+        }
+    }
+    .cell {
+        .title {
+            padding: 11px 5px;
+        }
+        &:after {
+            display: none;
+            content: '';
+            position: absolute;
+            top: 14px;
+            right: 10px;
+            margin-top: 0;
+            background: url("@{iconURI}icon.png") -31px -236px repeat;
+            width: 9px;
+            height: 15px;
+            background-size: 150px;
+            vertical-align: middle;
+        }
+        &.more, &.on {
+            &:after {
+                display: block;
+            }
+        }
+        &.on{
+          &:after{
+            width: 15px;
+            height: 9px;
+            top: 17px;
+            background: url("@{iconURI}icon.png") -270px -112px repeat;
+            background-size: 150px;
+          }
+        }
+    }
+}
+}

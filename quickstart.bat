@@ -1,0 +1,1 @@
+supervisor -i assets,.tmp,views app.js

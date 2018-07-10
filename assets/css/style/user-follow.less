@@ -1,0 +1,73 @@
+// /*zzf*/
+// @import "./m-public";/*基类*/
+// @import "./m_table_view";/*列表*/
+// @import "./m-form";/*列表*/
+// @import "m_header";/*头部*/
+// @import "./m-btn";/*按钮*/
+// @import "m_icon";
+
+@import "m/var";
+
+
+
+
+.m-table-view {
+  margin-top: 0px;
+}
+.footer {
+  height: 70px;
+  position: fixed;
+  width: 100%;
+  display: block;
+  bottom: 0px;
+  border-top: 1px solid @br-ddd;
+  background: @bg-fff;
+  text-align: center;
+}
+span.icon-more {
+  background: url("../../images/icon.png") -31px -236px repeat;
+  width: 9px;
+  height: 16px;
+  display: inline-block;
+  background-size: 150px;
+  -webkit-animation:fadeIn 1s .2s ease both;
+  -moz-animation:fadeIn 1s .2s ease both;
+}
+span.icon-more-am {
+  -webkit-animation:fadeOut 1s .2s ease both;
+  -moz-animation:fadeOut 1s .2s ease both;
+}
+.m-table-view {
+  input.text {
+    position: absolute;
+    right: -20px;
+    top: 8px;
+    -webkit-animation:fadeOutRight 1s .2s ease both;
+    -moz-animation:fadeOutRight 1s .2s ease both;
+  }
+  input.text-am {
+    -webkit-animation:fadeInRightBig 1s .2s ease both;
+    -moz-animation:fadeInRightBig 1s .2s ease both;
+  }
+}
+.m-footer{
+  text-align: center;
+  .btn-danger {
+    display: none;
+    width: 80px;
+    -webkit-animation:fadeOut 1s .2s ease both;
+    -moz-animation:fadeOut 1s .2s ease both;
+  }
+  .btn-danger-am {
+    -webkit-animation:fadeIn 1s .2s ease both;
+    -moz-animation:fadeIn 1s .2s ease both;
+  }
+  .btn-success {
+    -webkit-animation:fadeIn 1s .2s ease both;
+    -moz-animation:fadeIn 1s .2s ease both;
+  }
+  .btn-success-am {
+    -webkit-animation:fadeOut 1s .2s ease both;
+    -moz-animation:fadeOut 1s .2s ease both;
+  }
+}

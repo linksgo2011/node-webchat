@@ -1,0 +1,139 @@
+/*zzf*/
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+/*
+	@ m-imguploader.less
+	@ 图片上传组件
+*/
+.img-upload-button {
+  /*or inline-block*/
+  padding: 0;
+  text-align: center;
+  cursor: pointer;
+  z-index: 1;
+  overflow: hidden;
+  width: 63px;
+  height: 63px;
+  float: left;
+  border: 1px dashed #ddd;
+}
+.img-upload-disabled {
+  display: none;
+}
+.img-upload-button span {
+  background: url("../../images/upload.png") -48px 0px no-repeat;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+  display: inline-block;
+  text-indent: -9990px;
+  background-size: 75px;
+  margin: 17px;
+}
+.img-upload-list {
+  list-style: none;
+  display: inline-table;
+}
+.img-upload-list {
+  float: left;
+}
+.img-upload-list li {
+  position: relative;
+}
+.img-upload-list img {
+  width: 62px;
+  height: 62px;
+}
+.img-upload-list .img-upload-remove {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: block;
+  width: 22px;
+  height: 22px;
+  z-index: 99;
+  background: url("../../images/upload.png") -13px -12px no-repeat;
+  background-size: 75px;
+}
+.img-upload-error {
+  font-size: 12px;
+  color: #ff0000;
+}
+span.icon-more {
+  background: url("../../images/icon.png") -31px -236px repeat;
+  width: 9px;
+  height: 16px;
+  display: inline-block;
+  background-size: 150px;
+  vertical-align: middle;
+}
+.m-table-view .txt {
+  font-size: 14px;
+  color: #999;
+  margin-right: 15px;
+}
+.m-table-view .m-select {
+  margin-right: 15px;
+}
+.send-view {
+  border-bottom: 1px solid #dddddd;
+  border-top: 1px solid #dddddd;
+  margin-top: 10px;
+  background: #ffffff;
+  padding: 15px;
+}
+.send-view textarea {
+  border: 1px solid #dddddd;
+  min-height: 100px;
+}
+.send-view .upload {
+  margin-top: 5px;
+}
+.send-view .upload img {
+  width: 65px;
+  height: 65px;
+}
+.send-view .upload ul {
+  float: left;
+}
+.send-view .upload ul li {
+  float: left;
+  margin-right: 5px;
+}
+.send-view .upload .add {
+  width: 65px;
+  height: 65px;
+  float: left;
+  border: 1px dashed #ddd;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.send-view .upload .add .icon-add {
+  background: url("../../images/upload.png") -121px 0px repeat;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  background-size: 75px;
+  margin: 17px;
+}
+.send-view .upload input {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  opacity: 0;
+}

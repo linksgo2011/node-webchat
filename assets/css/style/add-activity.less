@@ -1,0 +1,84 @@
+/*zzf*/
+// @import "./m-public";/*基类*/
+// @import "./m_form";/*列表*/
+// @import "./m_table_view";/*列表*/
+@import "m/var";
+@import "m/m-imguploader";
+
+
+
+span.icon-more {
+  background: url("../../images/icon.png") -31px -236px repeat;
+  width: 9px;
+  height: 16px;
+  display: inline-block;
+  background-size: 150px;
+  vertical-align: middle;
+}
+.m-table-view {
+  .txt {
+    font-size: 14px;
+    color: #999;
+    margin-right: 15px;
+  }
+
+  .m-select{
+    margin-right:15px;
+  }
+}
+.send-view {
+  border-bottom: 1px solid @br-ddd;
+  border-top: 1px solid @br-ddd;
+  margin-top: 10px;
+  background: @bg-fff;
+  padding: 15px;
+  textarea {
+    // width: 100%;
+    // margin: 0px;
+    // padding: 0px;
+    border: 1px solid @br-ddd;
+    min-height: 100px;
+  }
+  .upload {
+    margin-top: 5px;
+    img {
+      width: 65px;
+      height: 65px;
+    }
+    ul {
+      float: left;
+      li {
+        float: left;
+        margin-right: 5px;
+      }
+    }
+    .add {
+      width: 65px;
+      height: 65px;
+      float: left;
+      border: 1px dashed #ddd;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+      .icon-add {
+        background: url("../../images/upload.png") -121px 0px repeat;
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+        background-size: 75px;
+        margin: 17px;
+      }
+    }
+    input{
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      opacity: 0;
+    }
+  }
+}
+
+
+

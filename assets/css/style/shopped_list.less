@@ -1,0 +1,182 @@
+@import "m/var";
+.shoppedList {
+    background-color: #f5f5f5;
+    .code {
+        color: #666;
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .m-dropdown{
+    	.current{
+    		text-align: center;
+			vertical-align: middle;
+			line-height: 44px;
+			font-weight: normal;
+			font-size: 18px;
+			white-space: nowrap;
+			text-overflow: ellipsis;
+			overflow: hidden;
+			padding: 0;
+			display: block;
+			min-width: 130px;
+			&:after{
+				display: none;
+			}
+			i{
+				display: inline-block;
+				margin-left: 3px;
+				background: none;
+				vertical-align: middle;
+				width: 0;
+				height: 0;
+				overflow: hidden;
+				border: 6px solid #FFF;
+				border-color: #FFF transparent  transparent;
+                position: relative;
+                top: 3px;
+			}
+    	}
+    	.dropdown-items{
+    		min-width: 130px;
+    		top: 44px;
+    		height: 0;
+    		display: block;
+    		overflow: hidden;
+    		&:before{
+    			left: 50%;
+    			margin-left: -8px;
+    		}
+    	}
+    	.item{
+    		line-height: 40px;
+    		a{
+    			display: block;
+    			text-align: center;
+    		}
+    		&.on{
+    			color: #6c2;
+    			a{
+    				color: #6c2;
+    			}
+    		}
+    	}
+    	&.dropdown-show{
+    		.current{
+    			i{
+    				display: none;
+    			}
+    		}
+    		.dropdown-items{
+    			overflow: visible;
+    			height: auto;
+    		}
+    	}
+    }
+    .status {
+        font-size: 12px;
+        color: #999;
+        &.font-red{
+            color: #FA4535;
+        }
+        &.font-green{
+            color: #6c2;
+        }
+
+        &.font-orange{
+            color: #FF9D2C;
+        }
+    
+        &.font-blue{
+            color: #6EC5EB;
+        }
+
+        &.font-gray{
+            color: #999;
+        }
+    }
+    .m-table-view .cell{
+    	.m-radio{
+    		margin-right: 5px;
+    	}
+		.cell-extend-pic{
+			padding: 10px 45px 10px 110px
+		}
+    	.m-btn.btn-text{
+    		margin-top: 0;
+    	}
+    }
+
+    .subtotal, .time {
+        .title {
+            font-size: 12px;
+            color: #333;
+            font-weight: 700;
+            line-height: 25px;
+            em {
+                font-style: normal;
+                color: #FA4535;
+            }
+        }
+        .text {
+            font-size: 12px;
+            color: #999;
+        }
+        strong{
+        	font-weight: bold;
+        	color: #999;
+        }
+    }
+    .cell-extend-pic {
+        .text {
+            em {
+                color: #999;
+            }
+        }
+    }
+    .m-footer{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(255, 255, 255, .9);
+        padding: 12px;
+        border-top: 1px solid #ddd;
+        .total {
+            float: left;
+            line-height: 25px;
+            font-size: 16px;
+            color: #FA4535;
+            font-weight: 700;
+            text-align: left;
+            em {
+                display: inline;
+                font-style: normal;
+            }
+        }
+        strong{
+            display: block;
+            text-align: left;
+            font-weight: normal;
+            color: #666;
+            em{
+                font-style: normal;
+                font-weight: 700;
+                color: #FA4535;
+                font-size: 12px;
+            }
+        }
+        .money-info{
+            float: left;
+        }
+        .btn-success{
+            float: right;
+            padding: 0 32px;
+        }
+    }
+}
+
+.refundList{
+    .m-page{
+        padding-bottom: 0;
+    }
+}

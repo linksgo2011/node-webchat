@@ -1,0 +1,186 @@
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+/**
+ * name : zzf
+ * info : 
+ */
+.acoupons {
+  height: 50px;
+  padding: 10px 0;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+  margin-top: 10px;
+  position: relative;
+}
+.acoupons img {
+  float: left;
+  margin-left: 10px;
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+}
+.acoupons .cont {
+  font-size: 12px;
+  line-height: 18px;
+  margin-left: 70px;
+  color: #333;
+}
+.acoupons .cont .time {
+  color: #999;
+}
+.acoupons .icon-about {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.acoupons .icon-use,
+.acoupons .icon-overdue {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
+.acoupons .m-radio {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+}
+.orderConfirm {
+  background-color: #F5F5F5;
+}
+.orderConfirm .m-page {
+  padding-bottom: 100px;
+}
+.orderConfirm .pay-title {
+  color: #000;
+}
+.orderConfirm .shop-name {
+  color: #6c2;
+}
+.orderConfirm .m-input {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  min-height: 30px;
+  box-sizing: border-box;
+  background-color: #eee;
+  border-radius: 2px;
+  padding: 4px 8px;
+}
+.orderConfirm .m-table-view .cell-right-detail {
+  padding: 0;
+}
+.orderConfirm .m-table-view .cell-right-detail a,
+.orderConfirm .m-table-view .cell-right-detail label {
+  display: block;
+  padding: 11px 15px;
+}
+.orderConfirm .m-table-view .cell-extend {
+  padding: 0;
+}
+.orderConfirm .m-table-view .cell-extend label {
+  display: block;
+  padding: 11px 45px 11px 110px;
+}
+.orderConfirm .m-table-view .contact {
+  text-align: left;
+}
+.orderConfirm .m-table-view .contact h4 {
+  margin: 5px 0;
+  font-weight: normal;
+}
+.orderConfirm .m-table-view .contact p {
+  color: #999;
+  font-size: 13px;
+}
+.orderConfirm .m-table-view .payment .text {
+  color: #333;
+}
+.orderConfirm .m-table-view .postage {
+  line-height: 30px;
+}
+.orderConfirm .m-table-view .postage .m-input {
+  width: 100px;
+  float: left;
+}
+.orderConfirm .m-table-view .postage a {
+  padding: 3px 5px;
+  margin-top: 0px;
+}
+.orderConfirm .m-table-view .postage label {
+  float: left;
+  margin: 0 10px;
+  line-height: 30px;
+}
+.orderConfirm .m-table-view .postage label input {
+  margin-top: -2px;
+}
+.orderConfirm .m-table-view .Since span {
+  color: #666;
+}
+.orderConfirm .m-table-view .Since p {
+  color: #333;
+  display: block;
+}
+.orderConfirm .m-table-view .Since .Since-h {
+  display: block;
+}
+.orderConfirm .m-table-view .Since .dateTiem {
+  float: right;
+}
+.orderConfirm .subtotal {
+  color: #FA4535;
+  font-size: 14px;
+  font-weight: 700;
+}
+.orderConfirm .footer-end {
+  padding: 12px;
+  margin-top: 30px;
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+  background: #fff;
+}
+.orderConfirm .footer-end .total {
+  float: left;
+  line-height: 45px;
+  font-size: 16px;
+  color: #333;
+  text-align: left;
+  font-weight: bold;
+}
+.orderConfirm .footer-end .btn-success {
+  float: right;
+}
+.orderConfirm .coupon-view .ticket {
+  background: #fb9d3b;
+  color: #fff;
+  padding: 2px 5px;
+  margin-right: 10px;
+  border-radius: 3px;
+}
+.orderConfirm .coupon-view .money {
+  color: #f60;
+}
+.orderConfirm .coupon-view p {
+  color: #999;
+}
+.order-payment .chooseway {
+  text-align: left;
+}
+.order-payment .chooseway h1 {
+  font-size: 16px;
+  margin-bottom: 20px;
+}

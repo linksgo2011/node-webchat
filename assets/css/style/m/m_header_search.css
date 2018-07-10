@@ -1,0 +1,110 @@
+/***************************************************
+* feature  :  搜索功能头部;
+* update   :  2015/02/03;
+* use      :  待改进;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.header {
+  height: 44px;
+  background-color: #66cc22;
+}
+.header .header-home {
+  position: relative;
+  padding: 7px 10px 7px 55px;
+}
+.header .icon-arrow {
+  display: inline-block;
+  vertical-align: middle;
+  width: 12px;
+  height: 12px;
+  background: url('../../images/icon.png') -121px -203px no-repeat;
+  background-size: 150px;
+}
+.header .logo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 25px;
+  height: 44px;
+  background: url('../../images/icon.png') -125px 11px no-repeat;
+  background-size: 150px;
+  margin: 0 15px;
+}
+.header .h-search {
+  background-color: #55bb22;
+  border-radius: 3px;
+  height: 30px;
+  line-height: 30px;
+  color: #eee;
+  text-align: center;
+}
+.header .h-search .icon-search {
+  display: inline-block;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+  background: url('../../images/icon.png') -59px -140px no-repeat;
+  background-size: 150px;
+}
+.header .head {
+  height: 44px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.header h1 {
+  display: inline-block;
+  font-weight: normal;
+  font-size: 18px;
+  vertical-align: middle;
+  line-height: 44px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #ffffff;
+}
+.header .m-icon {
+  width: 42px;
+  height: 44px;
+  background: url('../../images/icon.png') no-repeat;
+  background-size: 150px;
+  cursor: pointer;
+  text-align: left;
+  text-indent: -9999px;
+  position: absolute;
+  top: 0;
+}
+.header .lt-bar {
+  left: 0;
+}
+.header .rt-bar {
+  right: 0;
+  width: 42px;
+  height: 44px;
+  line-height: 44px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: left;
+  color: #fff;
+  position: absolute;
+  top: 0;
+}
+.header .icon-back {
+  background-position: -78px -158px;
+}
+.header .icon-more {
+  background-position: 11px -268px;
+}

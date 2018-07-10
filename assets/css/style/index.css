@@ -1,0 +1,167 @@
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+/*搜索*/
+#indexPage .m-table-view {
+  margin-top: 0;
+}
+#indexPage .icon-history {
+  margin-right: 5px;
+}
+#indexPage .clear-history {
+  text-align: center;
+  padding-top: 10px;
+}
+#indexPage .clear-history .m-btn {
+  width: 170px;
+  line-height: 40px;
+}
+#indexPage .banner {
+  height: 120px;
+  position: relative;
+  overflow: hidden;
+  font-size: 0;
+}
+#indexPage .banner a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+#indexPage .banner img {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+#indexPage .banner .swiper-container {
+  height: 100%;
+}
+#indexPage .p-page {
+  width: 100%;
+  min-height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-bottom: 20px;
+  -webkit-transform: translate3d(0px, 100%, 0px);
+  -moz-transform: translate3d(0px, 100%, 0px);
+  transform: translate3d(0px, 100%, 0px);
+  -webkit-transition: -webkit-transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  -moz-transition: -moz-transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  -o-transition: -o-transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  transition: transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+#indexPage .p-page.show {
+  -webkit-transform: translate3d(0px, 0%, 0px);
+  -moz-transform: translate3d(0px, 0%, 0px);
+  transform: translate3d(0px, 0%, 0px);
+  -webkit-transition: -webkit-transform 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  -moz-transition: -moz-transform 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  -o-transition: -o-transform 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  transition: transform 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+#indexPage .p-page .page-content {
+  display: none;
+}
+#indexPage .page-content.show {
+  display: block;
+}
+#indexPage .menu {
+  padding: 15px 10px;
+  text-align: center;
+  background-color: #fff;
+  border-bottom: 1px #dddddd solid;
+  overflow: hidden;
+}
+#indexPage .menu li {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+#indexPage .menu a {
+  display: inline-block;
+  font-size: 12px;
+}
+#indexPage .menu .menu-icon {
+  display: block;
+  background: url('../../images/icon/index-bar.png') no-repeat;
+  background-size: 110px;
+  width: 55px;
+  height: 55px;
+  margin-bottom: 5px;
+}
+#indexPage .menu #mi2 {
+  background-position: -55px 0;
+}
+#indexPage .menu #mi3 {
+  background-position: 0 -55px;
+}
+#indexPage .menu #mi4 {
+  background-position: -55px -55px;
+}
+#indexPage .category {
+  background: #fff;
+  margin-top: 10px;
+  border-top: 1px #dddddd solid;
+  border-bottom: 1px #dddddd solid;
+}
+#indexPage .category .title {
+  height: 40px;
+  line-height: 40px;
+  padding-left: 15px;
+  font-size: 14px;
+}
+#indexPage .category li {
+  border-top: 1px #dddddd solid;
+  border-left: 1px #dddddd solid;
+  margin-left: -1px;
+  padding: 10px 0;
+  float: left;
+  width: 50%;
+}
+#indexPage .category li a {
+  display: block;
+}
+#indexPage .category li .desc {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding-left: 60px;
+  margin-left: -60px;
+  box-sizing: border-box;
+  width: 100%;
+}
+#indexPage .category li .desc p {
+  color: #999;
+  font-size: 12px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+#indexPage .category li img {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin: 0 10px;
+  float: left;
+}
+#indexPage .m-slider {
+  height: 100px;
+}

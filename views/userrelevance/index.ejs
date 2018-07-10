@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <!-- <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" /> -->
+        <meta content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" name="viewport" />
+        <title>账户关联</title>
+        <link rel="stylesheet" href="/css/style/common.css">
+        <script src="http://static.nong12.com/static/newStatic/common/js/base/sea.js"></script>
+
+        <!-- config -->
+        <script src="/js/javascript/common/config.js"></script>
+        <link rel="stylesheet" href="/css/style/user_relevance.css">
+    
+        <script type="text/javascript">
+            var _global = {
+                open_id:"<%=open_id%>",
+                target_url:"<%=target_url%>"
+            }
+        </script>
+    </head>
+    <body>
+        <div class="m-page" id="relevance">
+            <header class="m-header">
+                <div class="head">
+                    <h1>关联农丰网</h1>
+                </div>
+            </header>
+            <section class="m-content">
+                <div class="relevance-msg">
+                    <div class="user">
+                        <img src="<%=weixin_user.headimgurl%>">
+                        <span class="m-icon icon-arrows"></span>
+                        <img src="/images/guanlian.png">
+                    </div>
+                    <div class="info">
+                        <p class="name">微信用户:<%=weixin_user.nickname%></p>
+                        <p>绑定您的农丰网账号</p>
+                    </div>
+                </div>
+                <div class="relevance-bound">
+                    <div class="head">
+                        <p data-tarte="account-have"  class="on">已有农丰账号</p>
+                        <p data-tarte="account-no" >暂无农丰账号</p>
+                    </div>
+                    <div class="relevance-form account-have">
+                        <form action="" id="login"> 
+                            <ul>
+                                <li >
+                                    <input type="text" class="m-input" name="username" regular="phone" placeholder="请输入手机号">
+                                </li>
+                                <li>
+                                    <input type="password" class="m-input" name="password" regular="password" placeholder="请输入密码">
+                                </li>
+                            </ul>
+                            <a href="javascript:void(0)" class="m-btn btn-success login-bind">立即绑定</a>
+                        </form>
+                    </div>
+                    <div class="relevance-form account-no m-hide">
+                        <form action="" id="register"> 
+                        <ul>
+                            <li>
+                                <input type="text" class="m-input" name="username" regular="phone" placeholder="请输入手机号">
+                                <a href="#" data-ajax="false" class="m-btn btn-text firm-reg-reg">获取验证码</a>
+                            </li>
+                            <li>
+                                <input type="text" class="m-input" name="code" regular="code" placeholder="请输入短信验证码">
+                            </li>
+                            <li>
+                                <input type="password" class="m-input" name="password" regular="password" placeholder="请输入密码">
+                            </li>
+                        </ul>
+                        <a href="javascript:void(0)" class="m-btn btn-success reg-bind">立即绑定</a>
+                        </form>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <script>
+            seajs.use(['/js/javascript/common/common','/js/javascript/user_relevance/index.js']);
+        </script>
+    </body>
+</html>

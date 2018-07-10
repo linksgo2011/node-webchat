@@ -1,0 +1,142 @@
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+.shopDetail .top {
+  background: url("../../images/user-home.png") center center no-repeat;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+.shopDetail .m-page {
+  padding-bottom: 0;
+}
+.shopDetail .shop {
+  position: relative;
+  padding: 17px 15px 17px 90px;
+  overflow: hidden;
+}
+.shopDetail .shop:after {
+  content: '';
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  background: url("../../images/icon/arrow_rt_white@2x.png") center center no-repeat;
+  background-size: 10px;
+  margin-top: -5px;
+}
+.shopDetail .shop .cover {
+  float: left;
+  margin-left: -75px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  box-shadow: 0 0 3px #999;
+}
+.shopDetail .shop h3 {
+  font-size: 16px;
+  color: #FFF;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 7px 0 5px;
+}
+.shopDetail .shop p {
+  font-size: 14px;
+  color: #FFF;
+}
+.shopDetail .user-tools {
+  height: 55px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.2);
+}
+.shopDetail .user-tools li {
+  width: 49.5%;
+  float: left;
+  text-align: center;
+  margin: 6px 0;
+  color: #FFF;
+}
+.shopDetail .user-tools li p {
+  color: #FFF;
+}
+.shopDetail .user-tools li.br {
+  border-right: 1px solid rgba(255, 255, 255, 0.4);
+}
+.shopDetail .m-tab {
+  padding: 0;
+}
+.shopDetail .m-tab li {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 0;
+}
+.shopDetail .m-tab li a:before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 50%;
+  height: 30px;
+  width: 1px;
+  font-size: 0;
+  margin-top: -15px;
+  overflow: hidden;
+  background-color: #DDD;
+}
+.shopDetail .m-tab li:last-child {
+  float: right;
+}
+.shopDetail .m-tab li:last-child a:before {
+  display: none;
+}
+.shopDetail .m-tab li.on .icon-up {
+  background-position: -120px -220px;
+}
+.shopDetail .m-tab li.on .icon-down {
+  background-position: 0px -236px;
+}
+.shopDetail .m-table-view {
+  margin-top: 0;
+  border-top: none;
+}
+.shopDetail .m-table-view .cell {
+  padding: 15px 15px 15px 110px;
+}
+.shopDetail .m-table-view .cell .pic {
+  width: 80px;
+  height: 80px;
+  margin-left: -95px;
+}
+.shopDetail .m-table-view .cell .title {
+  padding-bottom: 30px;
+  color: #666;
+  font-size: 14px;
+  display: block;
+}
+.shopDetail .m-table-view .btm {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  left: 110px;
+}
+.shopDetail .m-table-view .btm em {
+  font-style: normal;
+  color: #FA4535;
+  font-size: 16px;
+  font-weight: 700;
+}
+.shopDetail .m-table-view .btm .source {
+  float: right;
+  font-size: 12px;
+  color: #999;
+}

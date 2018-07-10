@@ -1,0 +1,99 @@
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+/*
+	service.less 
+*/
+.service {
+  margin: 0 5px;
+}
+.service li {
+  float: left;
+  width: 50%;
+}
+.service a {
+  display: block;
+  padding: 15px 0 15px 15px;
+  margin: 10px 5px 0 5px;
+  background: #fff;
+  border: 1px #cccccc solid;
+  color: #666;
+  font-size: 14px;
+}
+.service img {
+  width: 30px;
+  height: 30px;
+}
+.m-table-view {
+  color: #666;
+}
+.m-table-view img {
+  width: 30px;
+  height: 30px;
+}
+.m-table-view .group-title {
+  color: #66cc22;
+}
+.m-table-view .m-input {
+  height: auto;
+  min-height: 18px;
+  padding: 0 10px;
+  vertical-align: top;
+}
+.m-table-view .m-input[type='number'] {
+  width: 100px;
+}
+.m-table-view .m-select {
+  width: auto;
+  margin-right: 15px;
+  min-width: 30px;
+  border-left: 1px #cccccc solid;
+}
+.m-table-view .m-select .select-text {
+  padding: 0 5px 0 10px;
+}
+.m-table-view .m-select :after {
+  position: absolute;
+  right: -15px;
+  top: 50%;
+  margin-top: -4.5px;
+  content: ' ';
+  background: url("../../images/icon.png") -270px -112px repeat;
+  width: 15px;
+  height: 9px;
+  background-size: 150px;
+}
+.m-table-view .m-input-date {
+  background: transparent;
+  text-align: right;
+  padding: 0;
+}
+.m-textarea {
+  margin-top: 0;
+}
+.service-view {
+  margin: 5px 0 5px 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.service-view span {
+  color: #000;
+  margin-right: 10px;
+}
+.btn-bar {
+  margin: 10px;
+}
+.btn-bar #add-more {
+  font-size: 14px;
+}

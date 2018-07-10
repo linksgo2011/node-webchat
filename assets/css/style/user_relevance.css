@@ -1,0 +1,84 @@
+/**
+ * name : zzf
+ * info : 
+ */
+.m-hide {
+  display: none;
+}
+#relevance .relevance-msg {
+  text-align: center;
+  margin-top: 25px;
+}
+#relevance .relevance-msg img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+#relevance .relevance-msg span {
+  margin: 0 20px;
+}
+#relevance .relevance-msg .info {
+  line-height: 25px;
+  margin-top: 15px;
+  font-size: 14px;
+  color: #999;
+}
+#relevance .relevance-msg .info .name {
+  font-size: 16px;
+  color: #333;
+}
+#relevance .relevance-bound {
+  margin: 10px;
+  background: #fff;
+  border: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+#relevance .relevance-bound .head {
+  display: block;
+  height: 43px;
+}
+#relevance .relevance-bound .head p {
+  width: 50%;
+  line-height: 43px;
+  float: left;
+  border-bottom: 1px solid #ddd;
+  font-size: 16px;
+  border-top: 2px solid #fff;
+  color: #999;
+  border-right: 1px solid #ddd;
+  margin-right: -1px;
+}
+#relevance .relevance-bound .head p.on {
+  color: #23ac38;
+  border-top: 2px solid #23ac38;
+  border-bottom: 1px solid #fff;
+}
+#relevance .relevance-bound .relevance-form li {
+  border: 1px solid #ddd;
+  margin: 15px 15px 0 15px;
+  position: relative;
+}
+#relevance .relevance-bound .relevance-form li input {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 16px;
+  color: #bbb;
+}
+#relevance .relevance-bound .relevance-form li input:focus {
+  color: #333;
+}
+#relevance .relevance-bound .relevance-form .m-btn {
+  display: block;
+  margin: 15px 15px 0;
+}
+#relevance .relevance-bound .relevance-form .firm-reg-reg {
+  width: auto;
+  background: #fff;
+  border: 1px solid #FF9D2C;
+  color: #FF9D2C;
+  margin-top: 10px;
+  padding: 0 5px;
+  position: absolute;
+  right: -9px;
+  top: 0px;
+}

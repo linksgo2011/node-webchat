@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <!-- <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" /> -->
+        <meta content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" name="viewport" />
+        <title>关联成功</title>
+        <link rel="stylesheet" href="/css/style/common.css">
+        <script src="http://static.nong12.com/static/newStatic/common/js/base/sea.js"></script>
+        <!-- config -->
+        <script src="/js/javascript/common/config.js"></script>
+        <link rel="stylesheet" href="/css/style/order_success.css">
+    </head>
+    <body id="relevance-succeed" class="orderSuccess">
+        <div class="m-page">
+            <header class="m-header">
+                <div class="head">
+                    <h1>关联农丰网</h1>
+                </div>
+            </header>
+            <section class="m-content">
+                <img src="/images/order_success@2x.png">
+                <h4>认证提交成功!</h4>
+                <p>尊敬的用户:<%=user.accountName%></p>
+                <p>您的微信和农丰网账号已绑定成功,</p>
+                <p>您现在可以在微信中使用农丰网相关服务!</p>
+                <p>欢迎开启农丰之旅!</p>
+                <a href="<%-decodeURIComponent(req.query.target_url)%>" class="m-btn btn-success">去逛逛</a>
+            </section>
+        </div>
+        <script>
+            seajs.use(['/js/javascript/common/common']);
+        </script>
+    </body>
+</html>

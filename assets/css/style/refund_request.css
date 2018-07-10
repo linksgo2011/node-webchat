@@ -1,0 +1,11 @@
+.refundRequest .note {
+  padding: 0;
+}
+.refundRequest .note textarea {
+  border: none;
+}
+.refundRequest .m-input {
+  padding: 0 8px;
+  text-align: right;
+  line-height: 22px;
+}

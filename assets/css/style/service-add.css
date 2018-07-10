@@ -1,0 +1,212 @@
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+.pickerList {
+  background-color: #F5F5F5;
+}
+.pickerList .m-header {
+  background-color: #6c2;
+  color: #FFF;
+}
+.pickerList .picker li {
+  margin-top: 10px;
+  background-color: #FFF;
+  border: 1px solid #ddd;
+  border-width: 1px 0;
+  position: relative;
+}
+.pickerList .picker label {
+  display: block;
+  cursor: pointer;
+}
+.pickerList .picker .info {
+  padding: 0 15px 10px;
+  position: relative;
+}
+.pickerList .picker h3 {
+  font-size: 14px;
+  color: #000;
+  font-weight: 400;
+  padding: 10px 0 4px;
+}
+.pickerList .picker h3 em {
+  font-size: 12px;
+  color: #6c2;
+  font-style: normal;
+  margin-left: 10px;
+  display: inline-block;
+}
+.pickerList .picker p {
+  font-size: 12px;
+  color: #666;
+  margin-top: 4px;
+}
+.pickerList .picker input[type=radio] {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  margin-top: -10px;
+  width: 20px;
+  height: 20px;
+}
+.pickerList .picker .action {
+  border-top: 1px solid #ddd;
+  overflow: hidden;
+}
+.pickerList .picker .action .item {
+  width: 33.3%;
+  box-sizing: border-box;
+  float: left;
+  border-left: 1px solid #ddd;
+  line-height: 45px;
+  font-size: 14px;
+  color: #999;
+  text-align: center;
+}
+.pickerList .picker .action .item:first-child {
+  border: none;
+}
+.pickerList .picker .action .item:last-child {
+  float: right;
+}
+h2 {
+  font-size: 14px;
+  color: #666;
+  height: 30px;
+  line-height: 30px;
+  background: #eee;
+  padding-left: 15px;
+  font-weight: normal;
+}
+.icon-location {
+  margin-right: 8px;
+}
+.as-block {
+  padding-left: 15px;
+  font-size: 14px;
+}
+.m-table-view {
+  margin: 0;
+}
+/*
+	service.less 
+*/
+.service {
+  margin: 0 5px;
+}
+.service li {
+  float: left;
+  width: 50%;
+}
+.service a {
+  display: block;
+  padding: 15px 0 15px 15px;
+  margin: 10px 5px 0 5px;
+  background: #fff;
+  border: 1px #cccccc solid;
+  color: #666;
+  font-size: 14px;
+}
+.service img {
+  width: 30px;
+  height: 30px;
+}
+.m-table-view {
+  color: #666;
+}
+.m-table-view img {
+  width: 30px;
+  height: 30px;
+}
+.m-table-view .group-title {
+  color: #66cc22;
+}
+.m-table-view .m-input {
+  height: auto;
+  min-height: 18px;
+  padding: 0 10px;
+  vertical-align: top;
+}
+.m-table-view .m-input[type='number'] {
+  width: 100px;
+}
+.m-table-view .m-select {
+  width: auto;
+  margin-right: 15px;
+  min-width: 30px;
+  border-left: 1px #cccccc solid;
+}
+.m-table-view .m-select .select-text {
+  padding: 0 5px 0 10px;
+}
+.m-table-view .m-select :after {
+  position: absolute;
+  right: -15px;
+  top: 50%;
+  margin-top: -4.5px;
+  content: ' ';
+  background: url("../../images/icon.png") -270px -112px repeat;
+  width: 15px;
+  height: 9px;
+  background-size: 150px;
+}
+.m-table-view .m-input-date {
+  background: transparent;
+  text-align: right;
+  padding: 0;
+}
+.m-textarea {
+  margin-top: 0;
+}
+.service-view {
+  margin: 5px 0 5px 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.service-view span {
+  color: #000;
+  margin-right: 10px;
+}
+.btn-bar {
+  margin: 10px;
+}
+.btn-bar #add-more {
+  font-size: 14px;
+}
+/*
+	service-add.less 
+*/
+.m-page .m-table-view {
+  margin-top: 10px;
+}
+.message {
+  margin: 25px 15px;
+  text-align: center;
+}
+.message .success {
+  font-size: 16px;
+  color: #66cc22;
+}
+.message .tips {
+  font-size: 12px;
+  color: #999;
+  margin-top: 5px;
+}
+.m-table-view .m-select-place {
+  border-left: 0;
+  margin-right: 10px;
+}
+.m-table-view .m-select-place .select-text:after {
+  content: none;
+}

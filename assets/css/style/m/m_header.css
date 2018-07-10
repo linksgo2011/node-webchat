@@ -1,0 +1,138 @@
+/***************************************************
+* feature  :  全局头部，提供默认 深色(绿底白字) & 浅色(白底黑字)主题;
+* update   :  2015/02/03;
+* use      :  .m-header;
+* extend   :  .header-*;
+* example  :  <header class="m-header header-light"></header>;
+* desc     :  默认为深色主题, 通过 .header-light 来引用浅色主题;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+.head {
+  height: 44px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.logo {
+  width: 25px;
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+  background-position: -125px 11px;
+  margin: 0 15px;
+}
+.m-header {
+  z-index: 5;
+  color: #FFF;
+  background-color: #2caa3f;
+  position: relative;
+}
+.m-header.header-light {
+  background: rgba(255, 255, 255, 0.8);
+  color: #000;
+  box-shadow: inset 0 0 1px #ddd;
+}
+.m-header.header-light .text {
+  color: #666;
+}
+.m-header .head {
+  padding: 0 50px;
+  box-sizing: border-box;
+}
+.m-header .head h1 {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 44px;
+  font-weight: normal;
+  font-size: 18px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.m-header .lt-bar,
+.m-header .rt-bar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  min-width: 44px;
+  height: 100%;
+  cursor: pointer;
+}
+.m-header .lt-bar {
+  float: left;
+}
+.m-header .lt-bar.text {
+  padding-left: 10px;
+  text-align: left;
+}
+.m-header .rt-bar {
+  float: right;
+  left: auto;
+  right: 0;
+}
+.m-header .rt-bar.text {
+  padding-right: 10px;
+  text-align: right;
+}
+.m-header .text {
+  text-align: center;
+  line-height: 44px;
+  font-size: 15px;
+  color: #FFF;
+}
+.m-header.header-search .head {
+  padding: 7px 44px 7px 44px;
+}
+.m-header.header-search .search-box {
+  line-height: 30px;
+  font-size: 14px;
+  padding: 0 8px;
+  background-color: #55bb22;
+  border-radius: 3px;
+  height: 30px;
+  color: #eee;
+  cursor: text;
+  text-align: left;
+}
+.m-header.header-search .input-wrap {
+  overflow: hidden;
+  padding-left: 8px;
+  box-sizing: border-box;
+}
+.m-header.header-search .m-input {
+  float: left;
+  width: 98%;
+  display: block;
+  padding: 4px 0;
+  color: #FFF;
+}
+.m-header.header-search .m-input::-webkit-input-placeholder {
+  color: #EEE;
+}
+.m-header.header-search .m-dropdown {
+  float: left;
+}
+.m-header.header-search #search-btn {
+  background: none;
+  color: #fff;
+  font-size: 14px;
+}
+.m-header.header-home .head {
+  position: relative;
+  padding: 7px 10px 7px 44px;
+  margin-right: 0;
+}

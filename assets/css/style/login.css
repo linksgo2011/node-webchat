@@ -1,0 +1,123 @@
+/*zzf*/
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+.loginPageStyle .m-table-view {
+  background-color: #FFF;
+}
+.loginPageStyle .m-table-view .cell {
+  padding: 1px 15px 1px 38px;
+}
+.loginPageStyle .m-table-view .title {
+  line-height: 42px;
+  margin-left: -28px;
+  color: #333;
+}
+.loginPageStyle .m-table-view .text {
+  line-height: 42px;
+}
+.loginPageStyle .m-table-view .m-input {
+  float: left;
+  width: 100%;
+  padding: 10px 0;
+  color: #bbb;
+}
+.loginPageStyle .m-table-view .ver-code {
+  padding-right: 110px;
+  position: relative;
+}
+.loginPageStyle .m-table-view .ver-code .m-btn {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  margin-top: -12px;
+  width: 90px;
+}
+.loginPageStyle .m-table-view .ver-code a.gray-btn {
+  color: #ccc;
+  border: 1px solid #ccc;
+}
+.loginPageStyle .btn-bar {
+  text-align: center;
+  padding: 10px;
+}
+.loginPageStyle .btn-bar .m-btn {
+  display: block;
+}
+.loginPageStyle .phone-num {
+  margin: 15px;
+  font-size: 14px;
+}
+.loginPageStyle .tips {
+  font-size: 12px;
+  color: #999;
+  margin: 5px 15px 0;
+}
+.loginPageStyle .btns {
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+.loginPageStyle .btns .m-btn {
+  float: left;
+  width: 113px;
+}
+.loginPageStyle .btns .m-btn:last-child {
+  width: 115px;
+  float: right;
+}
+.loginPageStyle .forgot-pwd {
+  text-align: right;
+  display: block;
+  padding-right: 10px;
+  font-size: 14px;
+  color: #6EC6EC;
+}
+.loginPageStyle .license {
+  font-size: 13px;
+  color: #999;
+  margin: 15px;
+}
+.loginPageStyle .m-tab {
+  padding: 0;
+}
+.loginPageStyle .m-tab li {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 0;
+}
+.loginPageStyle .m-tab li a:before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 50%;
+  height: 30px;
+  width: 1px;
+  font-size: 0;
+  margin-top: -15px;
+  overflow: hidden;
+  background-color: #DDD;
+}
+.loginPageStyle .m-tab li:last-child a:before {
+  display: none;
+}
+.loginPageStyle .tip {
+  color: #999;
+  margin-left: 15px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+.loginPageStyle .user-name .cell,
+.loginPageStyle .user-phone .cell {
+  padding-left: 15px;
+}

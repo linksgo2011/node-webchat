@@ -1,0 +1,62 @@
+
+@import "m/var";
+/* Search UI Less */
+.display-inb (){
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+}
+.filter-detail {
+    background: url('@{iconURI}icon.png') no-repeat -121px -205px;
+    background-size: 150px;
+}
+
+
+
+.rback,
+.search-type,
+.black-arrow,
+.down-arrow,
+.up-arrow {
+    .display-inb;
+}
+.down-arrow,
+.up-arrow {
+    width: 12px;
+    height: 10px;
+    vertical-align: middle;
+    overflow: hidden;
+    /*92px 204px*/
+}
+.rback,
+.down-arrow,
+.up-arrow {
+    background: url('@{iconURI}icon.png') no-repeat -121px -205px;
+    background-size: 150px;
+}
+.rback {
+    width: 10px;
+    height: 30px;
+    background-position: -92px -165px;
+    float: left;
+}
+.rback-word {
+    vertical-align: middle;
+    overflow: hidden;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    color: @c-fff;
+}
+.up-arrow {
+    background-position: -92px -204px;
+}
+.black-arrow {
+    border-width: 0 8px 7px 8px;
+    border-color: transparent transparent #333 transparent;
+    border-style: solid;
+    position: absolute;
+    top: 23px;
+    left: 11px;
+}
+

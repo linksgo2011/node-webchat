@@ -1,0 +1,240 @@
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+.shoppingList {
+  background-color: #F5F5F5;
+}
+.shoppingList .font-red {
+  color: #fa4535;
+}
+.shoppingList .border-red {
+  border-color: #fa4535;
+}
+.shoppingList .m-page {
+  padding-bottom: 132px;
+}
+.shoppingList .m-table-view {
+  padding: 0 10px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #ddd;
+}
+.shoppingList .m-radio {
+  float: left;
+  margin-right: 15px;
+}
+.shoppingList .cell-extend-pic .m-radio {
+  margin-top: 20px;
+}
+.shoppingList .edit,
+.shoppingList .done {
+  color: #666;
+  font-size: 12px;
+  padding: 11px 0 11px 11px;
+}
+.shoppingList .edit {
+  display: inline-block;
+}
+.shoppingList .title {
+  padding: 11px 5px;
+}
+.shoppingList .done {
+  display: none;
+}
+.shoppingList .cell {
+  padding: 0px;
+}
+.shoppingList .cell:last-child {
+  border-bottom: none;
+}
+.shoppingList .m-input {
+  display: none;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 5px 8px;
+  width: 82px;
+  text-align: center;
+  color: #000;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+.shoppingList .remove {
+  position: absolute;
+  top: 15px;
+  padding: 0 11px;
+  right: 0;
+  font-size: 14px;
+  color: #FFF;
+  background-color: #fa4535;
+  border-radius: 3px;
+  text-align: center;
+  line-height: 45px;
+  display: none;
+}
+.shoppingList .cell-extend-pic {
+  padding: 15px 0 15px 5px;
+}
+.shoppingList .cell-extend-pic .pic {
+  margin: 0;
+  margin-right: 10px;
+}
+.shoppingList .cell-extend-pic .title {
+  color: #666;
+}
+.shoppingList .cell-extend-pic .tips-change {
+  padding-left: 35px;
+  margin-top: 5px;
+}
+.shoppingList .cell-extend-pic .title,
+.shoppingList .cell-extend-pic .detail {
+  margin: 0 70px 0 105px;
+  display: block;
+}
+.shoppingList .cell-extend-pic .title .tips,
+.shoppingList .cell-extend-pic .detail .tips {
+  display: none;
+}
+.shoppingList .cell-extend-pic .desc {
+  color: #999;
+}
+.shoppingList .cell-extend-pic .text {
+  right: -10px;
+  padding-right: 10px;
+  width: 70px;
+}
+.shoppingList .cell-extend-pic .text em {
+  display: inline;
+  font-style: normal;
+  font-weight: 700;
+}
+.shoppingList .cart {
+  margin-bottom: 10px;
+}
+.shoppingList .expi-product .expi-top {
+  padding: 0 10px;
+  background-color: #aaa;
+  line-height: 40px;
+  color: #FFF;
+  font-size: 14px;
+}
+.shoppingList .expi-product .expi-top .clear-expi {
+  margin-top: 7px;
+  display: inline-block;
+  border: 1px solid #FFF;
+  font-size: 12px;
+  line-height: 2;
+  color: #fff;
+  padding: 0 8px;
+  float: right;
+  border-radius: 3px;
+}
+.shoppingList .expi-product .m-table-view {
+  margin-top: 0;
+}
+.shoppingList .expi-product .cell-extend-pic .title,
+.shoppingList .expi-product .cell-extend-pic .detail {
+  margin: 0 70px;
+  display: block;
+}
+.shoppingList .extend {
+  float: right;
+  display: none;
+}
+.shoppingList .extend .m-input-number {
+  float: right;
+}
+.shoppingList .extend .m-btn {
+  font-size: 12px;
+  width: 40px;
+  float: right;
+  margin-left: 10px;
+}
+.shoppingList .extend .fav {
+  line-height: 1.5;
+  padding: 12px 0;
+}
+.shoppingList .extend .remove {
+  line-height: 60px;
+}
+.shoppingList .edit-mode .cell-extend-pic .title,
+.shoppingList .edit-mode .cell-extend-pic .text {
+  display: none;
+}
+.shoppingList .edit-mode .cell-extend-pic .detail .tips {
+  display: block;
+}
+.shoppingList .edit-mode .cell-extend-pic .m-input {
+  display: inline-block;
+}
+.shoppingList .edit-mode .cell-extend-pic .remove {
+  display: block;
+}
+.shoppingList .edit-mode .edit {
+  display: none;
+}
+.shoppingList .edit-mode .done {
+  display: inline-block;
+}
+.shoppingList .m-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 12px;
+  border-top: 1px solid #ddd;
+}
+.shoppingList .m-footer .total {
+  float: left;
+  line-height: 45px;
+  font-size: 16px;
+  color: #FA4535;
+  font-weight: 700;
+  text-align: left;
+}
+.shoppingList .m-footer .total em {
+  display: inline;
+  font-style: normal;
+}
+.shoppingList .m-footer .btn-success {
+  float: right;
+  min-width: 100px;
+}
+.shoppingList .expi {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -52px;
+  color: #FFF;
+  background-color: #aaa;
+  line-height: 40px;
+  padding: 0 10px;
+}
+.shoppingList .expi:before,
+.shoppingList .expi:after {
+  content: '';
+  position: absolute;
+  right: 7px;
+  top: 50%;
+  width: 0;
+  height: 0;
+  margin-top: -8px;
+  font-size: 0;
+  overflow: hidden;
+  border: 8px solid #000;
+  border-color: transparent transparent transparent #FFF;
+}
+.shoppingList .expi:after {
+  margin-right: 2px;
+  border-color: transparent transparent transparent #aaa;
+}

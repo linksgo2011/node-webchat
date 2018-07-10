@@ -1,0 +1,3 @@
+#!/bin/sh
+unzip node_webchat.zip
+rm node_webchat.zip

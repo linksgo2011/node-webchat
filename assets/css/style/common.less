@@ -1,0 +1,256 @@
+/***************************************************
+* feature  :  零散的ui组件的集合;
+* update   :  2015/02/03;
+* use      :  import 本文件;
+* desc     :  仅需在HTML Page引入本文件，即可调用到 reset、通用UI样式;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+
+
+
+//具体UI组件
+@import "m/m_reset";
+@import "m/var";
+@import "m/m_header"; 
+@import "m/m_footer";
+@import "m/m_icon";
+@import "m/m_segment";
+@import "m/m_table";
+@import "m/m_btn";
+@import "m/m_form";
+@import "m/m_mask";
+@import "m/m_popup";
+@import "m/m_slider";
+@import "m/m_stat";
+@import "m/m_like";
+@import "m/m_step";
+@import "m/m_message";
+@import "m/m_tips";
+@import "m/m_tab";
+@import "m/m_table_view";
+@import "m/m_actionsheet";
+@import "m/m_dropdown";
+@import "m/utilities";
+@import "m/m_bar";
+@import "m/jquery.mobile.custom.structure.min.css";
+// @import "m/animation";
+
+
+//extend & patch
+
+
+//dev 临时重置方案
+*{
+	margin: 0;
+	padding: 0;
+	border: none; 
+	-webkit-text-size-adjust: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+ul{
+	list-style: none;
+}
+
+.m-page{
+	padding-bottom: 80px;
+	// background-color: #FFF;
+}
+
+
+.m-list-text{
+	background-color: #FFF;
+	border-top: 1px solid #ddd;
+	li{
+		padding: 15px;
+		border-bottom: 1px solid #ddd;
+	}
+	.author{
+		float: right;
+		font-size: 12px;
+		color: #999;
+	}
+	p{
+		color: #666;
+		font-size: 14px;
+	}
+}
+
+//搜索
+.s-page{
+	position: fixed;
+	left: 0;
+	top:0;
+	width: 100%;
+	min-height: 100%;
+	background: #f5f5f5;
+	display: none;
+    z-index: 99;
+}
+
+
+
+//页面切换交互
+.transition-wrapper{
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	.m-page{
+		height: 100%;
+		overflow-x:hidden;
+		overflow-y:auto;  
+	}
+	body{
+		height: 100%;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+	}
+}
+.transition-up{
+	background: #F5F5F5;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 999;
+	overflow-x: hidden;
+	overflow-y: auto;
+	padding-bottom: 20px;
+	-webkit-transform: translate3d(0px,100%,0px);
+	-moz-transform: translate3d(0px,100%,0px);
+	transform: translate3d(0px,100%,0px);
+	-webkit-transition: -webkit-transform 0.3s cubic-bezier(0.55,0.055,0.675,0.19);
+	-moz-transition: -moz-transform 0.3s cubic-bezier(0.55,0.055,0.675,0.19);
+	-o-transition: -o-transform 0.3s cubic-bezier(0.55,0.055,0.675,0.19);
+	transition: transform 0.3s cubic-bezier(0.55,0.055,0.675,0.19);
+	// display: none;
+    .transition-content{
+    	min-height: 100%;
+    	overflow-x: hidden;
+		overflow-y: auto;
+    }
+    &.show{
+    	// display: block;
+    	-webkit-transform: translate3d(0px,0%,0px);
+		-moz-transform: translate3d(0px,0%,0px);
+		transform: translate3d(0px,0%,0px);
+		-webkit-transition: -webkit-transform 0.3s cubic-bezier(0.165,0.840,0.440,1.000);
+		-moz-transition: -moz-transform 0.3s cubic-bezier(0.165,0.840,0.440,1.000);
+		-o-transition: -o-transform 0.3s cubic-bezier(0.165,0.840,0.440,1.000);
+		transition: transform 0.3s cubic-bezier(0.165,0.840,0.440,1.000);
+    }
+}
+
+ // 没有数据
+ .m-no-data{
+ 	margin-top: 50px;
+ 	text-align: center;
+ 	font-size: 18px;
+ 	color:#666;
+ 	.no-data-icon{
+ 		height: 150px;
+ 		background:url("@{imgURI}no-data.png") center center no-repeat;
+ 		background-size: 150px;
+ 		margin-bottom: 20px;
+ 	}
+ }
+
+
+// 城市选择
+
+.m-city{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 70%;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+// app download
+
+.to-app-box{
+	position: fixed;
+	bottom: -100%;
+	left: 0;
+	width: 100%;
+	.ll{
+		float: left;
+	}
+	.rr{
+		float: right;
+	}
+	.to-app-bg{
+		padding: 10px;
+		background: rgba(0, 0, 0, 0.70);
+	}
+	.app-close,
+	.app-logo,
+	.app-info{
+		display: inline-block;
+		vertical-align: middle;
+		margin-right: 10px;
+	}
+	.app-close{
+		width: 18px;
+		height: 19px;
+		background: url("../../images/icon/d-x.png") 0 0 no-repeat;
+		background-size: 18px;
+	}
+	.app-logo{
+		width: 35px;
+		height: 35px;
+		background: url("../../images/icon/d-logo.png") 0 0 no-repeat;
+		background-size: 35px;
+	}
+	.app-info{
+		color: #fff;
+		font-size: 15px;
+		p{
+			font-size: 12px;
+		}
+	}
+	.app-download{
+		width: 89px;
+		height: 36px;
+		margin-top: 3px;
+		background: url("../../images/icon/d-btn.png") 0 0 no-repeat;
+		background-size: 87px;
+	}
+}
+
+/*重置按钮*/
+.clear-view {
+  text-align: center;
+  padding-top: 10px;
+  .m-btn {
+    padding: 0 30px;
+    line-height: 40px;
+  }
+}
+
+.ui-loader-default{
+	width: 4.125em;
+	height: 4.125em;
+	margin-left: -2.0625em;
+	margin-top: -2.0625em;
+	filter: Alpha(Opacity=100);
+  	opacity: 1;
+}
+
+.ui-loader .ui-icon-loading{
+	width: 4em;
+	height: 4em;
+	border-radius: 0;
+	background-color: transparent;
+}
+
+.ui-icon-loading {
+  background: url(../../images/ajax-loader.gif) center center no-repeat;
+  background-size: 4.125em 4.125em;
+}
+
+

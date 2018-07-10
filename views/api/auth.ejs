@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <!-- <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" /> -->
+        <meta content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" name="viewport" />
+        <title>解除关联</title>
+        <link rel="stylesheet" href="/css/style/common.css">
+        <script src="http://static.nong12.com/static/newStatic/common/js/base/sea.js"></script>
+        <!-- config -->
+        <script src="/js/javascript/common/config.js"></script>
+        <link rel="stylesheet" href="/css/style/order_success.css">
+        <style type="text/css">
+            #relevance-succeed p{
+                text-align: left;
+                padding-left: 50px;
+            }
+        </style>
+    </head>
+    <body id="relevance-succeed" class="orderSuccess">
+        <div class="m-page">
+            <header class="m-header">
+                <div class="head">
+                    <h1>登陆失败</h1>
+                </div>
+            </header>
+            <section class="m-content">
+                <img src="/images/order_success@2x.png">
+                <h4>您的农丰账号异常，和该微信绑定已解除，您可以重新绑定！</h4>
+                <p>可能的原因有：</p>
+                <p>1、农丰网登录账号已变更;</p>
+                <p>2、农丰网账号密码已变更;</p>
+                <p>3、农丰网账号被锁定;</p>
+                <a href="/UserRelevance/index?open_id=<%=open_id%>" class="m-btn btn-success">重新绑定</a>
+            </section>
+        </div>
+        <script>
+            seajs.use(['/js/javascript/common/common']);
+        </script>
+    </body>
+</html>

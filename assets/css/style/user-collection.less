@@ -1,0 +1,131 @@
+/*zzf*/
+
+// @import "./m-public";/*基类*/
+// @import "./m-btn";/*按钮类*/
+// @import "./m-tab";/*切换*/
+// @import "./m-form";/*表单*/
+// @import "./m-list-view";/*列表显示类*/
+@import "m/var";
+.favPageStyle{
+.m-tab {
+    width: 100%;
+    .on {
+        width: 50%;
+    }
+}
+
+.list-view {
+    .info {
+        margin: 0 35px 25px 0;
+    }
+    a {
+        position: relative;
+        display: block;
+        .l-right {
+            position: absolute;
+            right: 15px;
+            top: 35px;
+        }
+        span.icon-more {
+            background: url("../../images/icon.png") -31px -236px repeat;
+            width: 9px;
+            height: 15px;
+            display: inline-block;
+            background-size: 150px;
+        }
+    }
+}
+
+.m-footer {
+    display: none;
+    -webkit-animation: fadeOutDownBig 1s .2s ease both;
+    -moz-animation: fadeOutDownBig 1s .2s ease both;
+    text-align: center;
+    .m-btn {
+        width: 130px;
+    }
+}
+
+.m-footer-am {
+    -webkit-animation: fadeInUpBig 1s .2s ease both;
+    -moz-animation: fadeInUpBig 1s .2s ease both;
+}
+
+.m-tab {
+    li {
+        padding-right: 0;
+    }
+}
+
+.m-table-view {
+    .cell {
+        overflow: initial;
+        padding-left: 110px;
+        -webkit-animation: fadeIn 1s .2s ease both;
+        -moz-animation: fadeIn 1s .2s ease both;
+        .pic {
+            width: 80px;
+            height: 80px;
+            margin-left: -95px;
+        }
+        .title {
+            font-size: 14px;
+        }
+        .m-radio {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            margin-top: -10px;
+//            display: none;
+//            -webkit-animation: fadeOutRight 1s .2s ease both;
+//            -moz-animation: fadeOutRight 1s .2s ease both;
+        }
+        .m-radio-am {
+            -webkit-animation: fadeInRightBig 1s .2s ease both;
+            -moz-animation: fadeInRightBig 1s .2s ease both;
+        }
+    }
+    .cell-am:after {
+        -webkit-animation: fadeOut 1s .2s ease both;
+        -moz-animation: fadeOut 1s .2s ease both;
+    }
+    margin-top: 0;
+    border-top: none;
+}
+
+.goods-list{
+  margin-top: 0;
+  border-top: none;
+  .cell{
+    min-height: 80px;
+      .pic{
+          width: 80px;
+          height: 80px;
+          margin-left: -95px;
+      }
+      .title{
+          padding-bottom: 30px;
+          color: #666;
+          font-size: 14px;
+      }
+      padding: 15px 15px 15px 110px;
+  }
+  .btm{
+      position: absolute;
+      bottom: 15px;
+      right: 15px;
+      left: 110px;
+      em{
+          font-style: normal;
+          color: #FA4535;
+          font-size: 16px;
+          font-weight: 700;
+      }
+      .source{
+          float: right;
+          font-size: 12px;
+          color: #999;
+      }
+  }
+}
+}

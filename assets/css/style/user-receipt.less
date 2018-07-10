@@ -1,0 +1,101 @@
+/*zzf*/
+
+// @import "./m-public";基类
+// @import "./m-form";
+
+@import "m/var";
+
+.receipt-list {
+  margin-top: 10px;
+  border-bottom: 1px solid @br-ddd;
+  border-top: 1px solid @br-ddd;
+  background: @bg-fff;
+  .head {
+    height: 45px;
+    border-bottom: 1px solid @br-ddd;
+    line-height: 45px;
+    input[type='radio'] {
+      float: left;
+      margin-left: 15px;
+      margin-top: 13px;
+    }
+    p {
+      float: left;
+      margin-left: 15px;
+      font-size: 14px;
+    }
+    a {
+      float: right;
+      margin-right: 10px;
+      font-size: 12px;
+      color: #666;
+    }
+  }
+  .list {
+    padding: 0 10px;
+    li {
+      position: relative;
+      padding: 15px 0;
+      border-bottom: 1px solid @br-ddd;
+    }
+    .cont {
+      display:-moz-box;
+      display:-webkit-box;
+      display:box;
+      .selected {
+        -moz-box-flex:1;
+        -webkit-box-flex:1;
+        box-flex:1;
+        display: inline-block;
+        input[type='radio'] {
+          margin-left: 5px;
+          vertical-align: middle;
+          margin-right: 10px;
+          display: inline-block;
+        }
+        .img, .img img {
+          width: 60px;
+          height: 60px;
+          display: inline-block;
+        }
+      }
+      .msg {
+        margin-left: 10px;
+        margin-right: 10px;
+        -moz-box-flex:3;
+        -webkit-box-flex:3;
+        box-flex:3;
+        a {
+          color: #666;
+          font-size: 12px;
+          position: relative;
+          overflow: hidden;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          word-break: break-all;
+        }
+        p {
+          color: #999;
+          font-size: 12px;
+        }
+      }
+      .price {
+        display: inline-block;
+        vertical-align: top;
+        -moz-box-flex:2;
+        -webkit-box-flex:2;
+        box-flex:2;
+        p {
+          font-size: 12px;
+          color: #000;
+        }
+      }
+    }
+    .operation {
+      position: absolute;
+      right: 0px;
+      display: none;
+    }
+  }
+}

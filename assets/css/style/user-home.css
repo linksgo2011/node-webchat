@@ -1,0 +1,343 @@
+/*zzf*/
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+header {
+  margin: 0px;
+  padding: 0px;
+}
+.content {
+  background: #f5f5f5;
+}
+/*用户信息*/
+.user-info {
+  background: url("../../images/user-home.png") center center repeat-x;
+  width: 100%;
+  height: 120px;
+  display: inline-block;
+}
+@-webkit-keyframes flipInX {
+  0% {
+    -webkit-transform: perspective(400px) rotateX(90deg);
+    opacity: 0;
+  }
+  40% {
+    -webkit-transform: perspective(400px) rotateX(-10deg);
+  }
+  70% {
+    -webkit-transform: perspective(400px) rotateX(10deg);
+  }
+  100% {
+    -webkit-transform: perspective(400px) rotateX(0deg);
+    opacity: 1;
+  }
+}
+@-moz-keyframes flipInX {
+  0% {
+    -moz-transform: perspective(400px) rotateX(90deg);
+    opacity: 0;
+  }
+  40% {
+    -moz-transform: perspective(400px) rotateX(-10deg);
+  }
+  70% {
+    -moz-transform: perspective(400px) rotateX(10deg);
+  }
+  100% {
+    -moz-transform: perspective(400px) rotateX(0deg);
+    opacity: 1;
+  }
+}
+.user-login-am {
+  -webkit-animation: flipInX 0.5s .1s ease both;
+  -moz-animation: flipInX 0.5s .1s ease both;
+}
+.user-login {
+  height: 60px;
+  margin: 18px 20px 0 20px;
+  display: none;
+}
+.user-login img {
+  width: 60px;
+  height: 60px;
+  background: #ffffff;
+  border-radius: 50%;
+  display: inline-block;
+}
+.user-login .msg {
+  display: inline-block;
+  color: #fff;
+  position: relative;
+  top: 15px;
+  left: 10px;
+}
+.user-login .msg p {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.user-login .msg span {
+  font-size: 14px;
+}
+.user-login .icon-more-white {
+  float: right;
+  margin-top: 22px;
+}
+@-webkit-keyframes flipOutX {
+  0% {
+    -webkit-transform: perspective(400px) rotateX(0deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: perspective(400px) rotateX(90deg);
+    opacity: 0;
+  }
+}
+@-moz-keyframes flipOutX {
+  0% {
+    -moz-transform: perspective(400px) rotateX(0deg);
+    opacity: 1;
+  }
+  100% {
+    -moz-transform: perspective(400px) rotateX(90deg);
+    opacity: 0;
+  }
+}
+.user-logout-am {
+  -webkit-animation: flipOutX 0.5s .1s ease both;
+  -moz-animation: flipOutX 0.5s .1s ease both;
+}
+.user-logout {
+  width: 150px;
+  height: 30px;
+  border: 2px solid #ffffff;
+  margin: 30px auto 30px;
+  display: block;
+  text-align: center;
+  line-height: 30px;
+  color: #ffffff;
+  font-size: 1.2em;
+  border-radius: 5px;
+}
+.user-tools {
+  height: 55px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  margin-top: 17px;
+}
+.user-tools li {
+  width: 33.1%;
+  float: left;
+  text-align: center;
+  margin: 6px 0;
+  color: #ffffff;
+}
+.user-tools li p {
+  color: #ffffff;
+}
+.user-tools li.br {
+  border-right: 1px solid rgba(255, 255, 255, 0.4);
+}
+/*采购单*/
+.user-po {
+  margin-top: 10px;
+  background: #ffffff;
+  border-top: 1px solid #dddddd;
+}
+.user-po .po-more {
+  height: 45px;
+  border-bottom: 1px solid #dddddd;
+}
+.user-po .po-more .float-left {
+  margin: 10px 0 10px 15px;
+}
+.user-po .po-more .float-left p {
+  display: inline-block;
+  position: relative;
+  top: -4px;
+  left: 5px;
+  font-size: 14px;
+}
+.user-po .po-more .float-right {
+  margin: 15px 15px 10px 0px;
+}
+.user-po .po-more .float-right p {
+  display: inline-block;
+  position: relative;
+  font-size: 12px;
+  top: -1px;
+  right: 5px;
+  color: #bbbbbb;
+  float: left;
+}
+.user-po .po-more .float-right .icon-more {
+  float: left;
+}
+.user-po .po-list {
+  border-bottom: 1px solid #dddddd;
+  height: 50px;
+}
+.user-po .po-list ul {
+  display: -moz-box;
+  display: -webkit-box;
+  display: box;
+  -webkit-flex-flow: row;
+  flex-flow: row;
+  width: 100%;
+  position: relative;
+}
+.user-po .po-list li {
+  text-align: center;
+  margin-top: 5px;
+  overflow: hidden;
+  -moz-box-flex: 1;
+  -webkit-box-flex: 1;
+  box-flex: 1;
+}
+.user-po .po-list li a {
+  display: block;
+  border-right: 1px solid #dddddd;
+}
+.user-po .po-list li p {
+  font-size: 12px;
+  color: #666666;
+}
+.user-po .po-list li span {
+  font-size: 16px;
+}
+/*列表*/
+.list-result {
+  margin-top: 10px;
+  border-top: 1px solid #ddd;
+}
+.list-result li {
+  padding: 0px;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+}
+.list-result a {
+  height: 45px;
+  padding: 0px;
+}
+.list-result span {
+  float: left;
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.list-result p {
+  float: left;
+  font-size: 14px;
+  line-height: 45px;
+}
+.list-result span.icon-more {
+  float: right;
+  margin: 15px 15px 15px 0;
+}
+/*icon*/
+/*icon*/
+span.icon-focus {
+  background: url("../../images/icon.png") -30px -170px repeat;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-collection {
+  background: url("../../images/icon.png") -60px -170px repeat;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-supply {
+  background: url("../../images/icon.png") 0px -170px repeat;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-po {
+  background: url("../../images/user-icon.png") -90px -1px repeat;
+  width: 20px;
+  height: 21px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-credit {
+  background: url("../../images/user-icon.png") -68px -23px repeat;
+  width: 23px;
+  height: 20px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-refund {
+  background: url("../../images/user-icon.png") -112px 0 repeat;
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-service {
+  background: url("../../images/user-icon.png") -67px -1px repeat;
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-share {
+  background: url("../../images/user-icon.png") -45px -1px repeat;
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-opinion {
+  background: url("../../images/user-icon.png") -195px -22px repeat;
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-setup {
+  background: url("../../images/user-icon.png") -111px -21px repeat;
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-more {
+  background: url("../../images/icon.png") -31px -236px repeat;
+  width: 9px;
+  height: 16px;
+  display: inline-block;
+  background-size: 150px;
+}
+span.icon-more-white {
+  background: url("../../images/icon.png") 0px -217px repeat;
+  width: 22px;
+  height: 21px;
+  display: inline-block;
+  background-size: 150px;
+}
+.logout-btn {
+  display: block;
+  border-radius: 3px;
+  text-align: center;
+  color: #fa4535;
+  font-size: 16px;
+  background-color: #FFF;
+  border: 1px solid #ddd;
+  line-height: 40px;
+  margin: 30px 10px 15px;
+}

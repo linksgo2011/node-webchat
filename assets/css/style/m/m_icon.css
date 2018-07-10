@@ -1,0 +1,216 @@
+/***************************************************
+* feature  :  全局icon库，提供常用icon集合;
+* update   :  2015/02/03;
+* use      :  .m-icon;
+* extend   :  .icon-*;
+* example  :  <i class="m-icon icon-back">返回<i>;
+* desc     :  默认为深色或彩色icon, 通过 .white 来引用白色icon;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+.m-icon {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+  text-indent: -999em;
+  overflow: hidden;
+  background: url("../../images/icon/bank_card.png") center center no-repeat;
+}
+.m-icon.icon-back {
+  background-image: url("../../images/icon/arrow_rt@2x.png");
+  background-size: 10px;
+  -webkit-transform: rotateZ(180deg);
+  -ms-transform: rotateZ(180deg);
+  -o-transform: rotateZ(180deg);
+  transform: rotateZ(180deg);
+}
+.m-icon.icon-back.white {
+  background-image: url("../../images/icon/arrow_rt_white@2x.png");
+}
+.m-icon.icon-more {
+  background-image: url("../../images/icon/more@2x.png");
+  background-size: 20px;
+}
+.m-icon.icon-more.white {
+  background-image: url("../../images/icon/more_white@2x.png");
+}
+.m-icon.icon-scan {
+  background-image: url("../../images/icon/scan@2x.png");
+  background-size: 22px;
+}
+.m-icon.icon-scan.white {
+  background-image: url("../../images/icon/scan_white@2x.png");
+  background-size: 25px;
+}
+.m-icon.icon-fav {
+  background-image: url("../../images/icon/fav@2x.png");
+  background-size: 25px;
+}
+.m-icon.icon-fav.on {
+  background-image: url("../../images/icon/fav_ht@2x.png");
+}
+.m-icon.icon-fav.white {
+  background-image: url("../../images/icon/fav_white@2x.png");
+}
+.m-icon.icon-fav.white.on {
+  background-image: url("../../images/icon/fav_white_ht@2x.png");
+}
+.m-icon.icon-bank-card {
+  background-image: url("../../images/icon/bank_card.png");
+  background-size: 25px;
+}
+.m-icon.icon-wallet {
+  background-image: url("../../images/icon/wallet.png");
+  background-size: 25px;
+}
+.m-icon.icon-user {
+  background-image: url("../../images/user-icon.png");
+  background-size: 150px;
+  background-position: -132px -44px;
+  width: 18px;
+  height: 20px;
+}
+.m-icon.icon-logo {
+  width: 25px;
+  height: 44px;
+  background: url("../../images/icon.png") -125px 11px no-repeat;
+  background-size: 150px;
+}
+.m-icon.icon-pas {
+  background-image: url("../../images/user-icon.png");
+  background-size: 150px;
+  background-position: -132px -44px;
+  width: 18px;
+  height: 20px;
+}
+.m-icon.icon-pwd {
+  background-image: url("../../images/user-icon.png");
+  background-size: 150px;
+  background-position: -132px -21px;
+  width: 18px;
+  height: 23px;
+}
+.m-icon.icon-msg {
+  background-image: url("../../images/user-icon.png");
+  background-size: 150px;
+  background-position: 0px -48px;
+  width: 18px;
+  height: 20px;
+}
+.m-icon.icon-lock {
+  background-image: url("../../images/user-icon.png");
+  background-size: 150px;
+  background-position: -61px -61px;
+  width: 18px;
+  height: 20px;
+}
+.m-icon.icon-location {
+  width: 14px;
+  height: 20px;
+  background: url("../../images/icon.png") -41px -282px no-repeat;
+  background-size: 150px;
+}
+.m-icon.icon-search {
+  width: 20px;
+  height: 20px;
+  background: url("../../images/icon.png") -59px -141px no-repeat;
+  background-size: 150px;
+}
+.m-icon.icon-bag {
+  background: url("../../images/icon.png") -122px -143px no-repeat;
+  background-size: 150px;
+  width: 16px;
+  height: 16px;
+}
+.m-icon.icon-shop {
+  width: 16px;
+  height: 16px;
+  background: url("../../images/icon.png") -92px -143px no-repeat;
+  background-size: 150px;
+}
+.m-icon.icon-history {
+  width: 16px;
+  height: 16px;
+  background: url("../../images/icon.png") -30px -220px no-repeat;
+  background-size: 150px;
+}
+.m-icon.icon-up {
+  width: 12px;
+  height: 16px;
+  background: url("../../images/icon.png") -60px -220px no-repeat;
+  background-size: 150px;
+  margin-top: -2px;
+}
+.m-icon.icon-down {
+  width: 12px;
+  height: 16px;
+  background: url("../../images/icon.png") -89px -220px no-repeat;
+  background-size: 150px;
+  margin-top: -1px;
+}
+.m-icon.icon-add {
+  width: 16px;
+  height: 16px;
+  background: url("../../images/icon.png") -60px -112px no-repeat;
+  background-size: 150px;
+  margin: -4px 5px 0 0;
+}
+.m-icon.icon-call {
+  background-image: url("../../images/icon/call_white@2x.png");
+  background-size: 25px;
+}
+.m-icon.icon-call.white {
+  background-image: url("../../images/icon/call_white@2x.png");
+  background-size: 25px;
+}
+.m-icon.icon-about {
+  background-image: url("../../images/icon-1-3.png");
+  background-position: 0px -111px;
+  width: 60px;
+  height: 60px;
+  background-size: 250px;
+}
+.m-icon.icon-use {
+  background-image: url("../../images/icon-1-3.png");
+  background-position: -61px -110px;
+  width: 60px;
+  height: 60px;
+  background-size: 250px;
+}
+.m-icon.icon-overdue {
+  background-image: url("../../images/icon-1-3.png");
+  background-position: -123px -110px;
+  width: 60px;
+  height: 60px;
+  background-size: 250px;
+}
+.m-icon.icon-arrows {
+  background-image: url("../../images/zhixiang.png");
+  width: 30px;
+  height: 20px;
+  background-size: 30px;
+}
+.remove-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url("../../images/icon.png");
+  background-size: 150px;
+  background-position: -30px -140px;
+}

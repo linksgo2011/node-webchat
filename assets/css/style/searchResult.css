@@ -1,0 +1,270 @@
+/***************************************************
+* feature  :  变量配置;
+* update   :  2015/02/05;
+* use      :  ;
+* extend   :  ;
+* example  :  ;
+* desc     :  ;
+* feedback :  此处填入 issue, 并请附带以下信息[os_version, browser_version, page_path, issue_description]
+*          -  demo => [windows 7, IE 8, http://diligrp.com/icon.html, 在不定height下未能垂直居中];
+****************************************************/
+.bg-img {
+  background: url('../../images/icon/icon.png') no-repeat;
+  background-size: 150px;
+}
+/* searchFilter.less */
+.filter-area .list-view {
+  margin-top: 10px;
+}
+.filter-area h2 {
+  height: 45px;
+  line-height: 45px;
+  border-bottom: 1px #ddd solid;
+  color: #999;
+  font-size: 14px;
+  padding-left: 15px;
+  font-weight: normal;
+}
+.filter-area h3 {
+  height: 30px;
+  font: 14px/30px normal;
+  background: #eee;
+}
+.filter-area h3,
+.filter-area li {
+  padding-left: 15px;
+}
+.filter-area li {
+  cursor: pointer;
+}
+.filter-area .search-area {
+  background-color: transparent;
+  text-align: center;
+}
+.filter-area .list-view li {
+  position: relative;
+}
+.filter-area .attr {
+  margin-left: 15px;
+  font-size: 14px;
+}
+.filter-area .attr .filter-attr {
+  float: right;
+  color: #999999;
+  margin-right: 40px;
+}
+.filter-area .pric {
+  height: 30px;
+  line-height: 30px;
+}
+.filter-area .pric .filter-attr {
+  margin-right: 20px;
+}
+.filter-area .filter-header {
+  position: relative;
+}
+.filter-area .filter-word {
+  font-size: 18px;
+  color: #fff;
+}
+.filter-area .filter-attr b {
+  color: #333;
+  font-weight: 100;
+  margin-left: 10px;
+}
+.filter-area .p-min,
+.filter-area .p-max {
+  border: 1px solid #ddd;
+  background: #f5f5f5;
+  border-radius: 3px;
+  width: 53px;
+  height: 28px;
+  padding-left: 5px;
+  vertical-align: middle;
+}
+.filter-on {
+  left: 0%;
+  width: 100%;
+}
+.f-province .list-view,
+.f-city .list-view,
+.f-district .list-view {
+  margin-top: 0;
+}
+.f-province h2 {
+  font-weight: normal;
+  height: 45px;
+  line-height: 45px;
+  padding-left: 15px;
+}
+.f-province .m-table-view {
+  margin-top: 0;
+}
+.f-province .m-table-view a {
+  display: block;
+  float: none;
+  text-align: left;
+}
+.cover-layer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  top: 0;
+}
+.layer-content {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.layer-content .list-view {
+  background: #f4f4f4;
+  padding: 20px 0;
+}
+.layer-content .list-view li {
+  background: #f4f4f4;
+  border-color: transparent;
+}
+.cover-completed {
+  height: 40px;
+  line-height: 40px;
+  text-align: right;
+  background: #ddd;
+}
+.cover-completed span {
+  display: inline-block;
+  margin: 0 10px;
+  color: #0a7efd;
+}
+.price-range .text {
+  color: #333;
+}
+.searchResultPage html,
+.searchResultPage body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.searchResultPage .m-page {
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.searchResultPage.ui-page-active {
+  height: 100%;
+  overflow: hidden;
+}
+.searchResultPage .m-page {
+  padding-bottom: 0;
+}
+.searchResultPage .view-shop li {
+  position: relative;
+}
+.searchResultPage .view-shop .info {
+  margin: 0 45px 5px 0;
+}
+.searchResultPage .view-shop .attr {
+  color: #999;
+  font-size: 12px;
+}
+.searchResultPage .view-shop .attr p {
+  height: 18px;
+  overflow: hidden;
+}
+.searchResultPage .view-shop .attr span {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 50%;
+}
+.searchResultPage .m-tab {
+  padding: 0;
+}
+.searchResultPage .m-tab li {
+  width: 33.3%;
+  box-sizing: border-box;
+  padding: 0;
+}
+.searchResultPage .m-tab li a:before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 50%;
+  height: 30px;
+  width: 1px;
+  font-size: 0;
+  margin-top: -15px;
+  overflow: hidden;
+  background-color: #DDD;
+}
+.searchResultPage .m-tab li:last-child {
+  float: right;
+}
+.searchResultPage .m-tab li:last-child a:before {
+  display: none;
+}
+.searchResultPage .m-tab li.on .icon-up {
+  background-position: -120px -220px;
+}
+.searchResultPage .m-tab li.on .icon-down {
+  background-position: 0px -236px;
+}
+.searchResultPage .f-content .m-table-view {
+  margin-top: 10px;
+}
+.searchResultPage .f-content .m-select {
+  margin-right: 15px;
+}
+.searchResultPage #goods-list-view {
+  margin-top: 0;
+  border-top: none;
+}
+.searchResultPage #goods-list-view .cell {
+  padding: 15px 15px 15px 110px;
+}
+.searchResultPage #goods-list-view .cell .pic {
+  width: 80px;
+  height: 80px;
+  margin-left: -95px;
+}
+.searchResultPage #goods-list-view .cell .title {
+  padding-bottom: 30px;
+  color: #666;
+  font-size: 14px;
+}
+.searchResultPage #goods-list-view .btm {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  left: 110px;
+}
+.searchResultPage #goods-list-view .btm em {
+  font-style: normal;
+  color: #FA4535;
+  font-size: 16px;
+  font-weight: 700;
+}
+.searchResultPage #goods-list-view .btm .source {
+  float: right;
+  font-size: 12px;
+  color: #999;
+}
+.searchResultPage .shop-list .cell .title {
+  padding-bottom: 0;
+}
+.searchResultPage .m-table-view {
+  margin-top: 0;
+}
+.searchResultPage .m-table-view .cell.on {
+  background-color: #ddd;
+}
+.searchResultPage #list-loading {
+  text-align: center;
+  margin: 10px;
+  color: #999;
+  font-size: 14px;
+  display: none;
+}
