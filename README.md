@@ -1,3 +1,4 @@
 # node_wechat
 
-a [Sails](http://sailsjs.org) application
+A application to integrate wechat via NodeJS
+
